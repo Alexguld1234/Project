@@ -1,0 +1,1 @@
+{"id": 64, "problem": "A classroom has 4 rows with 9 desks in each row. How many desks are in the classroom?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "4 * 9 = <<4*9=36>>36 desks\n#### 36", "gold_answer": "36"}

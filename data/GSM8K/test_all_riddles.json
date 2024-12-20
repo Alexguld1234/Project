@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 0,
+        "problem": "I am thinking of a number. It’s the number of sides on a triangle minus the number of wheels on a bicycle. What is it?",
+        "solution": "A triangle has 3 sides, a bicycle has 2 wheels, 3 - 2 = <<3-2=1>>1\n#### 1"
+    },
+    {
+        "id": 1,
+        "problem": "If you start with 10 and remove the number of fingers on one hand, how many remain?",
+        "solution": "One hand has 5 fingers, 10 - 5 = <<10-5=5>>5\n#### 5"
+    },
+    {
+        "id": 2,
+        "problem": "Double the number of legs a human has, then add the number of heads a human has. What do you get?",
+        "solution": "Legs on a human: 2. Double = 4. Heads: 1. 4+1=<<4+1=5>>5\n#### 5"
+    },
+    {
+        "id": 3,
+        "problem": "Think of the smallest even prime number. What is it?",
+        "solution": "The smallest even prime number is <<2=2>>2\n#### 2"
+    },
+    {
+        "id": 4,
+        "problem": "If you add the number of days in a weekend (Saturday and Sunday) to the number of continents (7), what do you get?",
+        "solution": "Weekend days:2. Continents:7. 2+7=<<2+7=9>>9\n#### 9"
+    },
+    {
+        "id": 5,
+        "problem": "Subtract the number of sides on a square from the number of sides on a pentagon. What remains?",
+        "solution": "Pentagon sides:5. Square sides:4. 5-4=<<5-4=1>>1\n#### 1"
+    },
+    {
+        "id": 6,
+        "problem": "If you have three coins totaling 3 cents, and one of them is a penny, how many pennies do you have in total?",
+        "solution": "The only way to have 3 cents from 3 coins is all pennies. That’s 3 pennies.\n#### 3"
+    },
+    {
+        "id": 7,
+        "problem": "Take the number of legs on a spider and divide by the number of legs on a cat, then multiply by the number of noses on a human. What is the result?",
+        "solution": "Spider legs:8, Cat legs:4, 8/4=2, Human noses=1. 2*1=<<2*1=2>>2\n#### 2"
+    },
+    {
+        "id": 8,
+        "problem": "Add the number of hours in half a day to the number of wheels on a unicycle. What do you get?",
+        "solution": "Half a day=12 hours. Unicycle wheels=1. 12+1=<<12+1=13>>13\n#### 13"
+    },
+    {
+        "id": 9,
+        "problem": "What do you get if you take the number of letters in the word 'MATH' and multiply by the number of toes on a typical human foot?",
+        "solution": "'MATH' has 4 letters. A human foot has 5 toes. 4*5=<<4*5=20>>20\n#### 20"
+    },
+    {
+        "id": 10,
+        "problem": "Take the number of planets in our Solar System (currently recognized) and add the number of rings on a typical Olympic logo. What's the sum?",
+        "solution": "Planets now:8. Olympic rings:5. 8+5=<<8+5=13>>13\n#### 13"
+    },
+    {
+        "id": 11,
+        "problem": "What is the sum of the first prime number and the number of sides on a hexagon?",
+        "solution": "First prime:2. Hexagon sides:6. 2+6=<<2+6=8>>8\n#### 8"
+    },
+    {
+        "id": 12,
+        "problem": "If you take the number of letters in 'CAT', multiply by the number of wheels on a tricycle, and then subtract 2, what do you get?",
+        "solution": "'CAT' has 3 letters. Tricycle wheels=3. 3*3=9. 9-2=<<9-2=7>>7\n#### 7"
+    },
+    {
+        "id": 13,
+        "problem": "If you have a dozen eggs and you break half of them, how many unbroken eggs remain?",
+        "solution": "A dozen=12. Half broken=6. Unbroken=12-6=<<12-6=6>>6\n#### 6"
+    },
+    {
+        "id": 14,
+        "problem": "How many minutes are there in one quarter of an hour?",
+        "solution": "A quarter of an hour=15 minutes\n#### 15"
+    },
+    {
+        "id": 15,
+        "problem": "If you have the number of dwarfs who accompanied Snow White and you add the number of wonders of the ancient world, what’s the total?",
+        "solution": "Dwarfs:7. Wonders:7. 7+7=<<7+7=14>>14\n#### 14"
+    },
+    {
+        "id": 16,
+        "problem": "Take the number of strings on a standard guitar and subtract the number of legs on a typical chair. What is the result?",
+        "solution": "Guitar strings:6, Chair legs:4, 6-4=<<6-4=2>>2\n#### 2"
+    },
+    {
+        "id": 17,
+        "problem": "Add the number of sides on an octagon to the number of corners on a triangle.",
+        "solution": "Octagon sides=8. Triangle corners=3. 8+3=<<8+3=11>>11\n#### 11"
+    },
+    {
+        "id": 18,
+        "problem": "If you multiply the number of points on a starfish by the number of eyes on a needle, what do you get?",
+        "solution": "Starfish points=5, Needle eyes=1, 5*1=<<5*1=5>>5\n#### 5"
+    },
+    {
+        "id": 19,
+        "problem": "How many days are in a week plus the number of letters in the word 'DAY'?",
+        "solution": "Days in a week=7. 'DAY' has 3 letters. 7+3=<<7+3=10>>10\n#### 10"
+    },
+    {
+        "id": 20,
+        "problem": "Multiply the number of seasons in a year by the number of times you clap your hands if you clap once.",
+        "solution": "Seasons in a year:4. Clap once:1. 4*1=<<4*1=4>>4\n#### 4"
+    },
+    {
+        "id": 21,
+        "problem": "Add the number of legs on a horse to the number of humps on a typical camel.",
+        "solution": "Horse legs:4. Typical camel humps (dromedary):1. 4+1=<<4+1=5>>5\n#### 5"
+    },
+    {
+        "id": 22,
+        "problem": "Take the number of letters in 'MOUSE' and subtract the number of letters in 'CAT'.",
+        "solution": "'MOUSE'=5 letters, 'CAT'=3 letters, 5-3=<<5-3=2>>2\n#### 2"
+    },
+    {
+        "id": 23,
+        "problem": "Divide the number of hours in a day by the number of days in a weekend.",
+        "solution": "Hours in a day=24, weekend days=2, 24/2=<<24/2=12>>12\n#### 12"
+    },
+    {
+        "id": 24,
+        "problem": "How many vertices does a cube have?",
+        "solution": "A cube has 8 vertices.\n#### 8"
+    },
+    {
+        "id": 25,
+        "problem": "Add the number of legs on an insect to the number of legs on a human being.",
+        "solution": "Insect legs:6, Human legs:2, 6+2=<<6+2=8>>8\n#### 8"
+    },
+    {
+        "id": 26,
+        "problem": "What do you get if you multiply the number of letters in 'SUN' by the number of letters in 'MOON'?",
+        "solution": "'SUN'=3, 'MOON'=4, 3*4=<<3*4=12>>12\n#### 12"
+    },
+    {
+        "id": 27,
+        "problem": "If you take the number of primary colors (red, yellow, blue) and add it to the number of wheels on a car, what is the result?",
+        "solution": "Primary colors=3, Car wheels=4, 3+4=<<3+4=7>>7\n#### 7"
+    },
+    {
+        "id": 28,
+        "problem": "Subtract the number of Great Lakes from the number of fingers on two hands.",
+        "solution": "Great Lakes=5, Fingers on two hands=10, 10-5=<<10-5=5>>5\n#### 5"
+    },
+    {
+        "id": 29,
+        "problem": "If you halve the number 100 and then subtract 10, what do you get?",
+        "solution": "Half of 100=50, 50-10=<<50-10=40>>40\n#### 40"
+    },
+    {
+        "id": 30,
+        "problem": "Add the number of keys on a standard piano (88) to the number of thumbs on two human hands.",
+        "solution": "Thumbs on two hands=2. 88+2=<<88+2=90>>90\n#### 90"
+    },
+    {
+        "id": 31,
+        "problem": "Multiply the number of sides on a heptagon by the number of noses on an elephant.",
+        "solution": "Heptagon sides=7, Elephant nose=1 trunk (considered as nose), 7*1=<<7*1=7>>7\n#### 7"
+    },
+    {
+        "id": 32,
+        "problem": "If you add the number of letters in 'RAIN' to the number of letters in 'SNOW', what do you get?",
+        "solution": "'RAIN'=4 letters, 'SNOW'=4 letters, 4+4=<<4+4=8>>8\n#### 8"
+    },
+    {
+        "id": 33,
+        "problem": "Subtract the number of continents (7) from the number of days in a fortnight (14).",
+        "solution": "14-7=<<14-7=7>>7\n#### 7"
+    },
+    {
+        "id": 34,
+        "problem": "Divide the number of teeth in a full adult human set (32) by the number of letter 'A's in the word 'BANANA'.",
+        "solution": "'BANANA' has 3 'A's. 32/3 ≈ 10.666..., but presumably we want the exact fraction or number.\n32/3=10.666... (If a fraction is allowed: 32/3)\n#### 10.666..."
+    },
+    {
+        "id": 35,
+        "problem": "Add the number of stripes on the US flag (13) to the number of states in the USA’s original union (13).",
+        "solution": "13+13=<<13+13=26>>26\n#### 26"
+    },
+    {
+        "id": 36,
+        "problem": "Multiply the number of legs on a chicken (2) by the number of heads on two chickens.",
+        "solution": "One chicken:2 legs, two chickens:2 heads total\n2 legs * 2 heads=4\n#### 4"
+    },
+    {
+        "id": 37,
+        "problem": "What is the number of angles in a rectangle minus the number of angles in a triangle?",
+        "solution": "Rectangle angles:4, Triangle angles:3, 4-3=<<4-3=1>>1\n#### 1"
+    },
+    {
+        "id": 38,
+        "problem": "If you have a pair of shoes and take away one shoe, how many shoes remain?",
+        "solution": "A pair=2 shoes. Take away one, left with 1.\n#### 1"
+    },
+    {
+        "id": 39,
+        "problem": "Add the number of letters in 'RED' to the number of letters in 'GREEN' and then subtract the number of letters in 'BLUE'.",
+        "solution": "'RED'=3, 'GREEN'=5, sum=8\n'BLUE'=4\n8-4=<<8-4=4>>4\n#### 4"
+    },
+    {
+        "id": 40,
+        "problem": "What do you get if you take the number of hours in half a week and divide by the number of days in a weekend?",
+        "solution": "Half a week = 3.5 days. Each day 24 hours: 3.5*24=84 hours.\nWeekend days=2.\n84/2=42\n#### 42"
+    },
+    {
+        "id": 41,
+        "problem": "Add the number of sides on a decagon (10) to the number of legs on two spiders.",
+        "solution": "Two spiders = 2*8=16 legs.\n10+16=26\n#### 26"
+    },
+    {
+        "id": 42,
+        "problem": "Multiply the number of vowels in the word 'EQUATION' by the number of legs on a chair.",
+        "solution": "EQUATION vowels: E, U, A, I, O =5 vowels.\nChair legs=4.\n5*4=20\n#### 20"
+    },
+    {
+        "id": 43,
+        "problem": "Subtract the number of pints in a gallon (8) from the number of quarts in a gallon (4), what is the result?",
+        "solution": "1 gallon = 4 quarts, 1 gallon = 8 pints.\n4-8=-4\n#### -4"
+    },
+    {
+        "id": 44,
+        "problem": "Divide the number of weeks in a year (52) by the number of dozen in 24 eggs.",
+        "solution": "24 eggs = 2 dozen.\n52/2=26\n#### 26"
+    },
+    {
+        "id": 45,
+        "problem": "Add the number of letters in 'OXYGEN' to the number of planets named 'Mars' in our Solar System.",
+        "solution": "'OXYGEN' = 6 letters.\nNumber of planets named Mars =1.\n6+1=7\n#### 7"
+    },
+    {
+        "id": 46,
+        "problem": "Multiply the number of straight edges on a cube by the number of noses on three people.",
+        "solution": "A cube has 12 edges.\nThree people =3 noses.\n12*3=36\n#### 36"
+    },
+    {
+        "id": 47,
+        "problem": "If you have a trio (3) and a quartet (4), how many total members is that?",
+        "solution": "3+4=7\n#### 7"
+    },
+    {
+        "id": 48,
+        "problem": "How many degrees in a right angle times the number of sides on a triangle?",
+        "solution": "Right angle=90°, triangle sides=3.\n90*3=270\n#### 270"
+    },
+    {
+        "id": 49,
+        "problem": "Subtract the number of Olympic rings (5) from the number of rings you get when you marry once.",
+        "solution": "Usually 2 rings in a marriage (engagement/wedding set?), but commonly considered: marriage = exchange of 2 rings?\n2 (wedding rings) -5 = -3\n#### -3"
+    },
+    {
+        "id": 50,
+        "problem": "If you take the number of letters in 'ELEPHANT' and subtract the number of letters in 'ANT', what’s left?",
+        "solution": "'ELEPHANT'=8 letters, 'ANT'=3 letters.\n8-3=5\n#### 5"
+    },
+    {
+        "id": 51,
+        "problem": "Add the number of wheels on a truck (4) to the number of pairs of eyes you have.",
+        "solution": "Pairs of eyes you have=1 pair =2 eyes, but pairs of eyes=1.\n4+1=5\n#### 5"
+    },
+    {
+        "id": 52,
+        "problem": "Divide the number of days in February of a leap year (29) by the number of digits in the number 100.",
+        "solution": "100 has 3 digits.\n29/3 ≈9.666... (Exact fraction=29/3)\n#### 9.666..."
+    },
+    {
+        "id": 53,
+        "problem": "If you have a pair of gloves and lose one glove, how many gloves remain?",
+        "solution": "A pair=2 gloves, lose one=1 remains\n#### 1"
+    },
+    {
+        "id": 54,
+        "problem": "Multiply the number of sides on a pentagon by the number of letters in 'DOG'.",
+        "solution": "Pentagon sides=5, 'DOG'=3 letters.\n5*3=15\n#### 15"
+    },
+    {
+        "id": 55,
+        "problem": "Add the number of continents (7) to the number of oceans traditionally counted (5).",
+        "solution": "7+5=12\n#### 12"
+    },
+    {
+        "id": 56,
+        "problem": "Subtract the number of legs on a human (2) from the number of legs on an octopus (8).",
+        "solution": "8-2=6\n#### 6"
+    },
+    {
+        "id": 57,
+        "problem": "If a clock shows a quarter past three, how many minutes after three is it?",
+        "solution": "A quarter past = 15 minutes after\n#### 15"
+    },
+    {
+        "id": 58,
+        "problem": "Divide the number of toes on two human feet by the number of noses on one human face.",
+        "solution": "Two feet: 10 toes, one nose:1.\n10/1=10\n#### 10"
+    },
+    {
+        "id": 59,
+        "problem": "Add the number of letters in 'FRUIT' (5) to the number of letters in 'VEG' (3).",
+        "solution": "5+3=8\n#### 8"
+    },
+    {
+        "id": 60,
+        "problem": "Multiply the number of days in a weekend by the number of weekdays in a week.",
+        "solution": "Weekend days=2 (Saturday, Sunday). Weekdays=5 (Mon-Fri).\n2*5=10\n#### 10"
+    },
+    {
+        "id": 61,
+        "problem": "Add the number of points on a standard compass (N, E, S, W) to the number of leaves typically on a clover that’s considered lucky.",
+        "solution": "Compass points:4, Lucky clover:4 leaves\n4+4=8\n#### 8"
+    },
+    {
+        "id": 62,
+        "problem": "Subtract the number of classical elements (Earth, Water, Air, Fire) from the number of Teenage Mutant Ninja Turtles.",
+        "solution": "Classical elements=4, TMNT=4 turtles.\n4-4=0\n#### 0"
+    },
+    {
+        "id": 63,
+        "problem": "Divide the number of limbs (arms+legs) a human has by the number of heads a human has.",
+        "solution": "Limbs (arms+legs)=2 arms+2 legs=4, Heads=1\n4/1=4\n#### 4"
+    },
+    {
+        "id": 64,
+        "problem": "If you take the number of letters in 'WATER' and multiply by the number of letters in 'ICE', what’s the product?",
+        "solution": "'WATER'=5 letters, 'ICE'=3 letters\n5*3=15\n#### 15"
+    },
+    {
+        "id": 65,
+        "problem": "Add the number of Great Lakes to the number of vowels in 'AEIOU'.",
+        "solution": "Great Lakes=5, Vowels in 'AEIOU'=5\n5+5=10\n#### 10"
+    },
+    {
+        "id": 66,
+        "problem": "What is the number of stripes on the US flag (13) minus the number of letters in 'FLAG'?",
+        "solution": "'FLAG'=4 letters\n13-4=9\n#### 9"
+    },
+    {
+        "id": 67,
+        "problem": "If you add the number of sides on a hexagon to the number of legs on an ant, what do you get?",
+        "solution": "Hexagon sides=6, Ant legs=6\n6+6=12\n#### 12"
+    },
+    {
+        "id": 68,
+        "problem": "Divide the number of hours in a standard workday (8) by the number of thumbs on one human hand.",
+        "solution": "One human hand:1 thumb\n8/1=8\n#### 8"
+    },
+    {
+        "id": 69,
+        "problem": "Multiply the number of letters in 'MOLE' by the number of legs on a cow.",
+        "solution": "'MOLE'=4 letters, cow has 4 legs\n4*4=16\n#### 16"
+    },
+    {
+        "id": 70,
+        "problem": "Subtract the number of letters in 'RED' from the number of letters in 'YELLOW'.",
+        "solution": "'RED'=3 letters, 'YELLOW'=6 letters\n6-3=3\n#### 3"
+    },
+    {
+        "id": 71,
+        "problem": "Add the number of fingers on a single human hand to the number of points on a standard star shape.",
+        "solution": "Hand fingers=5, Star often depicted with 5 points\n5+5=10\n#### 10"
+    },
+    {
+        "id": 72,
+        "problem": "If you multiply the number of rings in the Olympic symbol (5) by the number of holes in a standard flute (often 6 holes), what is the product?",
+        "solution": "Olympic rings=5, a standard simple flute often has 6 holes (assuming a simple system flute).\n5*6=30\n#### 30"
+    },
+    {
+        "id": 73,
+        "problem": "How many legs does a centipede have if you only count half of them, given a centipede typically has 100 legs?",
+        "solution": "Half of 100=50\n#### 50"
+    },
+    {
+        "id": 74,
+        "problem": "Add the number of letters in 'HOUSE' to the number of letters in 'CAR'.",
+        "solution": "'HOUSE'=5 letters, 'CAR'=3 letters\n5+3=8\n#### 8"
+    },
+    {
+        "id": 75,
+        "problem": "Divide the number of faces on a cube by the number of faces on a tetrahedron.",
+        "solution": "Cube faces=6, Tetrahedron faces=4\n6/4=1.5\n#### 1.5"
+    },
+    {
+        "id": 76,
+        "problem": "Multiply the number of dwarfs with Snow White by the number of wonders of the ancient world.",
+        "solution": "Dwarfs=7, Wonders=7\n7*7=49\n#### 49"
+    },
+    {
+        "id": 77,
+        "problem": "Subtract the number of days in January (31) from the number of days in a leap year (366).",
+        "solution": "366-31=335\n#### 335"
+    },
+    {
+        "id": 78,
+        "problem": "Add the number of strings on a violin (4) to the number of strings on a standard ukulele (4).",
+        "solution": "4+4=8\n#### 8"
+    },
+    {
+        "id": 79,
+        "problem": "If you take the number of items in a baker’s dozen (13) and subtract the number of letters in 'BREAD' (5), what’s left?",
+        "solution": "13-5=8\n#### 8"
+    },
+    {
+        "id": 80,
+        "problem": "Multiply the number of planets in the Solar System (8) by the number of legs on a beetle (6).",
+        "solution": "8 * 6 = 48\n#### 48"
+    },
+    {
+        "id": 81,
+        "problem": "Add the number of keys on a standard computer keyboard's top row of letters (Q to P is 10 letters) to the number of days in a weekend.",
+        "solution": "Top letter row: Q W E R T Y U I O P = 10 letters.\nWeekend days=2.\n10+2=12\n#### 12"
+    },
+    {
+        "id": 82,
+        "problem": "Subtract the number of continents (7) from the number of basic tastes the human tongue can detect (5: sweet, sour, salty, bitter, umami).",
+        "solution": "5 tastes - 7 continents = 5 - 7 = -2\n#### -2"
+    },
+    {
+        "id": 83,
+        "problem": "If you divide the number of cards in a standard deck (52) by the number of suits (4), what’s the result?",
+        "solution": "52/4=13\n#### 13"
+    },
+    {
+        "id": 84,
+        "problem": "Add the number of strings on a standard bass guitar (4) to the number of wheels on a typical skateboard (4).",
+        "solution": "4+4=8\n#### 8"
+    },
+    {
+        "id": 85,
+        "problem": "How many sides are on two pentagons combined?",
+        "solution": "One pentagon=5 sides, two pentagons=5+5=10 sides\n#### 10"
+    },
+    {
+        "id": 86,
+        "problem": "Multiply the number of letters in 'COMPUTER' by the number of letters in 'PC'.",
+        "solution": "'COMPUTER'=8 letters, 'PC'=2 letters.\n8*2=16\n#### 16"
+    },
+    {
+        "id": 87,
+        "problem": "If you have a trio (3) and remove one member, how many remain?",
+        "solution": "3-1=2\n#### 2"
+    },
+    {
+        "id": 88,
+        "problem": "Subtract the number of legs on a bird (2) from the number of legs on an insect (6).",
+        "solution": "6-2=4\n#### 4"
+    },
+    {
+        "id": 89,
+        "problem": "Add the number of seasons in a year (4) to the number of quarts in a gallon (4).",
+        "solution": "4+4=8\n#### 8"
+    },
+    {
+        "id": 90,
+        "problem": "Divide the number of degrees in a full circle (360) by the number of letters in 'CIRCLE' (6).",
+        "solution": "'CIRCLE' = 6 letters\n360/6=60\n#### 60"
+    },
+    {
+        "id": 91,
+        "problem": "If you double the number of letters in 'CAT' and then subtract the number of letters in 'AT', what do you get?",
+        "solution": "'CAT'=3 letters, double=6.\n'AT'=2 letters\n6-2=4\n#### 4"
+    },
+    {
+        "id": 92,
+        "problem": "Add the number of Olympic Games held every 4 years (just consider Summer Olympics as 1 event every 4 years) to the number of years in a century.",
+        "solution": "1 event every 4 years, but we just consider “1” as the count of events mentioned.\nYears in a century=100.\n1+100=101\n#### 101"
+    },
+    {
+        "id": 93,
+        "problem": "Multiply the number of 'Z's in 'PIZZA' by the number of 'P's in 'APPLE'.",
+        "solution": "'PIZZA' = 2 'Z's.\n'APPLE' = 1 'P' (Note: 'APPLE' has two 'P's if counting both 'P's? A P P L E -> That's actually 2 P's.\nCheck carefully: 'APPLE' letters: A P P L E = 'P' appears twice.\nNumber of 'P's in 'APPLE'=2.\n2 Z's * 2 P's=4\n#### 4"
+    },
+    {
+        "id": 94,
+        "problem": "Subtract the number of sides on a hexagon (6) from the number of sides on a nonagon (9).",
+        "solution": "9-6=3\n#### 3"
+    },
+    {
+        "id": 95,
+        "problem": "Divide the number of legs on two dogs by the number of heads on one dog.",
+        "solution": "One dog=4 legs, two dogs=8 legs.\nOne dog head=1.\n8/1=8\n#### 8"
+    },
+    {
+        "id": 96,
+        "problem": "Add the number of keys on a standard QWERTY keyboard’s top row of numbers (1 through 0 =10 keys) to the number of letters in 'KEY'.",
+        "solution": "'KEY'=3 letters\nNumbers 1 to 0 on keyboard top row=10 keys\n10+3=13\n#### 13"
+    },
+    {
+        "id": 97,
+        "problem": "Multiply the number of wheels on a unicycle (1) by the number of corners on a rectangle (4).",
+        "solution": "1*4=4\n#### 4"
+    },
+    {
+        "id": 98,
+        "problem": "Subtract the number of vowels in 'EDUCATION' from the number of vowels in 'AEIOU'.",
+        "solution": "'EDUCATION' vowels: E U A I O =5 vowels.\n'AEIOU'=5 vowels.\n5-5=0\n#### 0"
+    },
+    {
+        "id": 99,
+        "problem": "Add the number of days in a typical February (28) to the number of hours in a standard day (24).",
+        "solution": "28+24=52\n#### 52"
+    },
+    {
+        "id": 100,
+        "problem": "Multiply the number of eyes on three people by the number of toes on one human foot.",
+        "solution": "Three people = 6 eyes (2 each), One foot = 5 toes\n6 * 5 = 30\n#### 30"
+    },
+    {
+        "id": 101,
+        "problem": "Add the number of legs on a table (4) to the number of strings on a violin (4).",
+        "solution": "4 + 4 = 8\n#### 8"
+    },
+    {
+        "id": 102,
+        "problem": "Subtract the number of months in a year (12) from the number of hours in half a day (12).",
+        "solution": "12 - 12 = 0\n#### 0"
+    },
+    {
+        "id": 103,
+        "problem": "Divide the number of legs on a horse (4) by the number of heads on that same horse.",
+        "solution": "Heads on a horse = 1\n4/1=4\n#### 4"
+    },
+    {
+        "id": 104,
+        "problem": "If you take the number of dwarfs with Snow White (7) and add the number of days in the shortest named month (May=31), what’s the sum?",
+        "solution": "7 + 31 = 38\n#### 38"
+    },
+    {
+        "id": 105,
+        "problem": "Multiply the number of leaflets on a standard shamrock (3) by the number of letters in 'LUCK'.",
+        "solution": "'LUCK' =4 letters\n3 *4=12\n#### 12"
+    },
+    {
+        "id": 106,
+        "problem": "Subtract the number of paws on a cat (4) from the number of wings on a dragonfly (4).",
+        "solution": "4 (dragonfly wings) -4 (cat paws)=0\n#### 0"
+    },
+    {
+        "id": 107,
+        "problem": "Divide the number of wheels on a tricycle (3) by the number of wings on a standard airplane (2).",
+        "solution": "3/2=1.5\n#### 1.5"
+    },
+    {
+        "id": 108,
+        "problem": "Add the number of continents (7) to the number of letters in 'EARTH' (5).",
+        "solution": "7+5=12\n#### 12"
+    },
+    {
+        "id": 109,
+        "problem": "How many letters are in 'MATHEMATICS' minus the number of letters in 'MATH'?",
+        "solution": "'MATHEMATICS' =11 letters, 'MATH'=4 letters\n11-4=7\n#### 7"
+    },
+    {
+        "id": 110,
+        "problem": "Multiply the number of angles in a pentagon by the number of angles in a quadrilateral.",
+        "solution": "Pentagon angles=5, Quadrilateral angles=4\n5*4=20\n#### 20"
+    },
+    {
+        "id": 111,
+        "problem": "If you have a dozen bananas and give away half, how many bananas remain?",
+        "solution": "A dozen=12, half given=6, remain=12-6=6\n#### 6"
+    },
+    {
+        "id": 112,
+        "problem": "Add the number of letters in 'HELLO' (5) to the number of letters in 'WORLD' (5).",
+        "solution": "5+5=10\n#### 10"
+    },
+    {
+        "id": 113,
+        "problem": "Subtract the number of 'S' letters in 'MISSISSIPPI' from the total number of letters in 'MISSISSIPPI'.",
+        "solution": "'MISSISSIPPI'=11 letters total.\nS letters:4 (M I S S I S S I P P I)\n11-4=7\n#### 7"
+    },
+    {
+        "id": 114,
+        "problem": "Divide the number of people in a trio (3) by the number of people in a duo (2).",
+        "solution": "3/2=1.5\n#### 1.5"
+    },
+    {
+        "id": 115,
+        "problem": "Multiply the number of vowels in 'EDUCATION' by the number of oceans on Earth (5).",
+        "solution": "'EDUCATION' vowels: E U A I O=5 vowels\n5*5=25\n#### 25"
+    },
+    {
+        "id": 116,
+        "problem": "Add the number of legs on a spider (8) to the number of digits in the year '2023' (4).",
+        "solution": "8+4=12\n#### 12"
+    },
+    {
+        "id": 117,
+        "problem": "Subtract the number of letters in 'DOG' (3) from the number of legs on a dog (4).",
+        "solution": "4-3=1\n#### 1"
+    },
+    {
+        "id": 118,
+        "problem": "Divide the number of hearts in a human body (1) by the number of heads in a human body (1).",
+        "solution": "1/1=1\n#### 1"
+    },
+    {
+        "id": 119,
+        "problem": "If you add the number of letters in 'NINE' (4) to the number of letters in 'TEN' (3), what do you get?",
+        "solution": "4+3=7\n#### 7"
+    },
+    {
+        "id": 120,
+        "problem": "Multiply the number of strings on a standard guitar (6) by the number of wheels on a scooter (2).",
+        "solution": "6 * 2 = 12\n#### 12"
+    },
+    {
+        "id": 121,
+        "problem": "Add the number of letters in 'WATERFALL' to the number of letters in 'FALL'.",
+        "solution": "'WATERFALL' = 9 letters, 'FALL' = 4 letters\n9 + 4 = 13\n#### 13"
+    },
+    {
+        "id": 122,
+        "problem": "Divide the number of days in September (30) by the number of letters in 'DAY' (3).",
+        "solution": "30 / 3 = 10\n#### 10"
+    },
+    {
+        "id": 123,
+        "problem": "Subtract the number of sides on a hexagon (6) from the number of sides on an octagon (8).",
+        "solution": "8 - 6 = 2\n#### 2"
+    },
+    {
+        "id": 124,
+        "problem": "If you have a pair of socks and lose both, how many socks remain?",
+        "solution": "A pair = 2 socks. Lose both = 0 remain.\n#### 0"
+    },
+    {
+        "id": 125,
+        "problem": "Add the number of vowels in 'MOUNTAIN' to the number of continents on Earth (7).",
+        "solution": "'MOUNTAIN' vowels: O U A I =4 vowels\n4 + 7 = 11\n#### 11"
+    },
+    {
+        "id": 126,
+        "problem": "Multiply the number of Olympic rings (5) by the number of letters in 'RING' (4).",
+        "solution": "5 * 4 = 20\n#### 20"
+    },
+    {
+        "id": 127,
+        "problem": "Subtract the number of letters in 'MOON' from the number of letters in 'PLANET'.",
+        "solution": "'MOON'=4 letters, 'PLANET'=6 letters\n6 -4 =2\n#### 2"
+    },
+    {
+        "id": 128,
+        "problem": "Divide the number of fingers on two human hands (10) by the number of elbows on one human body (2).",
+        "solution": "10 / 2 = 5\n#### 5"
+    },
+    {
+        "id": 129,
+        "problem": "Add the number of seasons in a year (4) to the number of letters in 'YEAR' (4).",
+        "solution": "4+4=8\n#### 8"
+    },
+    {
+        "id": 130,
+        "problem": "If you take the number of sides on a pentagon (5) and double it, what do you get?",
+        "solution": "Double 5 = 10\n#### 10"
+    },
+    {
+        "id": 131,
+        "problem": "Multiply the number of horns on a typical rhinoceros (1 or 2 depending on species, generally 1-horned or 2-horned. Let's assume the most iconic African rhino with 2 horns) by the number of humps on a Bactrian camel (2).",
+        "solution": "2 horns (assuming a 2-horned rhino) * 2 humps =4\n#### 4"
+    },
+    {
+        "id": 132,
+        "problem": "Subtract the number of days in November (30) from the number of days in December (31).",
+        "solution": "31 -30=1\n#### 1"
+    },
+    {
+        "id": 133,
+        "problem": "Add the number of letters in 'COMPUTER' (8) to the number of primary colors (3).",
+        "solution": "8+3=11\n#### 11"
+    },
+    {
+        "id": 134,
+        "problem": "Divide the number of legs on a grasshopper (6) by the number of heads on a grasshopper (1).",
+        "solution": "6/1=6\n#### 6"
+    },
+    {
+        "id": 135,
+        "problem": "Multiply the number of legs on a table (4) by the number of letters in 'TABLE' (5).",
+        "solution": "4*5=20\n#### 20"
+    },
+    {
+        "id": 136,
+        "problem": "Subtract the number of letters in 'RAIN' (4) from the number of letters in 'RAINBOW' (7).",
+        "solution": "7-4=3\n#### 3"
+    },
+    {
+        "id": 137,
+        "problem": "Add the number of wings on a butterfly (2 pairs, total 4) to the number of wings on a bee (2 pairs, total 4).",
+        "solution": "Butterfly wings=4, Bee wings=4\n4+4=8\n#### 8"
+    },
+    {
+        "id": 138,
+        "problem": "Divide the number of degrees in a right angle (90) by the number of letters in 'NINETY' (6).",
+        "solution": "90/6=15\n#### 15"
+    },
+    {
+        "id": 139,
+        "problem": "If you have three pairs of shoes, how many shoes do you have?",
+        "solution": "One pair=2 shoes, three pairs=3*2=6 shoes\n#### 6"
+    },
+    {
+        "id": 140,
+        "problem": "Start with the number of legs on a spider. Multiply by the number of sides on a triangle. Then subtract the number of hours in half a day.",
+        "solution": "Spider legs = 8\nTriangle sides = 3\n8 * 3 = 24\nHalf a day = 12 hours\n24 - 12 = 12\n#### 12"
+    },
+    {
+        "id": 141,
+        "problem": "Take the number of letters in 'COMPLEX' and add it to the number of prime numbers less than 10. Then multiply the result by the number of eyes on two human faces.",
+        "solution": "'COMPLEX' has 7 letters\nPrime numbers less than 10 are 2,3,5,7 (4 primes)\n7 + 4 = 11\nTwo human faces have 4 eyes total\n11 * 4 = 44\n#### 44"
+    },
+    {
+        "id": 142,
+        "problem": "Count the letters in 'CHALLENGE'. Divide that by the number of toes on one human foot. Then add the number of Olympic rings.",
+        "solution": "'CHALLENGE' letters: 9\nToes on one foot:5\n9/5 = 1.8\nOlympic rings:5\n1.8 + 5 = 6.8 (If a fraction is acceptable, or decimal, final: 6.8)\n#### 6.8"
+    },
+    {
+        "id": 143,
+        "problem": "Consider the number of minutes in an hour. Subtract the number of sides on a square. Then multiply by the number of wheels on a unicycle.",
+        "solution": "Minutes in an hour=60\nSquare sides=4\n60-4=56\nUnicycle wheels=1\n56*1=56\n#### 56"
+    },
+    {
+        "id": 144,
+        "problem": "Take the number of days in February of a leap year and add the number of wonders of the ancient world. Then halve the result.",
+        "solution": "Leap year Feb=29 days\nWonders=7\n29+7=36\nHalf of 36=36/2=18\n#### 18"
+    },
+    {
+        "id": 145,
+        "problem": "Multiply the number of legs on a standard dining room chair by the number of months that have 31 days in a year, then add the number of continents.",
+        "solution": "Chair legs=4\nMonths with 31 days: Jan,Mar,May,Jul,Aug,Oct,Dec =7 months\n4*7=28\nContinents=7\n28+7=35\n#### 35"
+    },
+    {
+        "id": 146,
+        "problem": "Start with the number of letters in 'HYPOTHESIS'. Subtract the number of seasons in a year, then multiply by the number of thumbs on two human hands.",
+        "solution": "'HYPOTHESIS' letters:10\nSeasons in a year:4\n10-4=6\nTwo human hands thumbs: 2 thumbs total\n6*2=12\n#### 12"
+    },
+    {
+        "id": 147,
+        "problem": "Take the number of strings on a standard violin, add the number of strings on a standard ukulele, then multiply by the number of sides on a hexagon.",
+        "solution": "Violin=4 strings\nUkulele=4 strings\n4+4=8\nHexagon sides=6\n8*6=48\n#### 48"
+    },
+    {
+        "id": 148,
+        "problem": "Count the letters in 'INTRICATE'. Multiply by the number of legs on a beetle, then subtract the number of primary colors.",
+        "solution": "'INTRICATE' = 9 letters\nBeetle legs=6\n9*6=54\nPrimary colors=3\n54-3=51\n#### 51"
+    },
+    {
+        "id": 149,
+        "problem": "Take the number of sides on a dodecagon (12). Divide by the number of heads on a bicephalous (two-headed) creature. Then add the number of dwarfs with Snow White.",
+        "solution": "Dodecagon sides=12\nBicephalous creature heads=2\n12/2=6\nDwarfs=7\n6+7=13\n#### 13"
+    },
+    {
+        "id": 150,
+        "problem": "Start with the number of centimeters in a meter (100). Subtract the number of letters in 'CENTIMETER' (10), then divide by the number of noses on a human (1).",
+        "solution": "'CENTIMETER' letters:10\n100 -10=90\nDivide by 1=90\n#### 90"
+    },
+    {
+        "id": 151,
+        "problem": "Take the total number of hours in 3 days. Add the number of legs on a tripod. Then subtract the number of sides on a square.",
+        "solution": "3 days = 3*24=72 hours\nTripod legs=3\n72+3=75\nSquare sides=4\n75-4=71\n#### 71"
+    },
+    {
+        "id": 152,
+        "problem": "Count the vowels in 'MISUNDERSTANDING'. Multiply that by the number of rings on the Olympic flag. Then subtract the number of toes on two human feet.",
+        "solution": "'MISUNDERSTANDING' vowels: M i (1) s u(2) n d e(3) r s t a(4) n d i(5) n g =5 vowels\nOlympic rings=5\n5*5=25\nTwo feet=10 toes\n25-10=15\n#### 15"
+    },
+    {
+        "id": 153,
+        "problem": "Take the number of chess pieces on one side at game start (16). Divide by the number of wheels on a standard car, then multiply by the number of fingers on one hand.",
+        "solution": "Chess pieces one side=16\nCar wheels=4\n16/4=4\nFingers on one hand=5 (excluding thumb is still considered a finger commonly? Usually total 5 digits. We'll assume 5 digits are 'fingers' here.)\n4*5=20\n#### 20"
+    },
+    {
+        "id": 154,
+        "problem": "Start with the number of degrees in a right angle. Add the number of letters in 'RIGHT'. Then multiply by the number of legs on a standard office chair (5).",
+        "solution": "Right angle=90°\n'RIGHT' letters=5\n90+5=95\nOffice chair legs=5 (standard pedestal with 5 wheels/legs)\n95*5=475\n#### 475"
+    },
+    {
+        "id": 155,
+        "problem": "Consider the number of sides on a nonagon (9). Multiply by the number of letters in 'SIDE' (4). Then subtract the number of digits in '2022' (4).",
+        "solution": "Nonagon sides=9\n'SIDE'=4 letters\n9*4=36\n'2022' has 4 digits\n36-4=32\n#### 32"
+    },
+    {
+        "id": 156,
+        "problem": "Take the number of minutes in an hour. Subtract the number of prime numbers less than 5. Then divide by the number of eyes on a typical needle (1).",
+        "solution": "Minutes in hour=60\nPrimes less than 5: 2,3 (2 primes)\n60-2=58\nDivide by 1=58\n#### 58"
+    },
+    {
+        "id": 157,
+        "problem": "Count the letters in 'EXTRAORDINARY'. Subtract the number of legs on a standard dining chair. Then add the number of days in a week.",
+        "solution": "'EXTRAORDINARY' letters: E X T R A O R D I N A R Y =13 letters\nChair legs=4\n13-4=9\nDays in week=7\n9+7=16\n#### 16"
+    },
+    {
+        "id": 158,
+        "problem": "Start with the number of stripes on the US flag (13). Multiply by the number of vowels in 'AMERICA' (A,E,I,A =4 vowels). Then subtract the number of pairs of shoes in 6 pairs.",
+        "solution": "Stripes=13\nVowels in 'AMERICA': A(1), e(2), i(3), a(4)=4 vowels\n13*4=52\n6 pairs of shoes= 6*2=12 shoes\n52-12=40\n#### 40"
+    },
+    {
+        "id": 159,
+        "problem": "Take the number of chapters in a trilogy (3 books) times the number of letters in 'BOOK' (4). Assume each book has 10 chapters, so total chapters is 30. Then divide by the number of noses on three human faces.",
+        "solution": "Trilogy:3 books*10 chapters each=30 chapters\n'BOOK'=4 letters\n30*4=120\nThree human faces noses=3\n120/3=40\n#### 40"
+    },
+    {
+        "id": 160,
+        "problem": "Start with the number of hours in two full days. Add the number of rings on the Olympic flag. Multiply the result by the number of lenses in a pair of eyeglasses. Finally, subtract the number of vowels in 'TESTING'.",
+        "solution": "Two days = 2*24=48 hours\nOlympic rings=5\n48+5=53\nEyeglasses have 2 lenses\n53*2=106\n'TESTING' vowels: E,I =2 vowels\n106-2=104\n#### 104"
+    },
+    {
+        "id": 161,
+        "problem": "Take the number of sides on a heptagon and add the number of prime numbers less than 20. Multiply that sum by the number of humps on a dromedary camel, then subtract the number of continents.",
+        "solution": "Heptagon sides=7\nPrimes <20:2,3,5,7,11,13,17,19 (8 primes)\n7+8=15\nDromedary camel humps=1\n15*1=15\nContinents=7\n15-7=8\n#### 8"
+    },
+    {
+        "id": 162,
+        "problem": "Count the letters in 'PHILOSOPHY'. Add the number of days in December. Divide this by the number of human hands one person has, then multiply by the sides of a square.",
+        "solution": "'PHILOSOPHY'=10 letters\nDays in December=31\n10+31=41\nHuman hands per person=2\n41/2=20.5\nSides of a square=4\n20.5*4=82\n#### 82"
+    },
+    {
+        "id": 163,
+        "problem": "Count the letters in 'MATHEMATICAL' and multiply by the number of vowels in 'EULER'. Add the number of hours in half a week, then subtract the number of letters in 'NUMBERS'.",
+        "solution": "'MATHEMATICAL'=12 letters\n'EULER' vowels: E,U,E =3 vowels\n12*3=36\nHalf a week=3.5 days*24=84 hours\n36+84=120\n'NUMBERS'=7 letters\n120-7=113\n#### 113"
+    },
+    {
+        "id": 164,
+        "problem": "Take the degrees in a straight line. Divide by the vowels in 'QUEUE', then add the sides of a pentagon. Finally, multiply by the number of 'G's in 'GOOGLE'.",
+        "solution": "Straight line=180 degrees\n'QUEUE' vowels: U,E,U,E=4 vowels\n180/4=45\nPentagon sides=5\n45+5=50\n'GOOGLE' G's=2\n50*2=100\n#### 100"
+    },
+    {
+        "id": 165,
+        "problem": "Count the letters in 'UNIVERSITY' and subtract the number of classical planets (including Pluto for 9). Multiply that result by the toes on two human feet, then add the number of prime numbers less than 5.",
+        "solution": "'UNIVERSITY'=10 letters\nClassical planets=9\n10-9=1\nTwo human feet=10 toes\n1*10=10\nPrimes <5:2,3 (2 primes)\n10+2=12\n#### 12"
+    },
+    {
+        "id": 166,
+        "problem": "Start with the stripes on the US flag, add the letters in 'AMERICAN', multiply by the count of zeros in '1001', then subtract the legs of a beetle.",
+        "solution": "US flag stripes=13\n'AMERICAN'=8 letters\n13+8=21\n'1001' zeros=2\n21*2=42\nBeetle legs=6\n42-6=36\n#### 36"
+    },
+    {
+        "id": 167,
+        "problem": "Take the vowels in 'EDUCATION', add the letters in 'PYRAMID', multiply by the heads of a hydra with three heads, then divide by the wheels on a motorcycle.",
+        "solution": "'EDUCATION' vowels: E U A I O=5\n'PYRAMID'=7 letters\n5+7=12\nHydra heads=3\n12*3=36\nMotorcycle wheels=2\n36/2=18\n#### 18"
+    },
+    {
+        "id": 168,
+        "problem": "Start with days in July. Add the number of 'A's in 'BANANAS', multiply by the noses on 4 humans, then subtract the horns on a triceratops.",
+        "solution": "Days in July=31\n'BANANAS' A's=3\n31+3=34\n4 humans noses=4\n34*4=136\nTriceratops horns=3\n136-3=133\n#### 133"
+    },
+    {
+        "id": 169,
+        "problem": "Number of sides on a decagon times the dwarfs with Snow White, plus the humps on a Bactrian camel, then divide by the G's in 'GRASS'.",
+        "solution": "Decagon sides=10\nDwarfs=7\n10*7=70\nBactrian camel humps=2\n70+2=72\n'GRASS' G's=1\n72/1=72\n#### 72"
+    },
+    {
+        "id": 170,
+        "problem": "Letters in 'COMPUTATIONAL' minus vowels in 'ALGORITHM', multiply by wheels on a car, then add the number of 'E's in 'BEEKEEPER'.",
+        "solution": "'COMPUTATIONAL' =13 letters\n'ALGORITHM' vowels A O I =3 vowels\n13-3=10\nCar wheels=4\n10*4=40\n'BEEKEEPER' E's: B e e k e e p e r =5 e's\n40+5=45\n#### 45"
+    },
+    {
+        "id": 171,
+        "problem": "Hours in a week divided by legs on a horse, subtract the number of continents starting with 'A'.",
+        "solution": "Hours in a week=24*7=168\nHorse legs=4\n168/4=42\nContinents starting with 'A': Africa, Asia, Antarctica, Australia=4\n42-4=38\n#### 38"
+    },
+    {
+        "id": 172,
+        "problem": "Vowels in 'PHILHARMONIC' plus prime numbers less than 10, times the ends of a shoelace (2), then divide by letters in 'WHY'.",
+        "solution": "'PHILHARMONIC' vowels: P h i(1) l h a(2) r m o(3) n i(4) c =4 vowels\nPrimes<10:2,3,5,7=4 primes\n4+4=8\nShoelace has 2 ends\n8*2=16\n'WHY'=3 letters\n16/3=5.333...\n#### 5.333..."
+    },
+    {
+        "id": 173,
+        "problem": "Letters in 'INTERESTING' minus vowels in 'QUESTION', plus heads on three humans, then multiply by wheels on a bicycle.",
+        "solution": "'INTERESTING'=11 letters\n'QUESTION' vowels: Q u e s t i o n: u e i o=4 vowels\n11-4=7\nThree humans heads=3\n7+3=10\nBicycle wheels=2\n10*2=20\n#### 20"
+    },
+    {
+        "id": 174,
+        "problem": "Days in March times 'O's in 'PHOTOGRAPH', subtract letters in 'FRIDAY', then add the sides of a square.",
+        "solution": "March days=31\n'PHOTOGRAPH' O's: P h o(1) t o(2) g r a p h=2 O's\n31*2=62\n'FRIDAY'=6 letters\n62-6=56\nSquare sides=4\n56+4=60\n#### 60"
+    },
+    {
+        "id": 175,
+        "problem": "Digits in '2024' plus letters in 'YEAR', times angles in a pentagon, then subtract letters in 'MONTH'.",
+        "solution": "'2024' digits=4\n'YEAR' letters=4\n4+4=8\nPentagon angles=5\n8*5=40\n'MONTH'=5 letters\n40-5=35\n#### 35"
+    },
+    {
+        "id": 176,
+        "problem": "Vowels in 'EDIBLE' plus continents fully in the Northern Hemisphere (assume Europe & North America =2), times 'S' in 'MISSISSIPPI', then divide by legs on a flamingo.",
+        "solution": "'EDIBLE' vowels: E i e =3 vowels\nContinents fully in NH (Europe, North America)=2\n3+2=5\n'S' in 'MISSISSIPPI'=4 s's\n5*4=20\nFlamingo legs=2\n20/2=10\n#### 10"
+    },
+    {
+        "id": 177,
+        "problem": "Letters in 'EXPERIMENT' minus vowels in 'AEIOU', add the count of prime digits (2,3,5,7), multiply by legs on a bed (4).",
+        "solution": "'EXPERIMENT' =10 letters\n'AEIOU' vowels=5\n10-5=5\nPrime digits:2,3,5,7=4 prime digits\n5+4=9\nBed legs=4\n9*4=36\n#### 36"
+    },
+    {
+        "id": 178,
+        "problem": "Hours in half a week plus 'L's in 'HELLO', minus 'A's in 'BANANA', then divide by sides on a triangle.",
+        "solution": "Half week=3.5 days*24=84 hours\n'HELLO' L's=2\n84+2=86\n'BANANA' A's=3\n86-3=83\nTriangle sides=3\n83/3=27.666...\n#### 27.666..."
+    },
+    {
+        "id": 179,
+        "problem": "Vowels in 'PHYSICS' plus letters in 'ALPHABET', times legs on a lobster (10), then subtract 'E's in 'BEE'. (Count only a,e,i,o,u as vowels.)",
+        "solution": "'PHYSICS' vowels (a e i o u): only 'i' =1 vowel\n'ALPHABET'=8 letters\n1+8=9\nLobster legs=10\n9*10=90\n'BEE' E's=2 e's\n90-2=88\n#### 88"
+    },
+    {
+        "id": 180,
+        "problem": "Count the consonants in 'INFORMATION', subtract the number of weekends in a standard month (assume 4), then multiply by the number of leaves on a standard shamrock (3). Finally, add the number of letters in 'PI'.",
+        "solution": "'INFORMATION' letters: I N F O R M A T I O N (11 letters)\nVowels: I, O, A, I, O =5 vowels\nConsonants =11-5=6\nWeekends in a standard month ~4\n6-4=2\nShamrock leaves=3\n2*3=6\n'PI' letters=2\n6+2=8\n#### 8"
+    },
+    {
+        "id": 181,
+        "problem": "Take the number of prime numbers less than 15, add the digits in '101', multiply by the number of wings on a dragonfly, then subtract the number of G's in 'EGG'.",
+        "solution": "Primes<15:2,3,5,7,11,13=6 primes\nDigits in '101' sum:1+0+1=2\n6+2=8\nDragonfly wings=4\n8*4=32\n'EGG' G's=2\n32-2=30\n#### 30"
+    },
+    {
+        "id": 182,
+        "problem": "Start with the number of letters in 'HIPPOPOTAMUS', subtract the number of vowels in 'QUEUE', divide by the number of horns on a unicorn, then add the sides of a decagon.",
+        "solution": "'HIPPOPOTAMUS' letters:12\n'QUEUE' vowels: Q u e u e = u,e,u,e=4 vowels (Q not vowel), actually vowels= U, E, U, E=4 vowels.\n12-4=8\nUnicorn horns=1\n8/1=8\nDecagon sides=10\n8+10=18\n#### 18"
+    },
+    {
+        "id": 183,
+        "problem": "Count the vowels in 'EDUCATIONAL', multiply by the number of continents that end with 'A', then subtract the number of limbs on a human (arms+legs=4).",
+        "solution": "'EDUCATIONAL' vowels: E U A I O A =6 vowels\nContinents end with 'A': Africa, Asia, Antarctica, Australia, Europa not a continent, Europe doesn't end in A, North America ends in A, South America ends in A. Actually, let's count carefully: Africa(a), Asia(a), Antarctica(a), Australia(a), North America(a), South America(a). That's 6 continents ending in 'A'.\n6*6=36\nSubtract limbs on human=4\n36-4=32\n#### 32"
+    },
+    {
+        "id": 184,
+        "problem": "Take the hours in a day, add the number of eyes on three cats, divide by the vowels in 'UNIVERSE', then multiply by the wheels on a standard skateboard (4).",
+        "solution": "Hours in day=24\nThree cats eyes=3 cats*2 eyes=6 eyes\n24+6=30\n'UNIVERSE' vowels: U i e e=4 vowels\n30/4=7.5\nSkateboard wheels=4\n7.5*4=30\n#### 30"
+    },
+    {
+        "id": 185,
+        "problem": "Number of letters in 'QUESTIONABLE' minus vowels in 'MATHEMATICS', times the number of prime digits (2,3,5,7), then add legs on a starfish.",
+        "solution": "'QUESTIONABLE' letters=12\n'MATHEMATICS' vowels: M a(1) t h e(2) m a(3) t i(4) c s =4 vowels\n12-4=8\nPrime digits=2,3,5,7=4 primes\n8*4=32\nStarfish legs (arms)=5\n32+5=37\n#### 37"
+    },
+    {
+        "id": 186,
+        "problem": "Vowels in 'COOPERATION' plus letters in 'LENGTH', divided by pairs of wings on a butterfly (1 pair), then subtract the number of G's in 'GORGEOUS'.",
+        "solution": "'COOPERATION' vowels: C o(1) o(2) p e(3) r a(4) t i(5) o(6) n, total 6 vowels\n'LENGTH'=6 letters\n6+6=12\nButterfly has 2 pairs = Actually a butterfly has 2 pairs of wings = total 4 wings, but pairs=2. Div by pairs=2.\n12/2=6\n'GORGEOUS' G's=2 (G, O, R, G, E, O, U, S)\n6-2=4\n#### 4"
+    },
+    {
+        "id": 187,
+        "problem": "Sum of digits in '2025' plus letters in 'PHASE', times the number of continents that start with 'A', then minus the stripes on the US flag.",
+        "solution": "Digits '2025': 2+0+2+5=9\n'PHASE'=5 letters\n9+5=14\nContinents start with 'A': Africa, Asia, Antarctica, Australia, (4 continents)\n14*4=56\nUS flag stripes=13\n56-13=43\n#### 43"
+    },
+    {
+        "id": 188,
+        "problem": "Number of sides on a enneagon (9) plus vowels in 'SYZYGY' times legs on a tripod, then subtract heads on a mythical two-headed eagle.",
+        "solution": "Enneagon sides=9\n'SYZYGY' vowels: Y is sometimes vowel, but let's consider standard vowels A,E,I,O,U only. 'SYZYGY' no a e i o u. 0 vowels.\n9 + (0 * ???) 0 * legs on tripod=3 would be 0 anyway.\n9+0=9\nTwo-headed eagle heads=2\n9-2=7\n#### 7"
+    },
+    {
+        "id": 189,
+        "problem": "Letters in 'BIBLIOGRAPHY' minus the prime numbers less than 5, plus the vowels in 'AUTOMATION', then times the number of days in a standard weekend.",
+        "solution": "'BIBLIOGRAPHY' letters: B i b l i o g r a p h y =12 letters total\nPrimes<5:2,3=2 primes\n12-2=10\n'AUTOMATION' vowels: A u o a i o =6 vowels\n10+6=16\nWeekend days=2\n16*2=32\n#### 32"
+    },
+    {
+        "id": 190,
+        "problem": "Count the letters in 'THERMODYNAMICS', subtract the vowels in 'PHOTOSYNTHESIS', then divide by the number of humps on a dromedary camel, and add the digits in '303'.",
+        "solution": "'THERMODYNAMICS' count letters: T h e r m o d y n a m i c s =15 letters\n'PHOTOSYNTHESIS' vowels: P h o(1) t o(2) s y n t h e(3) s i(4) s =4 vowels\n15-4=11\nDromedary camel humps=1\n11/1=11\nDigits in '303':3+0+3=6\n11+6=17\n#### 17"
+    },
+    {
+        "id": 191,
+        "problem": "Vowels in 'ELECTRICITY' plus letters in 'COMPLEXITY', times prime numbers less than 10, then subtract leaves on a four-leaf clover.",
+        "solution": "'ELECTRICITY' vowels: E e (2) e(3) i(4) i(5) total 5 vowels\n'COMPLEXITY' letters:10\n5+10=15\nPrimes<10:2,3,5,7=4 primes\n15*4=60\nFour-leaf clover leaves=4\n60-4=56\n#### 56"
+    },
+    {
+        "id": 192,
+        "problem": "Sides on a icosagon (20) minus digits in '999' (3), multiplied by vowels in 'AERONAUTICAL', then add the number of G's in 'GIGGLE'.",
+        "solution": "Icosagon sides=20\n'999' digits=3\n20-3=17\n'AERONAUTICAL' vowels: A e o a u i a =7 vowels\n17*7=119\n'GIGGLE' G's: G i g g l e =3 G's\n119+3=122\n#### 122"
+    },
+    {
+        "id": 193,
+        "problem": "Hours in 5 days plus letters in 'SUBSTANTIAL', divided by prime digits count, then subtract vowels in 'EDIFICATION'.",
+        "solution": "5 days=5*24=120 hours\n'SUBSTANTIAL' letters=11\n120+11=131\nPrime digits=2,3,5,7=4 prime digits\n131/4=32.75\n'EDIFICATION' vowels: E i i a i o =6 vowels\n32.75-6=26.75\n#### 26.75"
+    },
+    {
+        "id": 194,
+        "problem": "Letters in 'PHENOMENON' minus vowels in 'ENCYCLOPEDIA', plus stripes on US flag, times the horns on a rhinoceros (assuming 2-horned).",
+        "solution": "'PHENOMENON'=10 letters\n'ENCYCLOPEDIA' vowels: E, (e) n c y c l o(1) p e(2) d i(3) a(4) =4 vowels\n10-4=6\nUS flag stripes=13\n6+13=19\nRhinoceros horns (2-horned)=2\n19*2=38\n#### 38"
+    },
+    {
+        "id": 195,
+        "problem": "Sum of letters in 'TRANSFORMATION' minus vowels in 'MATHEMATICAL', times the number of toes on one human foot, then add prime numbers less than 5.",
+        "solution": "'TRANSFORMATION' letters=16\n'MATHEMATICAL' vowels: M a(1) t h e(2) m a(3) t i(4) c a(5) l =5 vowels\n16-5=11\nOne foot toes=5\n11*5=55\nPrimes<5:2,3=2 primes sum=2+3=5 or just count=2 primes? Problem states add prime numbers less than 5 (2+3=5)\n55+5=60\n#### 60"
+    },
+    {
+        "id": 196,
+        "problem": "Continents ending with 'A' multiplied by vowels in 'OCCASION', minus letters in 'THURSDAY', plus weekends in a standard month (4).",
+        "solution": "Continents end 'A': Africa, Asia, Antarctica, Australia, North America, South America all end in 'a'? Actually 'Europe' ends in 'e', 'North America' ends in 'a', 'South America' ends in 'a', so total: Africa, Asia, Antarctica, Australia, North America, South America =6\n'OCCASION' vowels: O(1) c c a(2) s i(3) o(4) n=4 vowels\n6*4=24\n'THURSDAY' letters=8\n24-8=16\nWeekends in a month=4\n16+4=20\n#### 20"
+    },
+    {
+        "id": 197,
+        "problem": "Number of legs on 2 horses plus letters in 'WEDNESDAY', divide by horns on a typical cow (2), then minus the sum of digits in '505'.",
+        "solution": "2 horses legs=2*4=8 legs\n'WEDNESDAY'=9 letters\n8+9=17\nCow horns=2\n17/2=8.5\n'505' digits sum=5+0+5=10\n8.5-10=-1.5\n#### -1.5"
+    },
+    {
+        "id": 198,
+        "problem": "Vowels in 'PHILHARMONIC' plus continents fully in Southern Hemisphere (Antarctica, Australia?), add letters in 'FRIENDSHIP', then multiply by pairs of chopsticks in 4 pairs.",
+        "solution": "'PHILHARMONIC' vowels: P h i(1) l h a(2) r m o(3) n i(4) c =4 vowels\nContinents fully in Southern Hemisphere: Antarctica, Australia, (South America partly?), Africa partly. Let's say definitely Antarctica, Australia fully. 2 continents.\n4+2=6\n'FRIENDSHIP' letters=10\n6+10=16\n4 pairs chopsticks =4*2=8 chopsticks total. Actually pairs: If we consider pairs of chopsticks in 4 pairs =4 pairs. We want multiply by pairs or chopsticks count? Problem states 'pairs of chopsticks in 4 pairs' - that's 4.\n16*4=64\n#### 64"
+    },
+    {
+        "id": 199,
+        "problem": "Letters in 'MISCHIEVOUS' minus vowels in 'EXPERIENCE', times G's in 'GINGER', then add prime numbers less than 10.",
+        "solution": "'MISCHIEVOUS' letters=11\n'EXPERIENCE' vowels: E e i e e =5 vowels\n11-5=6\n'GINGER' G's: G i n g e r=2 G's\n6*2=12\nPrimes<10:2,3,5,7 sum=2+3+5+7=17\n12+17=29\n#### 29"
+    }
+]

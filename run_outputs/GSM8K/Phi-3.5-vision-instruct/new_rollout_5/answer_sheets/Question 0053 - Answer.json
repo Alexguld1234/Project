@@ -1,0 +1,1 @@
+{"id": 53, "problem": "A cook uses 2 cups of sugar for a cake. How many cups are needed for 7 cakes?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "2 * 7 = <<2*7=14>>14 cups\n#### 14", "gold_answer": "14"}

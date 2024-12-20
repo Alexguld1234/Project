@@ -1,0 +1,1 @@
+{"id": 176, "problem": "A garden 20m by 30m. Add a 1m path around it. Total area?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "New dimensions=20+2=22 by 30+2=32\nArea=22*32=704 sq.m\n#### 704", "gold_answer": "704"}

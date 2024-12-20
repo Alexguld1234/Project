@@ -1,0 +1,1 @@
+{"id": 117, "problem": "Subtract the number of letters in 'DOG' (3) from the number of legs on a dog (4).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "4-3=1\n#### 1", "gold_answer": "1"}

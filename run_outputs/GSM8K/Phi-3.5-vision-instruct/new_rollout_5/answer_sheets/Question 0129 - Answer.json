@@ -1,0 +1,1 @@
+{"id": 129, "problem": "A farmer sells apples at 3 for $2. How much does he earn if he sells 60 apples?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "3 apples = $2 \u21921 apple=2/3\u2248$0.6667\n60 apples * (2/3) = (60*2)/3=120/3=40 dollars\n#### 40", "gold_answer": "40"}

@@ -1,0 +1,1 @@
+{"id": 9, "problem": "A bicycle wheel has a circumference of 2 meters. If it rotates 200 times, how many meters does the bike travel?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Distance = circumference * rotations = 2 * 200 = <<2*200=400>>400 meters\n#### 400", "gold_answer": "400"}

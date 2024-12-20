@@ -1,0 +1,1 @@
+{"id": 75, "problem": "Divide the number of faces on a cube by the number of faces on a tetrahedron.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Cube faces=6, Tetrahedron faces=4\n6/4=1.5\n#### 1.5", "gold_answer": "1.5"}

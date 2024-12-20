@@ -1,0 +1,1 @@
+{"id": 190, "problem": "You blend coffee at $8/kg and $12/kg in equal amounts. The mixture costs how much per kg?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Equal amounts:average=(8+12)/2=10 per kg\n#### 10", "gold_answer": "10"}

@@ -1,0 +1,1 @@
+{"id": 189, "problem": "A car uses 10 gallons for 200 miles. At same rate, how many gallons for 500 miles?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Rate=10gal/200mi=1gal/20mi\nFor 500mi=500/20=25 gallons\n#### 25", "gold_answer": "25"}

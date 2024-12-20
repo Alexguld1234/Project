@@ -1,0 +1,1 @@
+{"id": 1, "problem": "If you start with 10 and remove the number of fingers on one hand, how many remain?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "One hand has 5 fingers, 10 - 5 = <<10-5=5>>5\n#### 5", "gold_answer": "5"}

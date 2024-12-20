@@ -1,0 +1,1 @@
+{"id": 100, "problem": "Multiply the number of eyes on three people by the number of toes on one human foot.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Three people = 6 eyes (2 each), One foot = 5 toes\n6 * 5 = 30\n#### 30", "gold_answer": "30"}

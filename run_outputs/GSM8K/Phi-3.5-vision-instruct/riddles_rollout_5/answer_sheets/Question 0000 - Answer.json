@@ -1,0 +1,1 @@
+{"id": 0, "problem": "I am thinking of a number. It\u2019s the number of sides on a triangle minus the number of wheels on a bicycle. What is it?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "A triangle has 3 sides, a bicycle has 2 wheels, 3 - 2 = <<3-2=1>>1\n#### 1", "gold_answer": "1"}

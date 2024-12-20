@@ -1,0 +1,1 @@
+{"id": 16, "problem": "A baker makes cupcakes in trays. Each tray holds 8 cupcakes. If he bakes 6 trays, how many cupcakes does he have?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "6 trays * 8 cupcakes/tray = <<6*8=48>>48 cupcakes\n#### 48", "gold_answer": "48"}

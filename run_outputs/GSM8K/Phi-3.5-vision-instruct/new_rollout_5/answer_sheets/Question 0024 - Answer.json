@@ -1,0 +1,1 @@
+{"id": 24, "problem": "A farmer plants 80 seeds. If 3/4 of them sprout successfully, how many seeds sprout?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "3/4 of 80 = (3/4)*80 = 3*20 = <<3*20=60>>60\n#### 60", "gold_answer": "60"}

@@ -1,0 +1,1 @@
+{"id": 128, "problem": "Divide the number of fingers on two human hands (10) by the number of elbows on one human body (2).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "10 / 2 = 5\n#### 5", "gold_answer": "5"}

@@ -1,0 +1,1 @@
+{"id": 65, "problem": "A pizza costs $12. If you tip 25% of the pizza's cost, how much is the tip?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "25% of 12 = (25/100)*12 = 0.25*12 = <<0.25*12=3>>3 dollars\n#### 3", "gold_answer": "3"}

@@ -1,0 +1,1 @@
+{"id": 6, "problem": "A recipe calls for 2 cups of flour for every 3 cups of sugar. If you have 24 cups of sugar, how many cups of flour do you need?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Ratio: flour:sugar = 2:3\nIf sugar = 24, then flour = (2/3)*24 = <<2/3*24=16>>16 cups of flour.\n#### 16", "gold_answer": "16"}

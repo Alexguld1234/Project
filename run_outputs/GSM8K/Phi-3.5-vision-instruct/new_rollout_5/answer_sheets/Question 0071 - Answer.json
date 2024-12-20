@@ -1,0 +1,1 @@
+{"id": 71, "problem": "A train ticket costs $15. If you buy 5 tickets, how much do you spend?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "5 * 15 = <<5*15=75>>75 dollars\n#### 75", "gold_answer": "75"}

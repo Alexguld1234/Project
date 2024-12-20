@@ -1,0 +1,1 @@
+{"id": 144, "problem": "Take the number of days in February of a leap year and add the number of wonders of the ancient world. Then halve the result.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Leap year Feb=29 days\nWonders=7\n29+7=36\nHalf of 36=36/2=18\n#### 18", "gold_answer": "18"}

@@ -1,0 +1,1 @@
+{"id": 76, "problem": "Multiply the number of dwarfs with Snow White by the number of wonders of the ancient world.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Dwarfs=7, Wonders=7\n7*7=49\n#### 49", "gold_answer": "49"}

@@ -1,0 +1,1 @@
+{"id": 73, "problem": "A runner covers 300 meters in 60 seconds. At the same pace, how many meters in 120 seconds?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Pace: 300m/60s = 5m/s\nIn 120s: 5 *120= <<5*120=600>>600 meters\n#### 600", "gold_answer": "600"}

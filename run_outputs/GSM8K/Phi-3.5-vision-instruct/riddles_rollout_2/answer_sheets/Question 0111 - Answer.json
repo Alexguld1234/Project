@@ -1,0 +1,1 @@
+{"id": 111, "problem": "If you have a dozen bananas and give away half, how many bananas remain?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "A dozen=12, half given=6, remain=12-6=6\n#### 6", "gold_answer": "6"}

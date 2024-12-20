@@ -1,0 +1,1 @@
+{"id": 62, "problem": "Subtract the number of classical elements (Earth, Water, Air, Fire) from the number of Teenage Mutant Ninja Turtles.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Classical elements=4, TMNT=4 turtles.\n4-4=0\n#### 0", "gold_answer": "0"}

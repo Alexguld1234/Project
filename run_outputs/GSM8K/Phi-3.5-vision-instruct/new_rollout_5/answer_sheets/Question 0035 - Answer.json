@@ -1,0 +1,1 @@
+{"id": 35, "problem": "A music album has 12 songs. If each song is 3 minutes long, how many minutes is the entire album?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "12 * 3 = <<12*3=36>>36 minutes\n#### 36", "gold_answer": "36"}

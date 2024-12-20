@@ -1,0 +1,1 @@
+{"id": 148, "problem": "Count the letters in 'INTRICATE'. Multiply by the number of legs on a beetle, then subtract the number of primary colors.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'INTRICATE' = 9 letters\nBeetle legs=6\n9*6=54\nPrimary colors=3\n54-3=51\n#### 51", "gold_answer": "51"}

@@ -1,0 +1,1 @@
+{"id": 53, "problem": "If you have a pair of gloves and lose one glove, how many gloves remain?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "A pair=2 gloves, lose one=1 remains\n#### 1", "gold_answer": "1"}

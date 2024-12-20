@@ -1,0 +1,1 @@
+{"id": 20, "problem": "Multiply the number of seasons in a year by the number of times you clap your hands if you clap once.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Seasons in a year:4. Clap once:1. 4*1=<<4*1=4>>4\n#### 4", "gold_answer": "4"}

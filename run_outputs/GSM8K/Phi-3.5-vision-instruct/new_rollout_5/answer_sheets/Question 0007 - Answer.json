@@ -1,0 +1,1 @@
+{"id": 7, "problem": "A family of 5 plans to share an inheritance equally. If the total inheritance is $67,500, how many dollars does each family member get?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "67500 / 5 = <<67500/5=13500>>13500\n#### 13500", "gold_answer": "13500"}

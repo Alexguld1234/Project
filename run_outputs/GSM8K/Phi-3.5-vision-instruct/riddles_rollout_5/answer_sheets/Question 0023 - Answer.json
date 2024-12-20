@@ -1,0 +1,1 @@
+{"id": 23, "problem": "Divide the number of hours in a day by the number of days in a weekend.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Hours in a day=24, weekend days=2, 24/2=<<24/2=12>>12\n#### 12", "gold_answer": "12"}

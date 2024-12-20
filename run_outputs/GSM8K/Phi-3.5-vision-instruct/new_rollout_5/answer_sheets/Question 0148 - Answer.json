@@ -1,0 +1,1 @@
+{"id": 148, "problem": "A garden is 10 m by 15 m. A path of width 2 m surrounds it. What is the total area including the path?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "New length=10+2+2=14 m\nNew width=15+2+2=19 m\nNew area=14*19=266 sq.m\n#### 266", "gold_answer": "266"}

@@ -1,0 +1,1 @@
+{"id": 86, "problem": "Multiply the number of letters in 'COMPUTER' by the number of letters in 'PC'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'COMPUTER'=8 letters, 'PC'=2 letters.\n8*2=16\n#### 16", "gold_answer": "16"}

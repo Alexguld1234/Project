@@ -1,0 +1,1 @@
+{"id": 134, "problem": "A drink is made by mixing cranberry juice and water in the ratio 5:3. If you have 64 ounces total, how many ounces of cranberry juice are there?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Ratio sum:5+3=8 parts\nEach part=64/8=8 oz\nCranberry=5 parts=5*8=40 oz\n#### 40", "gold_answer": "40"}

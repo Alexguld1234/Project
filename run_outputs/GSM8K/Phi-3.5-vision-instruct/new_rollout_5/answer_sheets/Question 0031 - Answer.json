@@ -1,0 +1,1 @@
+{"id": 31, "problem": "A bookshelf holds 5 shelves with 25 books on each. If the librarian removes 20 books total, how many books remain?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Total books: 5*25=125\nRemove 20: 125-20=<<125-20=105>>105\n#### 105", "gold_answer": "105"}

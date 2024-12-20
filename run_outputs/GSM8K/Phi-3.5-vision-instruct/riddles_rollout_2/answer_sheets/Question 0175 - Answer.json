@@ -1,0 +1,1 @@
+{"id": 175, "problem": "Digits in '2024' plus letters in 'YEAR', times angles in a pentagon, then subtract letters in 'MONTH'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'2024' digits=4\n'YEAR' letters=4\n4+4=8\nPentagon angles=5\n8*5=40\n'MONTH'=5 letters\n40-5=35\n#### 35", "gold_answer": "35"}

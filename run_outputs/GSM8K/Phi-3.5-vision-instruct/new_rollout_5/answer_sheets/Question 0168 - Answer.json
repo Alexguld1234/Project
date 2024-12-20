@@ -1,0 +1,1 @@
+{"id": 168, "problem": "A car travels 50 miles at 25 mph and then 50 miles at 50 mph. What's the average speed over 100 miles?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Time first part:50/25=2 hrs\nTime second part:50/50=1 hr\nTotal 3 hrs\nDistance=100 mi\nAverage=100/3\u224833.33 mph\n#### 33.33", "gold_answer": "33.33"}

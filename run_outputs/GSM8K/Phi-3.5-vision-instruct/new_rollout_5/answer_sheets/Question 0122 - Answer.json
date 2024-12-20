@@ -1,0 +1,1 @@
+{"id": 122, "problem": "You have a rope 90 meters long. You cut it into pieces in the ratio 3:2:1. How long is the shortest piece?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Total ratio parts: 3+2+1=6 parts\nEach part=90/6=15 meters\nShortest piece=1 part=15 meters\n#### 15", "gold_answer": "15"}

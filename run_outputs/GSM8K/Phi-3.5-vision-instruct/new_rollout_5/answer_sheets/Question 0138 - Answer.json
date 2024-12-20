@@ -1,0 +1,1 @@
+{"id": 138, "problem": "You invest $4000 at an annual interest rate of 5% compounded yearly. After 2 years, how much is the investment worth?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Compound:After 1 year=4000*(1+0.05)=4000*1.05=4200\nAfter 2nd year=4200*1.05=4410\n#### 4410", "gold_answer": "4410"}

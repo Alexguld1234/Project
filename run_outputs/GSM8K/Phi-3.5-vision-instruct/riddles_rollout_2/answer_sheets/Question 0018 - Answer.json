@@ -1,0 +1,1 @@
+{"id": 18, "problem": "If you multiply the number of points on a starfish by the number of eyes on a needle, what do you get?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Starfish points=5, Needle eyes=1, 5*1=<<5*1=5>>5\n#### 5", "gold_answer": "5"}

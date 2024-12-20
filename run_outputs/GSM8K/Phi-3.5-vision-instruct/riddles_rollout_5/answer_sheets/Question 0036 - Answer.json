@@ -1,0 +1,1 @@
+{"id": 36, "problem": "Multiply the number of legs on a chicken (2) by the number of heads on two chickens.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "One chicken:2 legs, two chickens:2 heads total\n2 legs * 2 heads=4\n#### 4", "gold_answer": "4"}

@@ -1,0 +1,1 @@
+{"id": 21, "problem": "Add the number of legs on a horse to the number of humps on a typical camel.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Horse legs:4. Typical camel humps (dromedary):1. 4+1=<<4+1=5>>5\n#### 5", "gold_answer": "5"}

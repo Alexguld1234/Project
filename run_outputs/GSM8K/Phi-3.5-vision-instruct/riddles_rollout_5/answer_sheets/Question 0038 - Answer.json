@@ -1,0 +1,1 @@
+{"id": 38, "problem": "If you have a pair of shoes and take away one shoe, how many shoes remain?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "A pair=2 shoes. Take away one, left with 1.\n#### 1", "gold_answer": "1"}

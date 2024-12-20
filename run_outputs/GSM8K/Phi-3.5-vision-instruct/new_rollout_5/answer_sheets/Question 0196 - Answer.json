@@ -1,0 +1,1 @@
+{"id": 196, "problem": "A 500 ml solution is 20% salt. Evaporate 100 ml water. New %?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Salt=20% of 500=100 ml salt\nNew volume=400 ml\n%=(100/400)*100=25%\n#### 25%", "gold_answer": "25%"}

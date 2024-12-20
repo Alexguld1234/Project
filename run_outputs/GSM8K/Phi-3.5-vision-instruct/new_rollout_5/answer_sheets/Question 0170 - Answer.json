@@ -1,0 +1,1 @@
+{"id": 170, "problem": "A taxi charges $5 plus $2 per mile. If your total fare was $21, how many miles did you travel?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "21=5+2*miles\n21-5=16\nmiles=16/2=8\n#### 8", "gold_answer": "8"}

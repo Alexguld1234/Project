@@ -1,0 +1,1 @@
+{"id": 160, "problem": "A bag has red, blue, and yellow marbles in the ratio 2:3:5. If there are 100 marbles total, how many are blue?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Ratio sum: 2+3+5=10 parts\nEach part = 100/10=10 marbles\nBlue = 3 parts = 3*10=30\n#### 30", "gold_answer": "30"}

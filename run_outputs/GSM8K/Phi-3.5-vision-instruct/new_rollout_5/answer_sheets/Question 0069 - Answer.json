@@ -1,0 +1,1 @@
+{"id": 69, "problem": "A container holds 2 liters of juice. If you pour out half, how many liters remain?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Half of 2 = 2/2 = <<2/2=1>>1 liter\n#### 1", "gold_answer": "1"}

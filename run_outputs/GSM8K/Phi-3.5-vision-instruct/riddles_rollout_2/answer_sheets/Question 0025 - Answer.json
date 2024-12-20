@@ -1,0 +1,1 @@
+{"id": 25, "problem": "Add the number of legs on an insect to the number of legs on a human being.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Insect legs:6, Human legs:2, 6+2=<<6+2=8>>8\n#### 8", "gold_answer": "8"}

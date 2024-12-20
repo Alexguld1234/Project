@@ -1,0 +1,1 @@
+{"id": 156, "problem": "A runner covers 3 miles in 30 minutes, then 2 miles in 20 minutes. What's the average pace (minutes per mile) overall?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Total distance=3+2=5 miles\nTotal time=30+20=50 min\nPace=50/5=10 min/mile\n#### 10", "gold_answer": "10"}

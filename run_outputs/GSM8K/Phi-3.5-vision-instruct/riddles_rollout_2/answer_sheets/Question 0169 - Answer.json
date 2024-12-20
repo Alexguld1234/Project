@@ -1,0 +1,1 @@
+{"id": 169, "problem": "Number of sides on a decagon times the dwarfs with Snow White, plus the humps on a Bactrian camel, then divide by the G's in 'GRASS'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Decagon sides=10\nDwarfs=7\n10*7=70\nBactrian camel humps=2\n70+2=72\n'GRASS' G's=1\n72/1=72\n#### 72", "gold_answer": "72"}

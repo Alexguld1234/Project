@@ -1,0 +1,1 @@
+{"id": 135, "problem": "Multiply the number of legs on a table (4) by the number of letters in 'TABLE' (5).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "4*5=20\n#### 20", "gold_answer": "20"}

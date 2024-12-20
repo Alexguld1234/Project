@@ -1,0 +1,1 @@
+{"id": 109, "problem": "You invest $5000 at 5% annual simple interest. How much interest do you earn in 3 years?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Simple interest=Principal*rate*time=5000*0.05*3=5000*0.15=750\n#### 750", "gold_answer": "750"}

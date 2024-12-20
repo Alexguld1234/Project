@@ -1,0 +1,1 @@
+{"id": 116, "problem": "Add the number of legs on a spider (8) to the number of digits in the year '2023' (4).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "8+4=12\n#### 12", "gold_answer": "12"}

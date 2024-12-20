@@ -1,0 +1,1 @@
+{"id": 33, "problem": "Subtract the number of continents (7) from the number of days in a fortnight (14).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "14-7=<<14-7=7>>7\n#### 7", "gold_answer": "7"}

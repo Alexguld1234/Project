@@ -1,0 +1,1 @@
+{"id": 13, "problem": "If a store sells 12 pencils for $3, how much does it cost to buy 100 pencils at the same rate?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Cost per pencil: $3/12 = <<3/12=0.25>>$0.25 each\nFor 100 pencils: 100 * 0.25 = <<100*0.25=25>>25 dollars\n#### 25", "gold_answer": "25"}

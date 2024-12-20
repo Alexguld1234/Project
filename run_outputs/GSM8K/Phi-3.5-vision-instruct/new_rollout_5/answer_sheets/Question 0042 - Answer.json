@@ -1,0 +1,1 @@
+{"id": 42, "problem": "A printer prints 20 pages in 5 minutes. At the same rate, how many pages can it print in 15 minutes?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Rate: 20 pages / 5 minutes = 4 pages/min\nIn 15 min: 4 * 15 = <<4*15=60>>60 pages\n#### 60", "gold_answer": "60"}

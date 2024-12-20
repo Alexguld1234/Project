@@ -1,0 +1,1 @@
+{"id": 109, "problem": "How many letters are in 'MATHEMATICS' minus the number of letters in 'MATH'?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'MATHEMATICS' =11 letters, 'MATH'=4 letters\n11-4=7\n#### 7", "gold_answer": "7"}

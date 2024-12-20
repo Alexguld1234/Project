@@ -1,0 +1,1 @@
+{"id": 43, "problem": "A gardener has 144 flowers. If she plants them equally in 12 pots, how many flowers go into each pot?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "144/12 = <<144/12=12>>12 flowers per pot\n#### 12", "gold_answer": "12"}

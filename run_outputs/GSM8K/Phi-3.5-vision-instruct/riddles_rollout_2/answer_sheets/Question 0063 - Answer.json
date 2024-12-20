@@ -1,0 +1,1 @@
+{"id": 63, "problem": "Divide the number of limbs (arms+legs) a human has by the number of heads a human has.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Limbs (arms+legs)=2 arms+2 legs=4, Heads=1\n4/1=4\n#### 4", "gold_answer": "4"}

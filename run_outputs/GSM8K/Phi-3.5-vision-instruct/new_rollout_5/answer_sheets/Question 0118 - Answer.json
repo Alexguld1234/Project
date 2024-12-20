@@ -1,0 +1,1 @@
+{"id": 118, "problem": "A necklace is made from beads of three colors in the ratio 2:2:1 (red:blue:green). If there are 100 beads total, how many are green?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Ratio sum:2+2+1=5 parts\nEach part=100/5=20\nGreen=1 part=20 beads\n#### 20", "gold_answer": "20"}

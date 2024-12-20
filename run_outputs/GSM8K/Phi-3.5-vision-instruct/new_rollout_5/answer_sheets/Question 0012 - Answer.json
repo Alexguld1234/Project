@@ -1,0 +1,1 @@
+{"id": 12, "problem": "A bus travels 180 miles in 3 hours. At the same speed, how many miles can it travel in 8 hours?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Speed = 180/3 = <<180/3=60>>60 mph\nIn 8 hours: 60 * 8 = <<60*8=480>>480 miles\n#### 480", "gold_answer": "480"}

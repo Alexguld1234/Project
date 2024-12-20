@@ -1,0 +1,1 @@
+{"id": 26, "problem": "A bicycle shop sells helmets at $25 each. If a customer buys 4 helmets, how much do they pay?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "4 * 25 = <<4*25=100>>100 dollars\n#### 100", "gold_answer": "100"}

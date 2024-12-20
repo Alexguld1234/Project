@@ -1,0 +1,1 @@
+{"id": 57, "problem": "If a clock shows a quarter past three, how many minutes after three is it?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "A quarter past = 15 minutes after\n#### 15", "gold_answer": "15"}

@@ -1,0 +1,1 @@
+{"id": 17, "problem": "A gardener plants seeds in rows. Each row has 15 seeds. If there are 12 rows, how many seeds are planted?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "12 rows * 15 seeds/row = <<12*15=180>>180 seeds\n#### 180", "gold_answer": "180"}

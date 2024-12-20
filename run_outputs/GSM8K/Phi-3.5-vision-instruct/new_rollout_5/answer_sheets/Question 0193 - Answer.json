@@ -1,0 +1,1 @@
+{"id": 193, "problem": "A driver covers half distance at 50 mph and half at 100 mph. Total distance 200 miles. Average speed?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Half dist=100 mi each.\nTime at 50 mph=100/50=2h\nTime at 100 mph=100/100=1h\nTotal 3h for 200mi\nAvg=200/3=66.67 mph\n#### 66.67", "gold_answer": "66.67"}

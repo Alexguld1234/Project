@@ -1,0 +1,1 @@
+{"id": 48, "problem": "A 100-page document needs to be printed. The printer prints 4 pages per minute. How many minutes does it take to print the entire document?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "100 pages / (4 pages/min) = <<100/4=25>>25 minutes\n#### 25", "gold_answer": "25"}

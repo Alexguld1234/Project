@@ -1,0 +1,1 @@
+{"id": 77, "problem": "A train passes a pole in 20 seconds. If its speed doubles, how many seconds will it take to pass the same pole?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "If speed doubles, time halves.\nOriginal time: 20s\nHalved time: 20/2=<<20/2=10>>10 seconds\n#### 10", "gold_answer": "10"}

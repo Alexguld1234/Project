@@ -1,0 +1,1 @@
+{"id": 28, "problem": "Subtract the number of Great Lakes from the number of fingers on two hands.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Great Lakes=5, Fingers on two hands=10, 10-5=<<10-5=5>>5\n#### 5", "gold_answer": "5"}

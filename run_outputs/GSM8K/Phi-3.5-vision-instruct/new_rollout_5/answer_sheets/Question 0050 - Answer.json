@@ -1,0 +1,1 @@
+{"id": 50, "problem": "A bicycle costs $200 and a helmet costs $50. If you buy both, how much do you spend?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "200 + 50 = <<200+50=250>>250 dollars\n#### 250", "gold_answer": "250"}

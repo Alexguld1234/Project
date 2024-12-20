@@ -1,0 +1,1 @@
+{"id": 39, "problem": "Add the number of letters in 'RED' to the number of letters in 'GREEN' and then subtract the number of letters in 'BLUE'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'RED'=3, 'GREEN'=5, sum=8\n'BLUE'=4\n8-4=<<8-4=4>>4\n#### 4", "gold_answer": "4"}

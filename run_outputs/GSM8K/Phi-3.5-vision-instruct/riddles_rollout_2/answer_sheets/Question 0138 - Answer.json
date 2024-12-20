@@ -1,0 +1,1 @@
+{"id": 138, "problem": "Divide the number of degrees in a right angle (90) by the number of letters in 'NINETY' (6).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "90/6=15\n#### 15", "gold_answer": "15"}

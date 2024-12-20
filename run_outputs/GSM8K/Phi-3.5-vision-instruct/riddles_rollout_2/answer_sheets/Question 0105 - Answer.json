@@ -1,0 +1,1 @@
+{"id": 105, "problem": "Multiply the number of leaflets on a standard shamrock (3) by the number of letters in 'LUCK'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'LUCK' =4 letters\n3 *4=12\n#### 12", "gold_answer": "12"}

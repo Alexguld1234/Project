@@ -1,0 +1,1 @@
+{"id": 90, "problem": "Divide the number of degrees in a full circle (360) by the number of letters in 'CIRCLE' (6).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'CIRCLE' = 6 letters\n360/6=60\n#### 60", "gold_answer": "60"}

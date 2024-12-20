@@ -1,0 +1,1 @@
+{"id": 130, "problem": "A phone is on sale for 20% off its original price of $500. After the discount, an additional sales tax of 8% is added. How much do you pay?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "20% off 500=100 off, discounted=400\n8% tax on 400=400*0.08=32\nTotal=400+32=432\n#### 432", "gold_answer": "432"}

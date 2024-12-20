@@ -1,0 +1,1 @@
+{"id": 113, "problem": "A bag has 200 marbles. 10% are blue, 20% are green, and the rest are red. How many red marbles are there?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Blue=10% of 200=20\nGreen=20% of 200=40\nTotal non-red=20+40=60\nRed=200-60=140\n#### 140", "gold_answer": "140"}

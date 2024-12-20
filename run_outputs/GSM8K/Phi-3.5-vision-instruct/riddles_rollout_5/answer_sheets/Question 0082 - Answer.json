@@ -1,0 +1,1 @@
+{"id": 82, "problem": "Subtract the number of continents (7) from the number of basic tastes the human tongue can detect (5: sweet, sour, salty, bitter, umami).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "5 tastes - 7 continents = 5 - 7 = -2\n#### -2", "gold_answer": "-2"}

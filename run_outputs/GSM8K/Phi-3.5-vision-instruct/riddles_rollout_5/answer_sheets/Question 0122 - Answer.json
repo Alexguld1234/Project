@@ -1,0 +1,1 @@
+{"id": 122, "problem": "Divide the number of days in September (30) by the number of letters in 'DAY' (3).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "30 / 3 = 10\n#### 10", "gold_answer": "10"}

@@ -1,0 +1,1 @@
+{"id": 147, "problem": "A car tank holds 50 liters. Initially it\u2019s half full. You add 20 liters. How full is it now (in liters)?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Half full=50/2=25 liters\nAdd 20 liters=25+20=45 liters\n#### 45", "gold_answer": "45"}

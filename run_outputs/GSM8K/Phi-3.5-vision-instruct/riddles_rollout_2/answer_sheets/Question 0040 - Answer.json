@@ -1,0 +1,1 @@
+{"id": 40, "problem": "What do you get if you take the number of hours in half a week and divide by the number of days in a weekend?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Half a week = 3.5 days. Each day 24 hours: 3.5*24=84 hours.\nWeekend days=2.\n84/2=42\n#### 42", "gold_answer": "42"}

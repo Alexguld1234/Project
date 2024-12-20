@@ -1,0 +1,997 @@
+[
+    {
+        "correct": false,
+        "predict_answer": "714546065380.0",
+        "gold_answer": "42474420.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "3431580.0",
+        "gold_answer": "3431580.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "109.0",
+        "gold_answer": "109.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "0.0",
+        "gold_answer": "3981224.8"
+    },
+    {
+        "correct": false,
+        "predict_answer": "3.0",
+        "gold_answer": "1379135.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "1545191.0",
+        "gold_answer": "1545200.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "15841308.0",
+        "gold_answer": "15837508.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "18894735.0",
+        "gold_answer": "18894535.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "1450877.0",
+        "gold_answer": "2901807.8333333335"
+    },
+    {
+        "correct": true,
+        "predict_answer": "4795436.8",
+        "gold_answer": "4795436.8"
+    },
+    {
+        "correct": false,
+        "predict_answer": "0.0",
+        "gold_answer": "0.0016791648"
+    },
+    {
+        "correct": false,
+        "predict_answer": "2.5",
+        "gold_answer": "2944533.5"
+    },
+    {
+        "correct": true,
+        "predict_answer": "58.0",
+        "gold_answer": "58.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "17219546.0",
+        "gold_answer": "17189546.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "42463867.0",
+        "gold_answer": "42463867.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "79886312.0",
+        "gold_answer": "79886312.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "52526408.0",
+        "gold_answer": "52526408.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "474031.3333333333"
+    },
+    {
+        "correct": true,
+        "predict_answer": "36640.0",
+        "gold_answer": "36640.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "6.0",
+        "gold_answer": "2709395.5"
+    },
+    {
+        "correct": true,
+        "predict_answer": "1294876.0",
+        "gold_answer": "1294876.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "353222840.0",
+        "gold_answer": "353222840.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "5186631.0",
+        "gold_answer": "5186630.6"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "25124292.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "676667.0",
+        "gold_answer": "778670.2"
+    },
+    {
+        "correct": true,
+        "predict_answer": "1575070.0",
+        "gold_answer": "1575070.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "965579.0",
+        "gold_answer": "965579.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "4401531.0",
+        "gold_answer": "4401531.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "3999548.0",
+        "gold_answer": "1002636.9500000002"
+    },
+    {
+        "correct": false,
+        "predict_answer": "5813088.0",
+        "gold_answer": "23252172.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "100.0",
+        "gold_answer": "100.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "9500.0",
+        "gold_answer": "9500.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "17771862.0",
+        "gold_answer": "17771862.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "25.0",
+        "gold_answer": "25.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "4767232.5",
+        "gold_answer": "4767232.5"
+    },
+    {
+        "correct": true,
+        "predict_answer": "13795250.0",
+        "gold_answer": "13795250.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "0.0",
+        "gold_answer": "-6087974.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "867327048.0",
+        "gold_answer": "781368228.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "8709732.0",
+        "gold_answer": "6277334000.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "12.0",
+        "gold_answer": "595541.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "160.0",
+        "gold_answer": "-425561.9444444444"
+    },
+    {
+        "correct": true,
+        "predict_answer": "4649302.0",
+        "gold_answer": "4649302.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "61525936.0",
+        "gold_answer": "61525936.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "0.0",
+        "gold_answer": "100.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "140.0",
+        "gold_answer": "140.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "8771927.0",
+        "gold_answer": "8771926.5"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "315933300.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "486530.0",
+        "gold_answer": "486530.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "8.0",
+        "gold_answer": "8.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "3453167.0",
+        "gold_answer": "3453167.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "3120372.0",
+        "gold_answer": "3120372.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "100.0",
+        "gold_answer": "100.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "880.0",
+        "gold_answer": "880.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "39475440.0",
+        "gold_answer": "39475440.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "860.0",
+        "gold_answer": "860.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "50.0",
+        "gold_answer": "173767716.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "-3516391.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "445110260.6"
+    },
+    {
+        "correct": false,
+        "predict_answer": "1080378.0",
+        "gold_answer": "1080379.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "50627698.9",
+        "gold_answer": "15.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "4375567.0",
+        "gold_answer": "4375557.75"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "51204384.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "9144191620168.0",
+        "gold_answer": "47791980.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "24.0",
+        "gold_answer": "18.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "5407463.0",
+        "gold_answer": "5407462.8"
+    },
+    {
+        "correct": false,
+        "predict_answer": "82085208.0",
+        "gold_answer": "82085198.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "50.0",
+        "gold_answer": "50.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "2298741.0",
+        "gold_answer": "2298841.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "31.0",
+        "gold_answer": "31.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "94796016.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "418826.8"
+    },
+    {
+        "correct": true,
+        "predict_answer": "118000.0",
+        "gold_answer": "118000.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "1964.0",
+        "gold_answer": "1963.4111111111"
+    },
+    {
+        "correct": false,
+        "predict_answer": "5785575.0",
+        "gold_answer": "57855762.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "18.0",
+        "gold_answer": "18.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "108224794.2"
+    },
+    {
+        "correct": true,
+        "predict_answer": "1.0",
+        "gold_answer": "1.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "2.0",
+        "gold_answer": "8710408.772727273"
+    },
+    {
+        "correct": false,
+        "predict_answer": "8401092.0",
+        "gold_answer": "8400992.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "441078.0",
+        "gold_answer": "441078.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "106.0",
+        "gold_answer": "106.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "5640733.0",
+        "gold_answer": "56406942.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "4603904.0",
+        "gold_answer": "4603904.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "3731354.0",
+        "gold_answer": "3731352.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "712031.6",
+        "gold_answer": "712071.6"
+    },
+    {
+        "correct": false,
+        "predict_answer": "5489.0",
+        "gold_answer": "5489.5466666667"
+    },
+    {
+        "correct": false,
+        "predict_answer": "197673.0",
+        "gold_answer": "98836.3333333334"
+    },
+    {
+        "correct": false,
+        "predict_answer": "105.0",
+        "gold_answer": "-35520793.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "62.0",
+        "gold_answer": "62.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "10074008.0",
+        "gold_answer": "10074005.666666666"
+    },
+    {
+        "correct": false,
+        "predict_answer": "26.0",
+        "gold_answer": "-9867630.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "8.0",
+        "gold_answer": "8.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "39652742.0",
+        "gold_answer": "39652742.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "70666510.0",
+        "gold_answer": "35333295.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "684193.0",
+        "gold_answer": "684193.5"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "-6887448.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "16087561.0",
+        "gold_answer": "16087561.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "9.0",
+        "gold_answer": "9.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "1640853.7",
+        "gold_answer": "74363508.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "7500.0",
+        "gold_answer": "7500.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "-7020321.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "5.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "18533930.0",
+        "gold_answer": "18533930.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "6.0",
+        "gold_answer": "388147.4117647059"
+    },
+    {
+        "correct": false,
+        "predict_answer": "499067200.0",
+        "gold_answer": "501667000.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "9435680550.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "1296149.0",
+        "gold_answer": "13061161.4"
+    },
+    {
+        "correct": false,
+        "predict_answer": "453000.0",
+        "gold_answer": "19164408.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "4.0",
+        "gold_answer": "650579.5"
+    },
+    {
+        "correct": false,
+        "predict_answer": "1956500.0",
+        "gold_answer": "-1173896.6"
+    },
+    {
+        "correct": true,
+        "predict_answer": "19776716.0",
+        "gold_answer": "19776716.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "8843825.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "13411910.0",
+        "gold_answer": "21459061.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "15.0",
+        "gold_answer": "16.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "-993656.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "54528866.0",
+        "gold_answer": "54517866.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "152703491.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "83.0",
+        "gold_answer": "83.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "13.0",
+        "gold_answer": "13.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "16.0",
+        "gold_answer": "16.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "23103210.4"
+    },
+    {
+        "correct": false,
+        "predict_answer": "30.0",
+        "gold_answer": "7530960.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "-39785000.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "30.0",
+        "gold_answer": "-4357110.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "8609827.0",
+        "gold_answer": "8609812.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "3.0",
+        "gold_answer": "25.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "3813434.5",
+        "gold_answer": "3813434.5"
+    },
+    {
+        "correct": false,
+        "predict_answer": "4736676.0",
+        "gold_answer": "4736666.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "135255660.0",
+        "gold_answer": "13525766.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "14053029.666666666"
+    },
+    {
+        "correct": false,
+        "predict_answer": "19827119.0",
+        "gold_answer": "19827119.5"
+    },
+    {
+        "correct": true,
+        "predict_answer": "20949125.0",
+        "gold_answer": "20949125.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "9970685.0",
+        "gold_answer": "2991216.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "101258.0",
+        "gold_answer": "101257.75"
+    },
+    {
+        "correct": true,
+        "predict_answer": "350.0",
+        "gold_answer": "350.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "-70145984.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "36.0",
+        "gold_answer": "19023741.599999998"
+    },
+    {
+        "correct": false,
+        "predict_answer": "2548776.0",
+        "gold_answer": "2548774.6666666665"
+    },
+    {
+        "correct": false,
+        "predict_answer": "1116703.0",
+        "gold_answer": "3244047.0999999996"
+    },
+    {
+        "correct": false,
+        "predict_answer": "5595242.0",
+        "gold_answer": "5579492.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "15.0",
+        "gold_answer": "-4358966.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "800.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "31879055.0",
+        "gold_answer": "31879055.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "10663305.0",
+        "gold_answer": "10663305.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "4865122.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "16665773.0",
+        "gold_answer": "16684173.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "125.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "2780818000.0",
+        "gold_answer": "278081800.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "36.0",
+        "gold_answer": "36.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "-8657649.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "27.0",
+        "gold_answer": "16127300.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "0.0",
+        "gold_answer": "-8877858.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "60.0",
+        "gold_answer": "60.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "1180.0",
+        "gold_answer": "27045360.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "60954675.0",
+        "gold_answer": "60954715.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "95.0",
+        "gold_answer": "5929597.583333333"
+    },
+    {
+        "correct": false,
+        "predict_answer": "1303247.0",
+        "gold_answer": "13032458.333333334"
+    },
+    {
+        "correct": false,
+        "predict_answer": "96740437.0",
+        "gold_answer": "96754437.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "35558112.0",
+        "gold_answer": "426697344.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "2944943.0",
+        "gold_answer": "2944943.75"
+    },
+    {
+        "correct": false,
+        "predict_answer": "40000.0",
+        "gold_answer": "-1382862000.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "2159044.0",
+        "gold_answer": "2159043.5"
+    },
+    {
+        "correct": false,
+        "predict_answer": "8778912.0",
+        "gold_answer": "8778902.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "21127776.0",
+        "gold_answer": "21127776.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "100.0",
+        "gold_answer": "-3638804.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "507210.0",
+        "gold_answer": "507210.5"
+    },
+    {
+        "correct": false,
+        "predict_answer": "1806142.0",
+        "gold_answer": "1806106.8000000003"
+    },
+    {
+        "correct": true,
+        "predict_answer": "5600.0",
+        "gold_answer": "5600.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "6588585.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "17413974.0",
+        "gold_answer": "17414074.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "251.0",
+        "gold_answer": "-4930258.5"
+    },
+    {
+        "correct": true,
+        "predict_answer": "68.0",
+        "gold_answer": "68.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "1726970.0",
+        "gold_answer": "1726970.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "28083565.0",
+        "gold_answer": "28083565.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "3.0",
+        "gold_answer": "4561195.2"
+    },
+    {
+        "correct": true,
+        "predict_answer": "51318000.0",
+        "gold_answer": "51318000.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "107628900.0",
+        "gold_answer": "322886700.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "5.0",
+        "gold_answer": "5.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "3.0",
+        "gold_answer": "3.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "2634473.0",
+        "gold_answer": "9099577.916666666"
+    },
+    {
+        "correct": false,
+        "predict_answer": "500.0",
+        "gold_answer": "-3577710.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "17274746.0",
+        "gold_answer": "8637843.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "18286416.0",
+        "gold_answer": "18286416.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "81840200.0",
+        "gold_answer": "81840200.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "4039727.0",
+        "gold_answer": "4029727.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "0.0",
+        "gold_answer": "0.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "24.0",
+        "gold_answer": "-673649.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": null,
+        "gold_answer": "99342097.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "6.0",
+        "gold_answer": "-6721339.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "11.0",
+        "gold_answer": "86039481.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "216633907.0",
+        "gold_answer": "126647407.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "105.0",
+        "gold_answer": "19992825.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "120.0",
+        "gold_answer": "120.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "300.0",
+        "gold_answer": "300.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "22473188.0",
+        "gold_answer": "22463288.0"
+    },
+    {
+        "correct": true,
+        "predict_answer": "1895280.0",
+        "gold_answer": "1895280.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "377714.0",
+        "gold_answer": "377712.375"
+    },
+    {
+        "correct": true,
+        "predict_answer": "10.0",
+        "gold_answer": "10.0"
+    },
+    {
+        "correct": false,
+        "predict_answer": "4358497.0",
+        "gold_answer": "4358498.0"
+    }
+]

@@ -1,0 +1,1 @@
+{"id": 45, "problem": "A store sells apples at 3 for $2. How much will 15 apples cost?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "3 apples = $2 \u2192 1 apple = $2/3\n15 apples = 15 * (2/3) = (15*2)/3 = 30/3 = <<30/3=10>>10 dollars\n#### 10", "gold_answer": "10"}

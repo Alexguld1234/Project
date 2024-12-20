@@ -1,0 +1,1 @@
+{"id": 9, "problem": "What do you get if you take the number of letters in the word 'MATH' and multiply by the number of toes on a typical human foot?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'MATH' has 4 letters. A human foot has 5 toes. 4*5=<<4*5=20>>20\n#### 20", "gold_answer": "20"}

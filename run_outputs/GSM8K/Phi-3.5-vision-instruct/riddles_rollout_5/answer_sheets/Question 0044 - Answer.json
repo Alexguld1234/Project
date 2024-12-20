@@ -1,0 +1,1 @@
+{"id": 44, "problem": "Divide the number of weeks in a year (52) by the number of dozen in 24 eggs.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "24 eggs = 2 dozen.\n52/2=26\n#### 26", "gold_answer": "26"}

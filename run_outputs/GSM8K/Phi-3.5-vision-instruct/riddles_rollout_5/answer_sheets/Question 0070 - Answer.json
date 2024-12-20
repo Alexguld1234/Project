@@ -1,0 +1,1 @@
+{"id": 70, "problem": "Subtract the number of letters in 'RED' from the number of letters in 'YELLOW'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'RED'=3 letters, 'YELLOW'=6 letters\n6-3=3\n#### 3", "gold_answer": "3"}

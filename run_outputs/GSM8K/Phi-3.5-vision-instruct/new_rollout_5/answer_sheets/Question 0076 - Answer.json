@@ -1,0 +1,1 @@
+{"id": 76, "problem": "A school bus has 40 seats. If 7/8 of them are occupied, how many are occupied?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "7/8 of 40 = (7/8)*40 = 7*5=<<7*5=35>>35 seats\n#### 35", "gold_answer": "35"}

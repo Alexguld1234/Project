@@ -1,0 +1,1 @@
+{"id": 55, "problem": "A train travels 90 miles in 3 hours. At the same speed, how far does it travel in 9 hours?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Speed: 90/3=30 mph\nIn 9 hrs: 30 * 9 = <<30*9=270>>270 miles\n#### 270", "gold_answer": "270"}

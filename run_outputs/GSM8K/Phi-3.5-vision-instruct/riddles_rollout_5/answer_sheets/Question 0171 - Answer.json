@@ -1,0 +1,1 @@
+{"id": 171, "problem": "Hours in a week divided by legs on a horse, subtract the number of continents starting with 'A'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Hours in a week=24*7=168\nHorse legs=4\n168/4=42\nContinents starting with 'A': Africa, Asia, Antarctica, Australia=4\n42-4=38\n#### 38", "gold_answer": "38"}

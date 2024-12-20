@@ -1,0 +1,1 @@
+{"id": 113, "problem": "Subtract the number of 'S' letters in 'MISSISSIPPI' from the total number of letters in 'MISSISSIPPI'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'MISSISSIPPI'=11 letters total.\nS letters:4 (M I S S I S S I P P I)\n11-4=7\n#### 7", "gold_answer": "7"}

@@ -1,0 +1,1 @@
+{"id": 40, "problem": "A friend buys a smartphone for $600. It depreciates by $100 every year. How much is it worth after 3 years?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Depreciation after 3 years: 3 * $100 = $<<3*100=300>>300\nValue after 3 years: 600 - 300 = $<<600-300=300>>300\n#### 300", "gold_answer": "300"}

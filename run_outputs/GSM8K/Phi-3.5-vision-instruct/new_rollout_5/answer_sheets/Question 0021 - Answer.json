@@ -1,0 +1,1 @@
+{"id": 21, "problem": "A bus route is 50 miles long. If a bus travels the route 3 times in a day, how many miles does it cover that day?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "One route = 50 miles\n3 times: 50 * 3 = <<50*3=150>>150 miles\n#### 150", "gold_answer": "150"}

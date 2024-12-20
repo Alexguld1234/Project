@@ -1,0 +1,1 @@
+{"id": 17, "problem": "Add the number of sides on an octagon to the number of corners on a triangle.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Octagon sides=8. Triangle corners=3. 8+3=<<8+3=11>>11\n#### 11", "gold_answer": "11"}

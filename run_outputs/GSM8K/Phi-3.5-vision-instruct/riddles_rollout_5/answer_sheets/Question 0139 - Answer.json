@@ -1,0 +1,1 @@
+{"id": 139, "problem": "If you have three pairs of shoes, how many shoes do you have?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "One pair=2 shoes, three pairs=3*2=6 shoes\n#### 6", "gold_answer": "6"}

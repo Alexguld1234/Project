@@ -1,0 +1,1 @@
+{"id": 36, "problem": "A plumber charges $50 for the first hour and $30 for each additional hour. If a job takes 3 hours, how much does it cost?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "First hour: $50\nAdditional 2 hours: 2 * 30 = 60\nTotal: 50 + 60 = <<50+60=110>>110 dollars\n#### 110", "gold_answer": "110"}

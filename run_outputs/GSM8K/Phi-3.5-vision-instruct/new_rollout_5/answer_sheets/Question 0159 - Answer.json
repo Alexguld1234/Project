@@ -1,0 +1,1 @@
+{"id": 159, "problem": "A gym membership is $200. If a 15% discount is applied and then a 5% tax on the discounted price, how much do you pay?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "15% off 200=30 off, discounted=170\n5% tax on 170=8.5\nTotal=170+8.5=178.5\n#### 178.5", "gold_answer": "178.5"}

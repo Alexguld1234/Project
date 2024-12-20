@@ -1,0 +1,1 @@
+{"id": 45, "problem": "Add the number of letters in 'OXYGEN' to the number of planets named 'Mars' in our Solar System.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'OXYGEN' = 6 letters.\nNumber of planets named Mars =1.\n6+1=7\n#### 7", "gold_answer": "7"}

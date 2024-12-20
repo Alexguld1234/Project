@@ -1,0 +1,1 @@
+{"id": 137, "problem": "Add the number of wings on a butterfly (2 pairs, total 4) to the number of wings on a bee (2 pairs, total 4).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Butterfly wings=4, Bee wings=4\n4+4=8\n#### 8", "gold_answer": "8"}

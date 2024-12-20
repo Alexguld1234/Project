@@ -1,0 +1,1 @@
+{"id": 83, "problem": "If you divide the number of cards in a standard deck (52) by the number of suits (4), what\u2019s the result?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "52/4=13\n#### 13", "gold_answer": "13"}

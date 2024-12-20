@@ -1,0 +1,1 @@
+{"id": 38, "problem": "A movie theater has 8 rows with 15 seats in each row. If it\u2019s fully occupied, how many people are seated?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "8 * 15 = <<8*15=120>>120 seats\n#### 120", "gold_answer": "120"}

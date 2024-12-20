@@ -1,0 +1,1 @@
+{"id": 66, "problem": "A phone plan costs $50 per month plus $10 per gigabyte of data used. If someone uses 3 gigabytes, how much do they pay?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Data cost: 3 * 10 = 30\nTotal: 50 + 30 = <<50+30=80>>80 dollars\n#### 80", "gold_answer": "80"}

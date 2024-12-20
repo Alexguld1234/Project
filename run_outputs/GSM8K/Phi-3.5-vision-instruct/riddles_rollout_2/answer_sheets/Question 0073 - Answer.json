@@ -1,0 +1,1 @@
+{"id": 73, "problem": "How many legs does a centipede have if you only count half of them, given a centipede typically has 100 legs?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Half of 100=50\n#### 50", "gold_answer": "50"}

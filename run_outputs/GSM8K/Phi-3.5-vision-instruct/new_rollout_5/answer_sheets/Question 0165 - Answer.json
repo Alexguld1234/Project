@@ -1,0 +1,1 @@
+{"id": 165, "problem": "A store marks up a $200 item by 25%, then later offers a 25% discount on the new price. What's the final price?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Markup 25% of 200=50, new=250\nDiscount 25% of 250=62.5 off, final=250-62.5=187.5\n#### 187.5", "gold_answer": "187.5"}

@@ -1,0 +1,1 @@
+{"id": 188, "problem": "You have 300 units. You use 2/5 of them. How many remain?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "2/5 of 300= (2*300)/5=600/5=120 used\nRemain=300-120=180\n#### 180", "gold_answer": "180"}

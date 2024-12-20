@@ -1,0 +1,1 @@
+{"id": 15, "problem": "If you have the number of dwarfs who accompanied Snow White and you add the number of wonders of the ancient world, what\u2019s the total?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Dwarfs:7. Wonders:7. 7+7=<<7+7=14>>14\n#### 14", "gold_answer": "14"}

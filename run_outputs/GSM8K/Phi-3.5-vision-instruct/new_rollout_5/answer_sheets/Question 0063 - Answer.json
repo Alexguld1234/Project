@@ -1,0 +1,1 @@
+{"id": 63, "problem": "A bakery sells muffins in boxes of 8. If you need 40 muffins, how many boxes must you buy?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Each box = 8 muffins\n40 muffins / 8 per box = 5 boxes\nNo remainder, so 5 boxes exactly.\n#### 5", "gold_answer": "5"}

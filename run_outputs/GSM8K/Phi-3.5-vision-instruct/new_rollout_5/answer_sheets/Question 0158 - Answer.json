@@ -1,0 +1,1 @@
+{"id": 158, "problem": "A basket of fruits has apples and bananas. If apples are 3/8 of the fruits, and there are 60 bananas, how many fruits total?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Apples=3/8 * total\nBananas= remainder=5/8 * total=60\nSo 5/8 * total=60 => total=60*(8/5)=96\n#### 96", "gold_answer": "96"}

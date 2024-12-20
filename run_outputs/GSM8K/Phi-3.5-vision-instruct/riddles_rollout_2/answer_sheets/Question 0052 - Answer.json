@@ -1,0 +1,1 @@
+{"id": 52, "problem": "Divide the number of days in February of a leap year (29) by the number of digits in the number 100.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "100 has 3 digits.\n29/3 \u22489.666... (Exact fraction=29/3)\n#### 9.666...", "gold_answer": "9.666..."}

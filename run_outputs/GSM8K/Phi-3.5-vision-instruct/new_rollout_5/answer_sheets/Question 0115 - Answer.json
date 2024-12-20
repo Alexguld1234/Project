@@ -1,0 +1,1 @@
+{"id": 115, "problem": "A basket contains apples and pears. If 2/7 of the fruits are pears and there are 84 pears, how many apples are in the basket?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "2/7 of total =84 pears\nTotal= (7/2)*84=7*42=294 fruits\nApples=294-84=210\n#### 210", "gold_answer": "210"}

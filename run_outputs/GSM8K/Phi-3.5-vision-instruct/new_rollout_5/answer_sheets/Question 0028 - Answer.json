@@ -1,0 +1,1 @@
+{"id": 28, "problem": "A runner completes 10 laps around a track. Each lap is 400 meters. How many meters does the runner cover in total?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "10 laps * 400 m/lap = <<10*400=4000>>4000 meters\n#### 4000", "gold_answer": "4000"}

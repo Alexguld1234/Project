@@ -1,0 +1,1 @@
+{"id": 5, "problem": "Subtract the number of sides on a square from the number of sides on a pentagon. What remains?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Pentagon sides:5. Square sides:4. 5-4=<<5-4=1>>1\n#### 1", "gold_answer": "1"}

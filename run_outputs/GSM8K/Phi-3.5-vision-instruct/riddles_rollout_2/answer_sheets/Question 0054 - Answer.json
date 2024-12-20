@@ -1,0 +1,1 @@
+{"id": 54, "problem": "Multiply the number of sides on a pentagon by the number of letters in 'DOG'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Pentagon sides=5, 'DOG'=3 letters.\n5*3=15\n#### 15", "gold_answer": "15"}

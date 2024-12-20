@@ -1,0 +1,1 @@
+{"id": 32, "problem": "A water tank holds 200 liters. If it\u2019s currently half full, how many liters of water are in the tank?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Half of 200 = 200/2=<<200/2=100>>100 liters\n#### 100", "gold_answer": "100"}

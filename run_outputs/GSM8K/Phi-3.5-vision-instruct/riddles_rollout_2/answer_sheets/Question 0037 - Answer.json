@@ -1,0 +1,1 @@
+{"id": 37, "problem": "What is the number of angles in a rectangle minus the number of angles in a triangle?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Rectangle angles:4, Triangle angles:3, 4-3=<<4-3=1>>1\n#### 1", "gold_answer": "1"}

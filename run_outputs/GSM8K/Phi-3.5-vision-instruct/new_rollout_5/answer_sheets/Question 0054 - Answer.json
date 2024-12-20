@@ -1,0 +1,1 @@
+{"id": 54, "problem": "A machine makes 50 bolts in 10 minutes. At the same rate, how many bolts are made in 60 minutes?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Rate: 50 bolts/10 min = 5 bolts/min\nIn 60 min: 5 * 60 = <<5*60=300>>300 bolts\n#### 300", "gold_answer": "300"}

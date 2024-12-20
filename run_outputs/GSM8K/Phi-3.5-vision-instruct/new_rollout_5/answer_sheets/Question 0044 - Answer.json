@@ -1,0 +1,1 @@
+{"id": 44, "problem": "A garage charges a flat fee of $10 plus $2 per hour for parking. If someone parks for 6 hours, how much do they pay?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Hourly cost: 6 hours * $2 = $12\nTotal = $10 + $12 = $<<10+12=22>>22\n#### 22", "gold_answer": "22"}

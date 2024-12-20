@@ -1,0 +1,1 @@
+{"id": 50, "problem": "If you take the number of letters in 'ELEPHANT' and subtract the number of letters in 'ANT', what\u2019s left?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'ELEPHANT'=8 letters, 'ANT'=3 letters.\n8-3=5\n#### 5", "gold_answer": "5"}

@@ -1,0 +1,1 @@
+{"id": 60, "problem": "Multiply the number of days in a weekend by the number of weekdays in a week.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Weekend days=2 (Saturday, Sunday). Weekdays=5 (Mon-Fri).\n2*5=10\n#### 10", "gold_answer": "10"}

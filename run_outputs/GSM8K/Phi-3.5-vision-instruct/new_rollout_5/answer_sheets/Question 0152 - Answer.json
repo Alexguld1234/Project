@@ -1,0 +1,1 @@
+{"id": 152, "problem": "A car travels 100 miles at 50 mph, then 100 miles at 25 mph. What's the average speed for the 200 miles?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Time first 100 mi:100/50=2h\nSecond 100 mi:100/25=4h\nTotal 6h\nDistance=200 miles\nAvg speed=200/6\u224833.33 mph\n#### 33.33", "gold_answer": "33.33"}

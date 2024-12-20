@@ -1,0 +1,1 @@
+{"id": 29, "problem": "A bakery uses 2 pounds of flour to bake a cake. How many pounds of flour are needed for 9 cakes?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "2 * 9 = <<2*9=18>>18 pounds\n#### 18", "gold_answer": "18"}

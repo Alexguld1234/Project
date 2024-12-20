@@ -1,0 +1,1 @@
+{"id": 62, "problem": "A caterer charges $20 per guest. If there are 45 guests, how much will it cost?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "45 * 20 = <<45*20=900>>900 dollars\n#### 900", "gold_answer": "900"}

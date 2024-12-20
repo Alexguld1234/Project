@@ -1,0 +1,1 @@
+{"id": 2, "problem": "Double the number of legs a human has, then add the number of heads a human has. What do you get?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Legs on a human: 2. Double = 4. Heads: 1. 4+1=<<4+1=5>>5\n#### 5", "gold_answer": "5"}

@@ -1,0 +1,1 @@
+{"id": 79, "problem": "A movie lasts 2 hours. How many minutes is that?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "2 hours = 2*60 = <<2*60=120>>120 minutes\n#### 120", "gold_answer": "120"}

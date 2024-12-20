@@ -1,0 +1,1 @@
+{"id": 108, "problem": "Add the number of continents (7) to the number of letters in 'EARTH' (5).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "7+5=12\n#### 12", "gold_answer": "12"}

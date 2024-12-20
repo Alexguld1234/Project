@@ -1,0 +1,1 @@
+{"id": 140, "problem": "Start with the number of legs on a spider. Multiply by the number of sides on a triangle. Then subtract the number of hours in half a day.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Spider legs = 8\nTriangle sides = 3\n8 * 3 = 24\nHalf a day = 12 hours\n24 - 12 = 12\n#### 12", "gold_answer": "12"}

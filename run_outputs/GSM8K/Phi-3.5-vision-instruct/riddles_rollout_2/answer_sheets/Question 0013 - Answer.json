@@ -1,0 +1,1 @@
+{"id": 13, "problem": "If you have a dozen eggs and you break half of them, how many unbroken eggs remain?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "A dozen=12. Half broken=6. Unbroken=12-6=<<12-6=6>>6\n#### 6", "gold_answer": "6"}

@@ -1,0 +1,1 @@
+{"id": 68, "problem": "A car rental costs $60 per day. If you rent it for 4 days, how much is the total cost?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "4 * 60 = <<4*60=240>>240 dollars\n#### 240", "gold_answer": "240"}

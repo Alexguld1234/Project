@@ -1,0 +1,1 @@
+{"id": 155, "problem": "A car uses 15 gallons for 300 miles. How many gallons for 500 miles at same efficiency?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "15 gal/300 mi=1 gal/20 mi\nFor 500 mi:500/20=25 gal\n#### 25", "gold_answer": "25"}

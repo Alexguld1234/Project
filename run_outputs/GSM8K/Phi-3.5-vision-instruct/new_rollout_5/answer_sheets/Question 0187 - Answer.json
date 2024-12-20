@@ -1,0 +1,1 @@
+{"id": 187, "problem": "A solution is 25% acid. You have 200 ml. You add 50 ml of water. New concentration?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Acid=25% of 200=50 ml\nTotal now=250 ml\n% = (50/250)*100%=20%\n#### 20%", "gold_answer": "20%"}

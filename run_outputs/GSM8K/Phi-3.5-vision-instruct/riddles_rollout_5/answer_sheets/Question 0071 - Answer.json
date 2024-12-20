@@ -1,0 +1,1 @@
+{"id": 71, "problem": "Add the number of fingers on a single human hand to the number of points on a standard star shape.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Hand fingers=5, Star often depicted with 5 points\n5+5=10\n#### 10", "gold_answer": "10"}

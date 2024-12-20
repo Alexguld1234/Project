@@ -1,0 +1,1 @@
+{"id": 66, "problem": "What is the number of stripes on the US flag (13) minus the number of letters in 'FLAG'?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'FLAG'=4 letters\n13-4=9\n#### 9", "gold_answer": "9"}

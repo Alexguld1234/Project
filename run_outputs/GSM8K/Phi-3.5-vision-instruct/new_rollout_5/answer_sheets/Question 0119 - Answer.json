@@ -1,0 +1,1 @@
+{"id": 119, "problem": "A man spends $300. This is 3/5 of all his money. How much money does he have left?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "3/5 of total =300\nTotal=300/(3/5)=300*(5/3)=100*5=500\nHe spent 300, left=500-300=200\n#### 200", "gold_answer": "200"}

@@ -1,0 +1,1 @@
+{"id": 48, "problem": "How many degrees in a right angle times the number of sides on a triangle?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Right angle=90\u00b0, triangle sides=3.\n90*3=270\n#### 270", "gold_answer": "270"}

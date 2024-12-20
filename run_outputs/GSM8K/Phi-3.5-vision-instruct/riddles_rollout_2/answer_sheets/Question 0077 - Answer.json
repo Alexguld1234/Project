@@ -1,0 +1,1 @@
+{"id": 77, "problem": "Subtract the number of days in January (31) from the number of days in a leap year (366).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "366-31=335\n#### 335", "gold_answer": "335"}

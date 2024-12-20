@@ -1,0 +1,1 @@
+{"id": 174, "problem": "A store mixes coffee A (at $10/kg) and coffee B (at $14/kg) in equal amounts. What's the average cost per kg?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Equal amounts means average price=(10+14)/2=12/kg\n#### 12", "gold_answer": "12"}

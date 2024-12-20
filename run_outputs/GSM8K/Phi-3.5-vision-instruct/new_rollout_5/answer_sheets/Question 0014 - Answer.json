@@ -1,0 +1,1 @@
+{"id": 14, "problem": "A gym has 90 members. If 2/5 of them attend morning classes, how many members attend morning classes?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "2/5 of 90 = (2/5)*90 = <<(2/5)*90=36>>36 members\n#### 36", "gold_answer": "36"}

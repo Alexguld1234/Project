@@ -1,0 +1,1 @@
+{"id": 59, "problem": "A warehouse stores 500 boxes. If 2/5 of them are shipped out, how many boxes remain?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "2/5 of 500 = (2*500)/5=1000/5=200 shipped\nRemaining: 500-200=<<500-200=300>>300 boxes\n#### 300", "gold_answer": "300"}

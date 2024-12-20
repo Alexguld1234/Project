@@ -1,0 +1,1 @@
+{"id": 151, "problem": "A shop sells socks at $5 each or a pack of 3 for $12. If you need 6 socks, how much do you save by buying packs instead of individually?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Individually:6*$5=$30\nPacks:2 packs of 3 socks=2*$12=$24\nSave=30-24=6\n#### 6", "gold_answer": "6"}

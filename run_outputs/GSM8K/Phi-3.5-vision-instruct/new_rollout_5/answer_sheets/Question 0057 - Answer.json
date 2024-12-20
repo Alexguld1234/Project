@@ -1,0 +1,1 @@
+{"id": 57, "problem": "A diner sells burgers at $8 each. If someone buys 6 burgers, how much do they spend?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "6 * 8 = <<6*8=48>>48 dollars\n#### 48", "gold_answer": "48"}

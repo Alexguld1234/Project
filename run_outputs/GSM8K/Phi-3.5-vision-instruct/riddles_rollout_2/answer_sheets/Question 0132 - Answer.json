@@ -1,0 +1,1 @@
+{"id": 132, "problem": "Subtract the number of days in November (30) from the number of days in December (31).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "31 -30=1\n#### 1", "gold_answer": "1"}

@@ -1,0 +1,1 @@
+{"id": 25, "problem": "A store sells 3 notebooks for $6. How much will 15 notebooks cost at the same rate?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Rate: 3 notebooks = $6 \u2192 1 notebook = $2\n15 notebooks: 15 * 2 = <<15*2=30>>30 dollars\n#### 30", "gold_answer": "30"}

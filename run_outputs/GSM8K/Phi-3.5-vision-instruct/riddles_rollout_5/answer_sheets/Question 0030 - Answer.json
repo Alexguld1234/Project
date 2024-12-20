@@ -1,0 +1,1 @@
+{"id": 30, "problem": "Add the number of keys on a standard piano (88) to the number of thumbs on two human hands.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Thumbs on two hands=2. 88+2=<<88+2=90>>90\n#### 90", "gold_answer": "90"}

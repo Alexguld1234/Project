@@ -1,0 +1,1 @@
+{"id": 191, "problem": "A phone worth $800 loses 25% value first year, then 10% of the new value second year. Final value?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "1st year:25% of 800=200 lost,value=800-200=600\n2nd year:10% of 600=60 lost,value=600-60=540\n#### 540", "gold_answer": "540"}

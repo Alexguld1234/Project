@@ -1,0 +1,1 @@
+{"id": 72, "problem": "A baker has 240 cookies. If he packs them equally into boxes of 12, how many boxes does he fill?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "240/12 = <<240/12=20>>20 boxes\n#### 20", "gold_answer": "20"}

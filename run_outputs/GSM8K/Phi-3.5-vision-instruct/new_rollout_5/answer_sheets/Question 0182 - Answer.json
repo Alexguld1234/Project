@@ -1,0 +1,1 @@
+{"id": 182, "problem": "You invest $2500 at 4% simple interest for 3 years. How much interest do you earn?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Simple interest = P*r*t = 2500*0.04*3 = 2500*0.12 = 300\n#### 300", "gold_answer": "300"}

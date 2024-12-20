@@ -1,0 +1,1 @@
+{"id": 197, "problem": "You have 160 units. Use 1/4. Remain?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "1/4 of 160=40 used\nRemain=160-40=120\n#### 120", "gold_answer": "120"}

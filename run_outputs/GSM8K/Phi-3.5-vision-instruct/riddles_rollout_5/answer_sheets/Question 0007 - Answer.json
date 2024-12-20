@@ -1,0 +1,1 @@
+{"id": 7, "problem": "Take the number of legs on a spider and divide by the number of legs on a cat, then multiply by the number of noses on a human. What is the result?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Spider legs:8, Cat legs:4, 8/4=2, Human noses=1. 2*1=<<2*1=2>>2\n#### 2", "gold_answer": "2"}

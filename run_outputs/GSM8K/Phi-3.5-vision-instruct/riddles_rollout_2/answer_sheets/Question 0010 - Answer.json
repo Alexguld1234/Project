@@ -1,0 +1,1 @@
+{"id": 10, "problem": "Take the number of planets in our Solar System (currently recognized) and add the number of rings on a typical Olympic logo. What's the sum?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Planets now:8. Olympic rings:5. 8+5=<<8+5=13>>13\n#### 13", "gold_answer": "13"}

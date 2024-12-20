@@ -1,0 +1,1 @@
+{"id": 173, "problem": "A car uses 12 gallons for 240 miles. How many gallons for 300 miles at same rate?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Rate=12/240=1 gal/20 mi\nFor 300 mi=300/20=15 gallons\n#### 15", "gold_answer": "15"}

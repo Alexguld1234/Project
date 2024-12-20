@@ -1,0 +1,1 @@
+{"id": 49, "problem": "A factory produces 300 units in 10 hours. At the same rate, how many units can it produce in 30 hours?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Rate: 300 units / 10 hrs = 30 units/hr\nIn 30 hrs: 30 * 30 = <<30*30=900>>900 units\n#### 900", "gold_answer": "900"}

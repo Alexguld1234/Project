@@ -1,0 +1,1 @@
+{"id": 27, "problem": "A large pizza is cut into 12 slices. If 3 people share it equally, how many slices does each person get?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "12 slices / 3 people = <<12/3=4>>4 slices each\n#### 4", "gold_answer": "4"}

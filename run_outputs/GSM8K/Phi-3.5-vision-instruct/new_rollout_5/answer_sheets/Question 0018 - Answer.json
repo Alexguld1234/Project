@@ -1,0 +1,1 @@
+{"id": 18, "problem": "A car uses 3 gallons of gas every 60 miles. How many gallons will it use for 300 miles?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Ratio: 3 gallons : 60 miles = 1 gallon per 20 miles\nFor 300 miles: 300/20 = <<300/20=15>>15 gallons\n#### 15", "gold_answer": "15"}

@@ -1,0 +1,1 @@
+{"id": 20, "problem": "Mary pays a monthly subscription fee of $15 for an online service. If she uses it for 8 months, how much does she pay in total?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Monthly fee = $15\nFor 8 months: 15 * 8 = <<15*8=120>>120 dollars\n#### 120", "gold_answer": "120"}

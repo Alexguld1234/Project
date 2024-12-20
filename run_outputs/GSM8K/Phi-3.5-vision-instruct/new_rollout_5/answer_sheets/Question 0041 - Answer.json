@@ -1,0 +1,1 @@
+{"id": 41, "problem": "An apple orchard has 300 apples. If 2/3 of them are ripe, how many ripe apples are there?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "2/3 of 300 = (2/3)*300 = 2*100 = <<2*100=200>>200 ripe apples\n#### 200", "gold_answer": "200"}

@@ -1,0 +1,1 @@
+{"id": 194, "problem": "A box has red and green balls in a 4:1 ratio. Total 50 balls. How many red?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Sum ratio:4+1=5 parts\nEach part=50/5=10\nRed=4*10=40\n#### 40", "gold_answer": "40"}

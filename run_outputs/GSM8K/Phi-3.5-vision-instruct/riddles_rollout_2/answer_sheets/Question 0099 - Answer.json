@@ -1,0 +1,1 @@
+{"id": 99, "problem": "Add the number of days in a typical February (28) to the number of hours in a standard day (24).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "28+24=52\n#### 52", "gold_answer": "52"}

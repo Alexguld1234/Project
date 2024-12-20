@@ -1,0 +1,1 @@
+{"id": 22, "problem": "Take the number of letters in 'MOUSE' and subtract the number of letters in 'CAT'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'MOUSE'=5 letters, 'CAT'=3 letters, 5-3=<<5-3=2>>2\n#### 2", "gold_answer": "2"}

@@ -1,0 +1,1 @@
+{"id": 133, "problem": "Add the number of letters in 'COMPUTER' (8) to the number of primary colors (3).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "8+3=11\n#### 11", "gold_answer": "11"}

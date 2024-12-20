@@ -1,0 +1,1 @@
+{"id": 178, "problem": "A ratio of boys to girls is 3:4. If there are 56 students total, how many are boys?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Ratio sum:3+4=7\nEach part=56/7=8\nBoys=3 parts=3*8=24\n#### 24", "gold_answer": "24"}

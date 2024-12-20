@@ -1,0 +1,1 @@
+{"id": 4, "problem": "If you add the number of days in a weekend (Saturday and Sunday) to the number of continents (7), what do you get?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Weekend days:2. Continents:7. 2+7=<<2+7=9>>9\n#### 9", "gold_answer": "9"}

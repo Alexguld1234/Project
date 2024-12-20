@@ -1,0 +1,1 @@
+{"id": 95, "problem": "A car rental charges a base fee of $40 plus $0.25 per mile. If you pay $65 total, how many miles did you drive?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Total = Base + (Rate * Miles)\n65 = 40 + 0.25*M\n65-40=25\nM=25/0.25=<<25/0.25=100>>100 miles\n#### 100", "gold_answer": "100"}

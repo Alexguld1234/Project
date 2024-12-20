@@ -1,0 +1,1 @@
+{"id": 16, "problem": "Take the number of strings on a standard guitar and subtract the number of legs on a typical chair. What is the result?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Guitar strings:6, Chair legs:4, 6-4=<<6-4=2>>2\n#### 2", "gold_answer": "2"}

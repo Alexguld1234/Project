@@ -1,0 +1,1 @@
+{"id": 61, "problem": "Add the number of points on a standard compass (N, E, S, W) to the number of leaves typically on a clover that\u2019s considered lucky.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Compass points:4, Lucky clover:4 leaves\n4+4=8\n#### 8", "gold_answer": "8"}

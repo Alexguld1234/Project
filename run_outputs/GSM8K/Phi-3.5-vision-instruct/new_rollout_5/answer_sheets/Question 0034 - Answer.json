@@ -1,0 +1,1 @@
+{"id": 34, "problem": "A package weighs 24 ounces. If it\u2019s divided equally into 6 smaller packages, how many ounces does each smaller package weigh?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "24 / 6 = <<24/6=4>>4 ounces\n#### 4", "gold_answer": "4"}

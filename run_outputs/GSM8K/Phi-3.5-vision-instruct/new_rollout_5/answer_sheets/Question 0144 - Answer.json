@@ -1,0 +1,1 @@
+{"id": 144, "problem": "A recipe calls for eggs and flour in a 2:3 ratio by weight. If you have 60 grams total, how many grams of flour do you need?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Ratio sum:2+3=5 parts\nEach part=60/5=12g\nFlour=3 parts=3*12=36g\n#### 36", "gold_answer": "36"}

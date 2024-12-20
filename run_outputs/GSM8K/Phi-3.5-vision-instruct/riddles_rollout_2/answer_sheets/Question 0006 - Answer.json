@@ -1,0 +1,1 @@
+{"id": 6, "problem": "If you have three coins totaling 3 cents, and one of them is a penny, how many pennies do you have in total?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "The only way to have 3 cents from 3 coins is all pennies. That\u2019s 3 pennies.\n#### 3", "gold_answer": "3"}

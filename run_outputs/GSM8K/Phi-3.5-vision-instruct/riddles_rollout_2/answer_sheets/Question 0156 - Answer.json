@@ -1,0 +1,1 @@
+{"id": 156, "problem": "Take the number of minutes in an hour. Subtract the number of prime numbers less than 5. Then divide by the number of eyes on a typical needle (1).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Minutes in hour=60\nPrimes less than 5: 2,3 (2 primes)\n60-2=58\nDivide by 1=58\n#### 58", "gold_answer": "58"}

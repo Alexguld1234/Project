@@ -1,0 +1,1 @@
+{"id": 155, "problem": "Consider the number of sides on a nonagon (9). Multiply by the number of letters in 'SIDE' (4). Then subtract the number of digits in '2022' (4).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Nonagon sides=9\n'SIDE'=4 letters\n9*4=36\n'2022' has 4 digits\n36-4=32\n#### 32", "gold_answer": "32"}

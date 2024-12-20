@@ -1,0 +1,1 @@
+{"id": 111, "problem": "A gift box contains apples and oranges in a 2:3 ratio. If there are 60 fruits total, how many apples are there?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Ratio total parts:2+3=5\nEach part=60/5=12\nApples=2 parts=2*12=24\n#### 24", "gold_answer": "24"}

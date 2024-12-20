@@ -1,0 +1,1 @@
+{"id": 147, "problem": "Take the number of strings on a standard violin, add the number of strings on a standard ukulele, then multiply by the number of sides on a hexagon.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Violin=4 strings\nUkulele=4 strings\n4+4=8\nHexagon sides=6\n8*6=48\n#### 48", "gold_answer": "48"}

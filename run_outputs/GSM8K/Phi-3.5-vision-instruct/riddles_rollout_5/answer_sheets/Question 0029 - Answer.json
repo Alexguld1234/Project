@@ -1,0 +1,1 @@
+{"id": 29, "problem": "If you halve the number 100 and then subtract 10, what do you get?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Half of 100=50, 50-10=<<50-10=40>>40\n#### 40", "gold_answer": "40"}

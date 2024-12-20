@@ -1,0 +1,1 @@
+{"id": 85, "problem": "How many sides are on two pentagons combined?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "One pentagon=5 sides, two pentagons=5+5=10 sides\n#### 10", "gold_answer": "10"}

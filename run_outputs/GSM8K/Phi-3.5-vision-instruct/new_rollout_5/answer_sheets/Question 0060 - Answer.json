@@ -1,0 +1,1 @@
+{"id": 60, "problem": "A store sells fruit at 5 apples for $4. How much do 15 apples cost?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "5 apples = $4 \u2192 1 apple = $4/5 = $0.80\n15 apples = 15 * 0.80 = <<15*0.8=12>>12 dollars\n#### 12", "gold_answer": "12"}

@@ -1,0 +1,1 @@
+{"id": 132, "problem": "A box has red and blue balls in a 3:2 ratio. If there are 90 balls total, how many more red balls than blue balls are there?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Ratio sum:3+2=5 parts\nEach part=90/5=18\nRed=3*18=54\nBlue=2*18=36\nDifference=54-36=18\n#### 18", "gold_answer": "18"}

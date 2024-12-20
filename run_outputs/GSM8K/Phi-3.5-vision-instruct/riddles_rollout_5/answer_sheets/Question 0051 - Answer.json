@@ -1,0 +1,1 @@
+{"id": 51, "problem": "Add the number of wheels on a truck (4) to the number of pairs of eyes you have.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Pairs of eyes you have=1 pair =2 eyes, but pairs of eyes=1.\n4+1=5\n#### 5", "gold_answer": "5"}

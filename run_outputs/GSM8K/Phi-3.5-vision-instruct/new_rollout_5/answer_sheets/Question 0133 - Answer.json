@@ -1,0 +1,1 @@
+{"id": 133, "problem": "A machine can produce 240 parts in 8 hours. If you add another identical machine and both run for 5 hours, how many parts are produced?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "One machine rate=240/8=30 parts/hr\nTwo machines=30*2=60 parts/hr\nIn 5 hrs=60*5=300 parts\n#### 300", "gold_answer": "300"}

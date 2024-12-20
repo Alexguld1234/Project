@@ -1,0 +1,1 @@
+{"id": 124, "problem": "If you have a pair of socks and lose both, how many socks remain?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "A pair = 2 socks. Lose both = 0 remain.\n#### 0", "gold_answer": "0"}

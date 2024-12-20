@@ -1,0 +1,1 @@
+{"id": 98, "problem": "Subtract the number of vowels in 'EDUCATION' from the number of vowels in 'AEIOU'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'EDUCATION' vowels: E U A I O =5 vowels.\n'AEIOU'=5 vowels.\n5-5=0\n#### 0", "gold_answer": "0"}

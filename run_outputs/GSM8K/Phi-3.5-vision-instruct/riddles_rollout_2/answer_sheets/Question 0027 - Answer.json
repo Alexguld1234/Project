@@ -1,0 +1,1 @@
+{"id": 27, "problem": "If you take the number of primary colors (red, yellow, blue) and add it to the number of wheels on a car, what is the result?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Primary colors=3, Car wheels=4, 3+4=<<3+4=7>>7\n#### 7", "gold_answer": "7"}

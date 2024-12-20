@@ -1,0 +1,1 @@
+{"id": 149, "problem": "A car\u2019s value depreciates 10% the first year and 10% the second year. Original value $10,000. After 2 years?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "After 1st year:10% of 10000=1000, value=9000\nAfter 2nd year:10% of 9000=900, value=9000-900=8100\n#### 8100", "gold_answer": "8100"}

@@ -1,0 +1,1 @@
+{"id": 56, "problem": "Subtract the number of legs on a human (2) from the number of legs on an octopus (8).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "8-2=6\n#### 6", "gold_answer": "6"}

@@ -1,0 +1,1 @@
+{"id": 65, "problem": "Add the number of Great Lakes to the number of vowels in 'AEIOU'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Great Lakes=5, Vowels in 'AEIOU'=5\n5+5=10\n#### 10", "gold_answer": "10"}

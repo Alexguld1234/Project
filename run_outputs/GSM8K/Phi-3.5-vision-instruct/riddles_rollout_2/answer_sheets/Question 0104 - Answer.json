@@ -1,0 +1,1 @@
+{"id": 104, "problem": "If you take the number of dwarfs with Snow White (7) and add the number of days in the shortest named month (May=31), what\u2019s the sum?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "7 + 31 = 38\n#### 38", "gold_answer": "38"}

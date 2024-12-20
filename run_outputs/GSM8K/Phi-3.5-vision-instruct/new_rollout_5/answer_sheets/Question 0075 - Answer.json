@@ -1,0 +1,1 @@
+{"id": 75, "problem": "A farm has 90 chickens. If 1/3 of them are sold, how many chickens are left?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "1/3 of 90 = 90/3=30 sold\nRemaining: 90-30= <<90-30=60>>60 chickens\n#### 60", "gold_answer": "60"}

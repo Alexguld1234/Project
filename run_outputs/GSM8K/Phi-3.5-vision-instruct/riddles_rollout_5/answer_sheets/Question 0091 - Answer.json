@@ -1,0 +1,1 @@
+{"id": 91, "problem": "If you double the number of letters in 'CAT' and then subtract the number of letters in 'AT', what do you get?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'CAT'=3 letters, double=6.\n'AT'=2 letters\n6-2=4\n#### 4", "gold_answer": "4"}

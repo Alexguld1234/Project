@@ -1,0 +1,1 @@
+{"id": 81, "problem": "Add the number of keys on a standard computer keyboard's top row of letters (Q to P is 10 letters) to the number of days in a weekend.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Top letter row: Q W E R T Y U I O P = 10 letters.\nWeekend days=2.\n10+2=12\n#### 12", "gold_answer": "12"}

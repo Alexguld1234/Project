@@ -1,0 +1,1 @@
+{"id": 15, "problem": "A painter uses 4 cans of paint for every 2 rooms painted. How many cans of paint does he need for 10 rooms?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Ratio: 4 cans : 2 rooms = 2 cans per room\nFor 10 rooms: 10 * 2 = <<10*2=20>>20 cans\n#### 20", "gold_answer": "20"}

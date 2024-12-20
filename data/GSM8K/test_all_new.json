@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 0,
+        "problem": "Caroline baked cookies for a bake sale. She baked 4 dozen chocolate cookies and twice as many peanut butter cookies. If she sold all the peanut butter cookies at $1 each and made $96, how many total cookies did she bake?",
+        "solution": "She baked 4 dozen = 4 * 12 = <<4*12=48>>48 chocolate cookies.\nShe baked twice as many peanut butter cookies, so 48 * 2 = <<48*2=96>>96 peanut butter cookies.\nIf each peanut butter cookie sold for $1, and she made $96, that confirms there were 96 peanut butter cookies.\nTotal cookies baked: 48 + 96 = <<48+96=144>>144\n#### 144"
+    },
+    {
+        "id": 1,
+        "problem": "A jogging club meets every week. On Monday, 6 members show up. On Wednesday, 4 more members than on Monday join. On Friday, the number of members is the average of Monday’s and Wednesday’s attendance. How many members jogged on Friday?",
+        "solution": "Monday: 6 members\nWednesday: 6 + 4 = <<6+4=10>>10 members\nFriday: average of Monday and Wednesday = (6 + 10) / 2 = <<16/2=8>>8 members\n#### 8"
+    },
+    {
+        "id": 2,
+        "problem": "Jasper collects stamps. He has 300 stamps in total. One third of them are from Asia, and half of the remaining are from Europe. The rest are from the Americas. How many stamps are from the Americas?",
+        "solution": "One third of 300 is 300 * 1/3 = <<300*1/3=100>>100 from Asia.\nRemaining: 300 - 100 = <<300-100=200>>200 stamps.\nHalf of these 200 are from Europe: 200/2 = <<200/2=100>>100.\nFrom the Americas: 200 - 100 = <<200-100=100>>100 stamps.\n#### 100"
+    },
+    {
+        "id": 3,
+        "problem": "In a flower shop, tulips cost $2 each, and daisies cost $1 each. Emily buys twice as many tulips as daisies. If she spent a total of $30, how many daisies did she buy?",
+        "solution": "Let d be the number of daisies.\nTulips = 2d.\nCost: 2*d (for daisies) + 2*(2d) (for tulips) = d*1 + (2d)*2 = d + 4d = 5d.\n5d = 30 → d = <<30/5=6>>6 daisies.\n#### 6"
+    },
+    {
+        "id": 4,
+        "problem": "A machine can fill 45 bottles of water in 15 minutes. How many bottles can it fill in 2 hours if it operates at the same rate?",
+        "solution": "45 bottles / 15 min = 3 bottles per minute\n2 hours = 120 minutes\nIn 120 minutes: 120 * 3 = <<120*3=360>>360 bottles\n#### 360"
+    },
+    {
+        "id": 5,
+        "problem": "Samantha knits scarves and hats. She makes 3 scarves for every 2 hats. If she made a total of 50 items, how many hats did she make?",
+        "solution": "Ratio: scarves:hats = 3:2, total parts = 3+2=5 parts\n50 items / 5 parts = 10 items per part\nHats = 2 parts * 10 = <<2*10=20>>20 hats\n#### 20"
+    },
+    {
+        "id": 6,
+        "problem": "A recipe calls for 2 cups of flour for every 3 cups of sugar. If you have 24 cups of sugar, how many cups of flour do you need?",
+        "solution": "Ratio: flour:sugar = 2:3\nIf sugar = 24, then flour = (2/3)*24 = <<2/3*24=16>>16 cups of flour.\n#### 16"
+    },
+    {
+        "id": 7,
+        "problem": "A family of 5 plans to share an inheritance equally. If the total inheritance is $67,500, how many dollars does each family member get?",
+        "solution": "67500 / 5 = <<67500/5=13500>>13500\n#### 13500"
+    },
+    {
+        "id": 8,
+        "problem": "A farmer has 150 apples. He packs them into boxes, each box holding 6 apples. If he sells each box at $5, how much money does he make?",
+        "solution": "Number of boxes: 150/6 = <<150/6=25>>25 boxes.\nTotal revenue: 25 * 5 = <<25*5=125>>125 dollars.\n#### 125"
+    },
+    {
+        "id": 9,
+        "problem": "A bicycle wheel has a circumference of 2 meters. If it rotates 200 times, how many meters does the bike travel?",
+        "solution": "Distance = circumference * rotations = 2 * 200 = <<2*200=400>>400 meters\n#### 400"
+    },
+    {
+        "id": 10,
+        "problem": "There are 60 people at a party. If 1/3 of them are wearing red shirts and half of the remainder are wearing blue shirts, how many people are wearing blue shirts?",
+        "solution": "1/3 of 60 = 60/3 = <<60/3=20>>20 wearing red.\nRemainder: 60 - 20 = <<60-20=40>>40\nHalf of 40 wearing blue = 40/2 = <<40/2=20>>20\n#### 20"
+    },
+    {
+        "id": 11,
+        "problem": "A library has 5 shelves of books with 40 books on each. It donates 1/4 of all its books. How many books remain?",
+        "solution": "Total books: 5 * 40 = <<5*40=200>>200\nDonates 1/4: 1/4 of 200 = 200/4= <<200/4=50>>50\nRemaining: 200 - 50 = <<200-50=150>>150\n#### 150"
+    },
+    {
+        "id": 12,
+        "problem": "A bus travels 180 miles in 3 hours. At the same speed, how many miles can it travel in 8 hours?",
+        "solution": "Speed = 180/3 = <<180/3=60>>60 mph\nIn 8 hours: 60 * 8 = <<60*8=480>>480 miles\n#### 480"
+    },
+    {
+        "id": 13,
+        "problem": "If a store sells 12 pencils for $3, how much does it cost to buy 100 pencils at the same rate?",
+        "solution": "Cost per pencil: $3/12 = <<3/12=0.25>>$0.25 each\nFor 100 pencils: 100 * 0.25 = <<100*0.25=25>>25 dollars\n#### 25"
+    },
+    {
+        "id": 14,
+        "problem": "A gym has 90 members. If 2/5 of them attend morning classes, how many members attend morning classes?",
+        "solution": "2/5 of 90 = (2/5)*90 = <<(2/5)*90=36>>36 members\n#### 36"
+    },
+    {
+        "id": 15,
+        "problem": "A painter uses 4 cans of paint for every 2 rooms painted. How many cans of paint does he need for 10 rooms?",
+        "solution": "Ratio: 4 cans : 2 rooms = 2 cans per room\nFor 10 rooms: 10 * 2 = <<10*2=20>>20 cans\n#### 20"
+    },
+    {
+        "id": 16,
+        "problem": "A baker makes cupcakes in trays. Each tray holds 8 cupcakes. If he bakes 6 trays, how many cupcakes does he have?",
+        "solution": "6 trays * 8 cupcakes/tray = <<6*8=48>>48 cupcakes\n#### 48"
+    },
+    {
+        "id": 17,
+        "problem": "A gardener plants seeds in rows. Each row has 15 seeds. If there are 12 rows, how many seeds are planted?",
+        "solution": "12 rows * 15 seeds/row = <<12*15=180>>180 seeds\n#### 180"
+    },
+    {
+        "id": 18,
+        "problem": "A car uses 3 gallons of gas every 60 miles. How many gallons will it use for 300 miles?",
+        "solution": "Ratio: 3 gallons : 60 miles = 1 gallon per 20 miles\nFor 300 miles: 300/20 = <<300/20=15>>15 gallons\n#### 15"
+    },
+    {
+        "id": 19,
+        "problem": "A crate contains 80 oranges. If 1/5 of them are spoiled, how many good oranges are left?",
+        "solution": "1/5 of 80 = 80/5= <<80/5=16>>16 spoiled.\nGood oranges: 80 - 16 = <<80-16=64>>64\n#### 64"
+    },
+    {
+        "id": 20,
+        "problem": "Mary pays a monthly subscription fee of $15 for an online service. If she uses it for 8 months, how much does she pay in total?",
+        "solution": "Monthly fee = $15\nFor 8 months: 15 * 8 = <<15*8=120>>120 dollars\n#### 120"
+    },
+    {
+        "id": 21,
+        "problem": "A bus route is 50 miles long. If a bus travels the route 3 times in a day, how many miles does it cover that day?",
+        "solution": "One route = 50 miles\n3 times: 50 * 3 = <<50*3=150>>150 miles\n#### 150"
+    },
+    {
+        "id": 22,
+        "problem": "An orchard has 360 apple trees. If 1/6 of them are harvested this week, how many apple trees are harvested?",
+        "solution": "1/6 of 360 = 360/6 = <<360/6=60>>60 trees\n#### 60"
+    },
+    {
+        "id": 23,
+        "problem": "A car rental company charges $40 per day plus a one-time fee of $20. If John rents a car for 5 days, how much does he pay?",
+        "solution": "Daily cost = 40\nFor 5 days: 5 * 40 = 200\nPlus $20 fee: 200 + 20 = <<200+20=220>>220 dollars\n#### 220"
+    },
+    {
+        "id": 24,
+        "problem": "A farmer plants 80 seeds. If 3/4 of them sprout successfully, how many seeds sprout?",
+        "solution": "3/4 of 80 = (3/4)*80 = 3*20 = <<3*20=60>>60\n#### 60"
+    },
+    {
+        "id": 25,
+        "problem": "A store sells 3 notebooks for $6. How much will 15 notebooks cost at the same rate?",
+        "solution": "Rate: 3 notebooks = $6 → 1 notebook = $2\n15 notebooks: 15 * 2 = <<15*2=30>>30 dollars\n#### 30"
+    },
+    {
+        "id": 26,
+        "problem": "A bicycle shop sells helmets at $25 each. If a customer buys 4 helmets, how much do they pay?",
+        "solution": "4 * 25 = <<4*25=100>>100 dollars\n#### 100"
+    },
+    {
+        "id": 27,
+        "problem": "A large pizza is cut into 12 slices. If 3 people share it equally, how many slices does each person get?",
+        "solution": "12 slices / 3 people = <<12/3=4>>4 slices each\n#### 4"
+    },
+    {
+        "id": 28,
+        "problem": "A runner completes 10 laps around a track. Each lap is 400 meters. How many meters does the runner cover in total?",
+        "solution": "10 laps * 400 m/lap = <<10*400=4000>>4000 meters\n#### 4000"
+    },
+    {
+        "id": 29,
+        "problem": "A bakery uses 2 pounds of flour to bake a cake. How many pounds of flour are needed for 9 cakes?",
+        "solution": "2 * 9 = <<2*9=18>>18 pounds\n#### 18"
+    },
+    {
+        "id": 30,
+        "problem": "A teacher splits a class of 36 students into groups of 6. How many groups are formed?",
+        "solution": "36 / 6 = <<36/6=6>>6 groups\n#### 6"
+    },
+    {
+        "id": 31,
+        "problem": "A bookshelf holds 5 shelves with 25 books on each. If the librarian removes 20 books total, how many books remain?",
+        "solution": "Total books: 5*25=125\nRemove 20: 125-20=<<125-20=105>>105\n#### 105"
+    },
+    {
+        "id": 32,
+        "problem": "A water tank holds 200 liters. If it’s currently half full, how many liters of water are in the tank?",
+        "solution": "Half of 200 = 200/2=<<200/2=100>>100 liters\n#### 100"
+    },
+    {
+        "id": 33,
+        "problem": "A party has 60 guests. If 1/5 of them are children, how many children are there?",
+        "solution": "1/5 of 60 = 60/5=<<60/5=12>>12\n#### 12"
+    },
+    {
+        "id": 34,
+        "problem": "A package weighs 24 ounces. If it’s divided equally into 6 smaller packages, how many ounces does each smaller package weigh?",
+        "solution": "24 / 6 = <<24/6=4>>4 ounces\n#### 4"
+    },
+    {
+        "id": 35,
+        "problem": "A music album has 12 songs. If each song is 3 minutes long, how many minutes is the entire album?",
+        "solution": "12 * 3 = <<12*3=36>>36 minutes\n#### 36"
+    },
+    {
+        "id": 36,
+        "problem": "A plumber charges $50 for the first hour and $30 for each additional hour. If a job takes 3 hours, how much does it cost?",
+        "solution": "First hour: $50\nAdditional 2 hours: 2 * 30 = 60\nTotal: 50 + 60 = <<50+60=110>>110 dollars\n#### 110"
+    },
+    {
+        "id": 37,
+        "problem": "A bakery sells a dozen muffins for $24. How much is each muffin?",
+        "solution": "1 dozen = 12 muffins\n$24 / 12 = <<24/12=2>>2 dollars per muffin\n#### 2"
+    },
+    {
+        "id": 38,
+        "problem": "A movie theater has 8 rows with 15 seats in each row. If it’s fully occupied, how many people are seated?",
+        "solution": "8 * 15 = <<8*15=120>>120 seats\n#### 120"
+    },
+    {
+        "id": 39,
+        "problem": "A carton has 30 eggs. If 1/3 of them are cracked, how many good eggs remain?",
+        "solution": "1/3 of 30 = 30/3=10 cracked\nGood eggs: 30 - 10 = <<30-10=20>>20\n#### 20"
+    },
+    {
+        "id": 40,
+        "problem": "A friend buys a smartphone for $600. It depreciates by $100 every year. How much is it worth after 3 years?",
+        "solution": "Depreciation after 3 years: 3 * $100 = $<<3*100=300>>300\nValue after 3 years: 600 - 300 = $<<600-300=300>>300\n#### 300"
+    },
+    {
+        "id": 41,
+        "problem": "An apple orchard has 300 apples. If 2/3 of them are ripe, how many ripe apples are there?",
+        "solution": "2/3 of 300 = (2/3)*300 = 2*100 = <<2*100=200>>200 ripe apples\n#### 200"
+    },
+    {
+        "id": 42,
+        "problem": "A printer prints 20 pages in 5 minutes. At the same rate, how many pages can it print in 15 minutes?",
+        "solution": "Rate: 20 pages / 5 minutes = 4 pages/min\nIn 15 min: 4 * 15 = <<4*15=60>>60 pages\n#### 60"
+    },
+    {
+        "id": 43,
+        "problem": "A gardener has 144 flowers. If she plants them equally in 12 pots, how many flowers go into each pot?",
+        "solution": "144/12 = <<144/12=12>>12 flowers per pot\n#### 12"
+    },
+    {
+        "id": 44,
+        "problem": "A garage charges a flat fee of $10 plus $2 per hour for parking. If someone parks for 6 hours, how much do they pay?",
+        "solution": "Hourly cost: 6 hours * $2 = $12\nTotal = $10 + $12 = $<<10+12=22>>22\n#### 22"
+    },
+    {
+        "id": 45,
+        "problem": "A store sells apples at 3 for $2. How much will 15 apples cost?",
+        "solution": "3 apples = $2 → 1 apple = $2/3\n15 apples = 15 * (2/3) = (15*2)/3 = 30/3 = <<30/3=10>>10 dollars\n#### 10"
+    },
+    {
+        "id": 46,
+        "problem": "A class has 50 students. If 1/2 are boys, how many boys are in the class?",
+        "solution": "1/2 of 50 = 50/2 = <<50/2=25>>25 boys\n#### 25"
+    },
+    {
+        "id": 47,
+        "problem": "A packet contains 40 candies. If 1/5 of them are sour candies, how many sour candies are there?",
+        "solution": "1/5 of 40 = 40/5 = <<40/5=8>>8 sour candies\n#### 8"
+    },
+    {
+        "id": 48,
+        "problem": "A 100-page document needs to be printed. The printer prints 4 pages per minute. How many minutes does it take to print the entire document?",
+        "solution": "100 pages / (4 pages/min) = <<100/4=25>>25 minutes\n#### 25"
+    },
+    {
+        "id": 49,
+        "problem": "A factory produces 300 units in 10 hours. At the same rate, how many units can it produce in 30 hours?",
+        "solution": "Rate: 300 units / 10 hrs = 30 units/hr\nIn 30 hrs: 30 * 30 = <<30*30=900>>900 units\n#### 900"
+    },
+    {
+        "id": 50,
+        "problem": "A bicycle costs $200 and a helmet costs $50. If you buy both, how much do you spend?",
+        "solution": "200 + 50 = <<200+50=250>>250 dollars\n#### 250"
+    },
+    {
+        "id": 51,
+        "problem": "A store sells milk at $4 per gallon. If you buy 5 gallons, how much do you pay?",
+        "solution": "5 * 4 = <<5*4=20>>20 dollars\n#### 20"
+    },
+    {
+        "id": 52,
+        "problem": "A fence is made of 25 posts. If 1/5 of the posts are painted red, how many are red?",
+        "solution": "1/5 of 25 = 25/5=<<25/5=5>>5 red posts\n#### 5"
+    },
+    {
+        "id": 53,
+        "problem": "A cook uses 2 cups of sugar for a cake. How many cups are needed for 7 cakes?",
+        "solution": "2 * 7 = <<2*7=14>>14 cups\n#### 14"
+    },
+    {
+        "id": 54,
+        "problem": "A machine makes 50 bolts in 10 minutes. At the same rate, how many bolts are made in 60 minutes?",
+        "solution": "Rate: 50 bolts/10 min = 5 bolts/min\nIn 60 min: 5 * 60 = <<5*60=300>>300 bolts\n#### 300"
+    },
+    {
+        "id": 55,
+        "problem": "A train travels 90 miles in 3 hours. At the same speed, how far does it travel in 9 hours?",
+        "solution": "Speed: 90/3=30 mph\nIn 9 hrs: 30 * 9 = <<30*9=270>>270 miles\n#### 270"
+    },
+    {
+        "id": 56,
+        "problem": "A library has 240 books. If 1/4 are fiction, how many fiction books are there?",
+        "solution": "1/4 of 240 = 240/4=<<240/4=60>>60 fiction books\n#### 60"
+    },
+    {
+        "id": 57,
+        "problem": "A diner sells burgers at $8 each. If someone buys 6 burgers, how much do they spend?",
+        "solution": "6 * 8 = <<6*8=48>>48 dollars\n#### 48"
+    },
+    {
+        "id": 58,
+        "problem": "A packet of pencils costs $3. If you buy 10 packets, how much do you spend?",
+        "solution": "10 * 3 = <<10*3=30>>30 dollars\n#### 30"
+    },
+    {
+        "id": 59,
+        "problem": "A warehouse stores 500 boxes. If 2/5 of them are shipped out, how many boxes remain?",
+        "solution": "2/5 of 500 = (2*500)/5=1000/5=200 shipped\nRemaining: 500-200=<<500-200=300>>300 boxes\n#### 300"
+    },
+    {
+        "id": 60,
+        "problem": "A store sells fruit at 5 apples for $4. How much do 15 apples cost?",
+        "solution": "5 apples = $4 → 1 apple = $4/5 = $0.80\n15 apples = 15 * 0.80 = <<15*0.8=12>>12 dollars\n#### 12"
+    },
+    {
+        "id": 61,
+        "problem": "A car travels 180 miles on 6 gallons of gas. At the same rate, how many miles can it travel on 2 gallons?",
+        "solution": "Rate: 180 miles/6 gallons = 30 miles/gallon\nOn 2 gallons: 30 * 2 = <<30*2=60>>60 miles\n#### 60"
+    },
+    {
+        "id": 62,
+        "problem": "A caterer charges $20 per guest. If there are 45 guests, how much will it cost?",
+        "solution": "45 * 20 = <<45*20=900>>900 dollars\n#### 900"
+    },
+    {
+        "id": 63,
+        "problem": "A bakery sells muffins in boxes of 8. If you need 40 muffins, how many boxes must you buy?",
+        "solution": "Each box = 8 muffins\n40 muffins / 8 per box = 5 boxes\nNo remainder, so 5 boxes exactly.\n#### 5"
+    },
+    {
+        "id": 64,
+        "problem": "A classroom has 4 rows with 9 desks in each row. How many desks are in the classroom?",
+        "solution": "4 * 9 = <<4*9=36>>36 desks\n#### 36"
+    },
+    {
+        "id": 65,
+        "problem": "A pizza costs $12. If you tip 25% of the pizza's cost, how much is the tip?",
+        "solution": "25% of 12 = (25/100)*12 = 0.25*12 = <<0.25*12=3>>3 dollars\n#### 3"
+    },
+    {
+        "id": 66,
+        "problem": "A phone plan costs $50 per month plus $10 per gigabyte of data used. If someone uses 3 gigabytes, how much do they pay?",
+        "solution": "Data cost: 3 * 10 = 30\nTotal: 50 + 30 = <<50+30=80>>80 dollars\n#### 80"
+    },
+    {
+        "id": 67,
+        "problem": "A hotel has 100 rooms. If 3/5 of them are occupied, how many rooms are occupied?",
+        "solution": "3/5 of 100 = (3/5)*100 = 3*20=<<3*20=60>>60 rooms\n#### 60"
+    },
+    {
+        "id": 68,
+        "problem": "A car rental costs $60 per day. If you rent it for 4 days, how much is the total cost?",
+        "solution": "4 * 60 = <<4*60=240>>240 dollars\n#### 240"
+    },
+    {
+        "id": 69,
+        "problem": "A container holds 2 liters of juice. If you pour out half, how many liters remain?",
+        "solution": "Half of 2 = 2/2 = <<2/2=1>>1 liter\n#### 1"
+    },
+    {
+        "id": 70,
+        "problem": "A printer cartridge can print 400 pages. If you print 1/4 of its capacity, how many pages have you printed?",
+        "solution": "1/4 of 400 = 400/4 = <<400/4=100>>100 pages\n#### 100"
+    },
+    {
+        "id": 71,
+        "problem": "A train ticket costs $15. If you buy 5 tickets, how much do you spend?",
+        "solution": "5 * 15 = <<5*15=75>>75 dollars\n#### 75"
+    },
+    {
+        "id": 72,
+        "problem": "A baker has 240 cookies. If he packs them equally into boxes of 12, how many boxes does he fill?",
+        "solution": "240/12 = <<240/12=20>>20 boxes\n#### 20"
+    },
+    {
+        "id": 73,
+        "problem": "A runner covers 300 meters in 60 seconds. At the same pace, how many meters in 120 seconds?",
+        "solution": "Pace: 300m/60s = 5m/s\nIn 120s: 5 *120= <<5*120=600>>600 meters\n#### 600"
+    },
+    {
+        "id": 74,
+        "problem": "A bottle holds 1.5 liters. How many liters do 4 such bottles hold?",
+        "solution": "4 * 1.5 = <<4*1.5=6>>6 liters\n#### 6"
+    },
+    {
+        "id": 75,
+        "problem": "A farm has 90 chickens. If 1/3 of them are sold, how many chickens are left?",
+        "solution": "1/3 of 90 = 90/3=30 sold\nRemaining: 90-30= <<90-30=60>>60 chickens\n#### 60"
+    },
+    {
+        "id": 76,
+        "problem": "A school bus has 40 seats. If 7/8 of them are occupied, how many are occupied?",
+        "solution": "7/8 of 40 = (7/8)*40 = 7*5=<<7*5=35>>35 seats\n#### 35"
+    },
+    {
+        "id": 77,
+        "problem": "A train passes a pole in 20 seconds. If its speed doubles, how many seconds will it take to pass the same pole?",
+        "solution": "If speed doubles, time halves.\nOriginal time: 20s\nHalved time: 20/2=<<20/2=10>>10 seconds\n#### 10"
+    },
+    {
+        "id": 78,
+        "problem": "A family of 4 shares a pizza cut into 16 slices equally. How many slices per person?",
+        "solution": "16 slices /4 people= <<16/4=4>>4 slices each\n#### 4"
+    },
+    {
+        "id": 79,
+        "problem": "A movie lasts 2 hours. How many minutes is that?",
+        "solution": "2 hours = 2*60 = <<2*60=120>>120 minutes\n#### 120"
+    },
+    {
+        "id": 80,
+        "problem": "Katie buys 3 notebooks and 2 pens. Each notebook costs $4 and each pen costs half as much as a notebook. If she pays with a $50 bill, how much change does she get back?",
+        "solution": "Notebook cost: $4\nPen cost: half of $4 = $4/2 = $<<4/2=2>>2\n3 notebooks cost: 3 * $4 = $<<3*4=12>>12\n2 pens cost: 2 * $2 = $<<2*2=4>>4\nTotal cost: $12 + $4 = $<<12+4=16>>16\nShe pays with $50, so change: $50 - $16 = $<<50-16=34>>34\n#### 34"
+    },
+    {
+        "id": 81,
+        "problem": "A farmer has a flock of sheep. One-third of them are lambs, and one-fifth of the remainder are black sheep. If the farmer has 90 sheep in total, how many black sheep does he have?",
+        "solution": "Total sheep: 90\nLambs: 1/3 of 90 = 90/3 = <<90/3=30>>30 lambs\nRemaining (not lambs): 90 - 30 = <<90-30=60>>60\nBlack sheep: 1/5 of 60 = 60/5 = <<60/5=12>>12\n#### 12"
+    },
+    {
+        "id": 82,
+        "problem": "In a candy shop, a bag of candies costs $8. There is a sale: buy 2 bags, get a third at half price. If Mark buys 3 bags, how much does he pay in total?",
+        "solution": "Normal price per bag: $8\nHe buys 2 bags at full price: 2 * $8 = $<<2*8=16>>16\nThe 3rd bag at half price: $8/2 = $<<8/2=4>>4\nTotal cost: $16 + $4 = $<<16+4=20>>20\n#### 20"
+    },
+    {
+        "id": 83,
+        "problem": "A car travels at a speed of 60 mph for 2 hours, then increases speed to 75 mph for another hour. How many miles in total does it travel?",
+        "solution": "First part: 60 mph * 2 h = <<60*2=120>>120 miles\nSecond part: 75 mph * 1 h = <<75*1=75>>75 miles\nTotal distance: 120 + 75 = <<120+75=195>>195 miles\n#### 195"
+    },
+    {
+        "id": 84,
+        "problem": "A container has a 40% sugar solution. You have 200 ml of it. If you add 100 ml of pure water (0% sugar), what is the concentration of sugar now?",
+        "solution": "Original sugar amount: 40% of 200 ml = 0.40 * 200 = <<0.40*200=80>>80 ml sugar\nAdd 100 ml water, total volume: 200 + 100 = <<200+100=300>>300 ml\nNo sugar added, so sugar still 80 ml\nConcentration = (80/300)*100% = (80/300)*100 = <<(80/300)*100=26.666...>>26.67% (approx)\n#### 26.67%"
+    },
+    {
+        "id": 85,
+        "problem": "A rectangular garden is 20 meters long and 10 meters wide. If you add a path of 1 meter width all around it, what is the area of the garden plus the path?",
+        "solution": "Original garden: length = 20, width = 10\nAdd 1 m path around: new length = 20 + 2*1 = <<20+2=22>>22 meters\nNew width = 10 + 2*1 = <<10+2=12>>12 meters\nNew area: 22 * 12 = <<22*12=264>>264 sq. meters\n#### 264"
+    },
+    {
+        "id": 86,
+        "problem": "A merchant buys a product at $150 and marks it up by 20%. After failing to sell it, he gives a 10% discount on the marked price. How much does the customer pay?",
+        "solution": "Cost price: $150\nMark-up 20%: 20% of 150 = 0.2*150= <<0.2*150=30>>30\nMarked price: 150+30= $<<150+30=180>>180\nDiscount 10% on $180: 10% of 180=18\nSale price: 180-18= $<<180-18=162>>162\n#### 162"
+    },
+    {
+        "id": 87,
+        "problem": "In a box of mixed nuts, 1/2 are peanuts, 1/3 are almonds, and the rest are cashews. If there are 120 nuts total, how many cashews are there?",
+        "solution": "1/2 are peanuts = 120/2=<<120/2=60>>60 peanuts\n1/3 are almonds = 120/3=<<120/3=40>>40 almonds\nTotal peanuts+almonds=60+40=<<60+40=100>>100\nCashews=120-100=<<120-100=20>>20\n#### 20"
+    },
+    {
+        "id": 88,
+        "problem": "You have a rope 60 meters long. You cut it into three pieces in the ratio 2:3:5. How long is the longest piece?",
+        "solution": "Total ratio parts: 2+3+5=<<2+3+5=10>>10 parts\nOne part=60/10=<<60/10=6>>6 meters\nLongest piece = 5 parts=5*6=<<5*6=30>>30 meters\n#### 30"
+    },
+    {
+        "id": 89,
+        "problem": "A store sells shirts at $20 each. If you buy more than 3, each additional shirt after the 3rd is half price. If you buy 5 shirts, how much do you pay?",
+        "solution": "First 3 shirts: 3 * $20 = $<<3*20=60>>60\n2 extra shirts at half price: half of 20 = $10 each\n2 * $10 = $<<2*10=20>>20\nTotal: 60 + 20 = $<<60+20=80>>80\n#### 80"
+    },
+    {
+        "id": 90,
+        "problem": "A train completes a 360-mile journey. It travels the first half at 60 mph and the second half at 90 mph. How many hours does the journey take?",
+        "solution": "Total distance: 360 miles\nFirst half: 360/2=<<360/2=180>>180 miles at 60 mph\nTime first half: 180/60=<<180/60=3>>3 hours\nSecond half: also 180 miles at 90 mph\nTime second half: 180/90=<<180/90=2>>2 hours\nTotal time: 3+2=<<3+2=5>>5 hours\n#### 5"
+    },
+    {
+        "id": 91,
+        "problem": "A juice mixture is made by mixing orange juice and apple juice in the ratio 2:5. If you have 56 liters total, how many liters of apple juice are in the mixture?",
+        "solution": "Ratio total parts: 2+5=7 parts\nEach part = 56/7=<<56/7=8>>8 liters\nApple juice = 5 parts = 5*8=<<5*8=40>>40 liters\n#### 40"
+    },
+    {
+        "id": 92,
+        "problem": "A store reduces the price of a $300 TV by 10%, and then reduces the new price by another 10%. What is the final price?",
+        "solution": "First 10% off 300: 10% of 300=30\nNew price:300-30=270\nSecond 10% off 270:10% of 270=27\nNew price:270-27=<<270-27=243>>243\n#### 243"
+    },
+    {
+        "id": 93,
+        "problem": "You have $500. You spend 1/5 on groceries, then 1/4 of the remainder on clothes. How much money is left?",
+        "solution": "Spend 1/5 of 500 on groceries:500/5=100\nRemaining:500-100=400\nSpend 1/4 of 400 on clothes:400/4=100\nRemaining:400-100=300\n#### 300"
+    },
+    {
+        "id": 94,
+        "problem": "A box has red and blue marbles. 40% are red, and the rest are blue. If there are 72 blue marbles, how many red marbles are there?",
+        "solution": "Red% =40%, Blue%=60%\nLet total= T\n60% of T=72 →0.6*T=72 → T=72/0.6=<<72/0.6=120>>120 total\nRed = 40% of 120=0.4*120=<<0.4*120=48>>48\n#### 48"
+    },
+    {
+        "id": 95,
+        "problem": "A car rental charges a base fee of $40 plus $0.25 per mile. If you pay $65 total, how many miles did you drive?",
+        "solution": "Total = Base + (Rate * Miles)\n65 = 40 + 0.25*M\n65-40=25\nM=25/0.25=<<25/0.25=100>>100 miles\n#### 100"
+    },
+    {
+        "id": 96,
+        "problem": "A machine can produce 300 widgets in 5 hours. If another identical machine is added and both run for 4 hours, how many widgets are produced?",
+        "solution": "One machine rate:300/5=60 widgets/hour\nTwo machines:2*60=<<2*60=120>>120 widgets/hour\nIn 4 hours:120*4=<<120*4=480>>480 widgets\n#### 480"
+    },
+    {
+        "id": 97,
+        "problem": "You mix 3 liters of a 20% salt solution with 2 liters of a 50% salt solution. What is the concentration of the new 5-liter mixture?",
+        "solution": "Salt in 20% of 3L=0.2*3=<<0.2*3=0.6>>0.6L salt\nSalt in 50% of 2L=0.5*2=<<0.5*2=1>>1L salt\nTotal salt=0.6+1=<<0.6+1=1.6>>1.6L\nTotal volume=3+2=5L\nConcentration=(1.6/5)*100%=(0.32*100%)=32%\n#### 32%"
+    },
+    {
+        "id": 98,
+        "problem": "A store sells boxes of chocolates. A box has 20 chocolates. If 2/5 of them are milk chocolate and the rest are dark chocolate, how many dark chocolates are there?",
+        "solution": "2/5 of 20 are milk = (2/5)*20=2*4=8 milk\nDark=20-8=<<20-8=12>>12 dark\n#### 12"
+    },
+    {
+        "id": 99,
+        "problem": "A worker earns $15 per hour for the first 40 hours, then time-and-a-half (1.5 times) for each extra hour. If he worked 45 hours, how much does he earn total?",
+        "solution": "Regular pay:40 hrs * $15=<<40*15=600>>600\nExtra hours:45-40=5 hrs\nOvertime rate=15*1.5=22.5\nOvertime pay:5*22.5=<<5*22.5=112.5>>112.5\nTotal=600+112.5=<<600+112.5=712.5>>712.5\n#### 712.5"
+    },
+    {
+        "id": 100,
+        "problem": "A catering service charges a flat fee of $100 plus $12 per guest. If you have 25 guests and leave a 20% tip on the total bill, how much do you pay?",
+        "solution": "Cost before tip: Flat fee $100 + (25 guests * $12) = 100 + (25*12) = 100 + 300 = $400\n20% tip on $400 = 0.20 * 400 = $80\nTotal = 400 + 80 = $480\n#### 480"
+    },
+    {
+        "id": 101,
+        "problem": "You buy 2 items: one costs $30 and the other costs $50. You use a coupon for 10% off the total. After the discount, you pay sales tax of 8%. How much do you pay in total?",
+        "solution": "Sum of items: 30 + 50 = $80\n10% off: 10% of 80 = 8, so discounted price = 80 - 8 = $72\nAdd 8% tax: 8% of 72 = 0.08*72=5.76\nTotal = 72 + 5.76 = $77.76\n#### 77.76"
+    },
+    {
+        "id": 102,
+        "problem": "A store sells flour in 2-pound bags and 5-pound bags. You need exactly 29 pounds. If you buy four 5-pound bags and the rest in 2-pound bags, how many 2-pound bags do you need?",
+        "solution": "Four 5-pound bags = 4*5=20 pounds\nRemaining needed: 29 - 20 = 9 pounds\n2-pound bags: To get 9 pounds using 2-pound bags, you need enough to cover 9 pounds.\n9 ÷ 2 = 4.5, but must buy whole bags, so you need 5 bags (which gives 10 pounds, 1 pound extra is unavoidable if exact must be at least 29).\n#### 5"
+    },
+    {
+        "id": 103,
+        "problem": "You have a 60-liter solution that is 25% alcohol. You add 20 liters of pure water. What is the new percentage of alcohol?",
+        "solution": "Original alcohol: 25% of 60L = 0.25 * 60 = 15L alcohol\nAdding 20L water means total volume = 60 + 20 = 80L\nNo alcohol added, still 15L alcohol.\n% alcohol = (15/80)*100% = (0.1875)*100% = 18.75%\n#### 18.75%"
+    },
+    {
+        "id": 104,
+        "problem": "A runner jogs at 8 mph for 1.5 hours, then increases speed to 10 mph for another 0.5 hours. How many miles in total does she run?",
+        "solution": "First part: 8 mph * 1.5 h = 8*1.5=12 miles\nSecond part: 10 mph *0.5 h=10*0.5=5 miles\nTotal=12+5=17 miles\n#### 17"
+    },
+    {
+        "id": 105,
+        "problem": "A recipe calls for 3 cups of sugar for every 5 cups of flour. If you have 40 cups of flour, how many cups of sugar do you need?",
+        "solution": "Ratio sugar:flour = 3:5\nFor 5 cups flour → 3 cups sugar\nFor 1 cup flour → 3/5 cups sugar\nFor 40 cups flour → 40*(3/5)=40*0.6=24 cups sugar\n#### 24"
+    },
+    {
+        "id": 106,
+        "problem": "A car's value decreases by 15% each year. If its value now is $20,000, what will its value be after 2 years?",
+        "solution": "After 1 year: decrease 15% of 20000 = 0.15*20000=3000\nValue after 1 year: 20000-3000=17000\nAfter 2nd year: 15% of 17000=0.15*17000=2550\nValue after 2 years:17000-2550=14450\n#### 14450"
+    },
+    {
+        "id": 107,
+        "problem": "You mix two solutions: 4 liters of 30% acid and 6 liters of 10% acid. What is the percentage of acid in the final 10-liter mixture?",
+        "solution": "Acid in first: 30% of 4L=0.3*4=1.2L\nAcid in second:10% of 6L=0.1*6=0.6L\nTotal acid=1.2+0.6=1.8L\nTotal volume=4+6=10L\n% acid=(1.8/10)*100%=18%\n#### 18%"
+    },
+    {
+        "id": 108,
+        "problem": "A farmer has chickens and cows. There are 50 heads total and 140 legs total. How many cows are there?",
+        "solution": "Heads (chickens+cows)=50\nChickens have 2 legs, cows have 4 legs.\nLet c=cows, then chickens=50-c.\nLegs:2*(50-c)+4*c=140\n100-2c+4c=140\n100+2c=140\n2c=40\nc=20 cows\n#### 20"
+    },
+    {
+        "id": 109,
+        "problem": "You invest $5000 at 5% annual simple interest. How much interest do you earn in 3 years?",
+        "solution": "Simple interest=Principal*rate*time=5000*0.05*3=5000*0.15=750\n#### 750"
+    },
+    {
+        "id": 110,
+        "problem": "A cyclist travels 15 miles in 1 hour, then 30 miles in 2 hours, and finally 10 miles in 0.5 hours. What is the cyclist's average speed for the entire trip?",
+        "solution": "Total distance:15+30+10=55 miles\nTotal time:1+2+0.5=3.5 hours\nAverage speed=distance/time=55/3.5=15.714... mph (approx)\n#### 15.71 mph"
+    },
+    {
+        "id": 111,
+        "problem": "A gift box contains apples and oranges in a 2:3 ratio. If there are 60 fruits total, how many apples are there?",
+        "solution": "Ratio total parts:2+3=5\nEach part=60/5=12\nApples=2 parts=2*12=24\n#### 24"
+    },
+    {
+        "id": 112,
+        "problem": "A tank is filled at a rate of 10 liters/min and drained at a rate of 4 liters/min simultaneously. If the tank is empty at the start, how many liters are in it after 30 minutes?",
+        "solution": "Net fill rate=10-4=6 L/min\nIn 30 min:6*30=180 liters\n#### 180"
+    },
+    {
+        "id": 113,
+        "problem": "A bag has 200 marbles. 10% are blue, 20% are green, and the rest are red. How many red marbles are there?",
+        "solution": "Blue=10% of 200=20\nGreen=20% of 200=40\nTotal non-red=20+40=60\nRed=200-60=140\n#### 140"
+    },
+    {
+        "id": 114,
+        "problem": "A store sells cans in packs of 6 and bottles in packs of 4. You buy 5 packs of cans and 3 packs of bottles. How many items do you have in total?",
+        "solution": "Cans:5 packs*6 per pack=30 cans\nBottles:3 packs*4 per pack=12 bottles\nTotal=30+12=42 items\n#### 42"
+    },
+    {
+        "id": 115,
+        "problem": "A basket contains apples and pears. If 2/7 of the fruits are pears and there are 84 pears, how many apples are in the basket?",
+        "solution": "2/7 of total =84 pears\nTotal= (7/2)*84=7*42=294 fruits\nApples=294-84=210\n#### 210"
+    },
+    {
+        "id": 116,
+        "problem": "You travel 90 miles. The first 30 miles at 30 mph, the next 30 miles at 45 mph, and the last 30 miles at 60 mph. What is your average speed over the entire 90 miles?",
+        "solution": "Time for first 30 miles:30/30=1h\nTime for second 30 miles:30/45=0.666...h (2/3 h)\nTime for last 30 miles:30/60=0.5h\nTotal time=1+2/3+0.5=1+0.6667+0.5=2.1667 h approx\nAverage speed=Total dist/Total time=90/2.1667≈41.5 mph\n#### 41.5 mph (approx)"
+    },
+    {
+        "id": 117,
+        "problem": "A school has 360 students. 1/3 of them ride the bus, and of those who ride the bus, half are in the morning only and half are in both morning and afternoon. How many ride the bus in both morning and afternoon?",
+        "solution": "1/3 of 360=360/3=120 ride bus\nHalf of these in both morning and afternoon=120/2=60\n#### 60"
+    },
+    {
+        "id": 118,
+        "problem": "A necklace is made from beads of three colors in the ratio 2:2:1 (red:blue:green). If there are 100 beads total, how many are green?",
+        "solution": "Ratio sum:2+2+1=5 parts\nEach part=100/5=20\nGreen=1 part=20 beads\n#### 20"
+    },
+    {
+        "id": 119,
+        "problem": "A man spends $300. This is 3/5 of all his money. How much money does he have left?",
+        "solution": "3/5 of total =300\nTotal=300/(3/5)=300*(5/3)=100*5=500\nHe spent 300, left=500-300=200\n#### 200"
+    },
+    {
+        "id": 120,
+        "problem": "A plumber charges a $75 flat fee for a visit plus $50 per hour. If the plumber spends 3.5 hours working and you tip 10% on the total before the tip, how much do you pay?",
+        "solution": "Hourly charge: 3.5 * $50 = $175\nTotal before tip: $75 + $175 = $250\n10% tip on $250 = $25\nTotal = $250 + $25 = $275\n#### 275"
+    },
+    {
+        "id": 121,
+        "problem": "A juice blend is made by mixing 8 liters of 30% juice with 12 liters of 50% juice. What is the concentration of the resulting 20-liter mixture?",
+        "solution": "Juice from first: 0.30 * 8 = 2.4 liters\nJuice from second: 0.50 * 12 = 6 liters\nTotal juice: 2.4 + 6 = 8.4 liters\nTotal volume: 8 + 12 = 20 liters\nConcentration: (8.4/20)*100% = 42%\n#### 42%"
+    },
+    {
+        "id": 122,
+        "problem": "You have a rope 90 meters long. You cut it into pieces in the ratio 3:2:1. How long is the shortest piece?",
+        "solution": "Total ratio parts: 3+2+1=6 parts\nEach part=90/6=15 meters\nShortest piece=1 part=15 meters\n#### 15"
+    },
+    {
+        "id": 123,
+        "problem": "A box of chocolates has 25% dark chocolates, 35% milk chocolates, and the rest are white chocolates. If there are 200 chocolates in total, how many are white?",
+        "solution": "Dark=25% of 200=50\nMilk=35% of 200=70\nTotal dark+milk=50+70=120\nWhite=200-120=80\n#### 80"
+    },
+    {
+        "id": 124,
+        "problem": "A runner runs 2 miles at 8 mph, then 4 miles at 6 mph. How long does the entire 6-mile run take (in minutes)?",
+        "solution": "Time for 2 miles at 8 mph: time=distance/speed=2/8=0.25 hours\nTime for 4 miles at 6 mph: 4/6≈0.6667 hours\nTotal time in hours:0.25+0.6667=0.9167 hours\nIn minutes:0.9167*60≈55 minutes\n#### 55"
+    },
+    {
+        "id": 125,
+        "problem": "A pizza shop sells a pizza for $16. If you apply a coupon for 25% off and then tip 15% on the discounted price, how much do you pay?",
+        "solution": "25% off $16: discount=16*0.25=4, discounted=16-4=12\nTip 15% on $12: tip=12*0.15=1.8\nTotal=12+1.8=13.8\n#### 13.8"
+    },
+    {
+        "id": 126,
+        "problem": "A store has a 'buy one get one half price' deal. Each item costs $40 normally. If you buy 4 items under this deal, how much do you pay?",
+        "solution": "Pairs: For every 2 items: first full = $40, second half = $20, total $60 per pair.\n4 items=2 pairs=2*$60=$120\n#### 120"
+    },
+    {
+        "id": 127,
+        "problem": "A car travels 100 miles. The first 50 miles at 25 mph, the next 30 miles at 50 mph, and the last 20 miles at 20 mph. How long does the entire trip take?",
+        "solution": "First 50 mi at 25 mph: time=50/25=2 hrs\nNext 30 mi at 50 mph:30/50=0.6 hrs\nLast 20 mi at 20 mph:20/20=1 hr\nTotal time=2+0.6+1=3.6 hrs\n#### 3.6 hours"
+    },
+    {
+        "id": 128,
+        "problem": "You have 600 ml of a solution that is 10% salt. You evaporate 100 ml of water, leaving the salt behind. What is the new concentration of salt?",
+        "solution": "Original salt=10% of 600=0.10*600=60 ml salt\nEvaporate 100 ml water: total volume now=600-100=500 ml\nSalt unchanged=60 ml\nConcentration= (60/500)*100%=12%\n#### 12%"
+    },
+    {
+        "id": 129,
+        "problem": "A farmer sells apples at 3 for $2. How much does he earn if he sells 60 apples?",
+        "solution": "3 apples = $2 →1 apple=2/3≈$0.6667\n60 apples * (2/3) = (60*2)/3=120/3=40 dollars\n#### 40"
+    },
+    {
+        "id": 130,
+        "problem": "A phone is on sale for 20% off its original price of $500. After the discount, an additional sales tax of 8% is added. How much do you pay?",
+        "solution": "20% off 500=100 off, discounted=400\n8% tax on 400=400*0.08=32\nTotal=400+32=432\n#### 432"
+    },
+    {
+        "id": 131,
+        "problem": "A mixture has 40% sugar. You have 50 kg of it. If you remove 10 kg of this mixture and replace it with 10 kg of pure sugar, what is the new sugar percentage?",
+        "solution": "Original sugar:40% of 50=0.4*50=20 kg\nRemove 10 kg mixture: that removes sugar in same ratio=10 kg *40%=4 kg sugar removed\nRemaining sugar=20-4=16 kg\nVolume now 40 kg mixture + 10 kg sugar added =50 kg total\nTotal sugar=16+10=26 kg\n% sugar= (26/50)*100%=52%\n#### 52%"
+    },
+    {
+        "id": 132,
+        "problem": "A box has red and blue balls in a 3:2 ratio. If there are 90 balls total, how many more red balls than blue balls are there?",
+        "solution": "Ratio sum:3+2=5 parts\nEach part=90/5=18\nRed=3*18=54\nBlue=2*18=36\nDifference=54-36=18\n#### 18"
+    },
+    {
+        "id": 133,
+        "problem": "A machine can produce 240 parts in 8 hours. If you add another identical machine and both run for 5 hours, how many parts are produced?",
+        "solution": "One machine rate=240/8=30 parts/hr\nTwo machines=30*2=60 parts/hr\nIn 5 hrs=60*5=300 parts\n#### 300"
+    },
+    {
+        "id": 134,
+        "problem": "A drink is made by mixing cranberry juice and water in the ratio 5:3. If you have 64 ounces total, how many ounces of cranberry juice are there?",
+        "solution": "Ratio sum:5+3=8 parts\nEach part=64/8=8 oz\nCranberry=5 parts=5*8=40 oz\n#### 40"
+    },
+    {
+        "id": 135,
+        "problem": "A taxi charges $4 plus $0.50 per mile. If the total fare is $14, how many miles did you travel?",
+        "solution": "14=4+0.5*miles\n14-4=10\nmiles=10/0.5=20 miles\n#### 20"
+    },
+    {
+        "id": 136,
+        "problem": "An investor puts $2000 in a fund that grows by 10% the first year and then loses 10% the second year. What is the final amount?",
+        "solution": "After 1st year:10% gain on 2000=2000+200=2200\nAfter 2nd year:10% loss of 2200=2200-220=1980\n#### 1980"
+    },
+    {
+        "id": 137,
+        "problem": "A runner covers a distance by jogging half at 6 mph and half at 12 mph. If the total distance is 12 miles, what is the average speed?",
+        "solution": "Half distance=12/2=6 miles each part\nTime at 6 mph:6/6=1 hr\nTime at 12 mph:6/12=0.5 hrs\nTotal time=1+0.5=1.5 hrs\nTotal distance=12 miles\nAverage speed=12/1.5=8 mph\n#### 8"
+    },
+    {
+        "id": 138,
+        "problem": "You invest $4000 at an annual interest rate of 5% compounded yearly. After 2 years, how much is the investment worth?",
+        "solution": "Compound:After 1 year=4000*(1+0.05)=4000*1.05=4200\nAfter 2nd year=4200*1.05=4410\n#### 4410"
+    },
+    {
+        "id": 139,
+        "problem": "A store increases the price of a $100 item by 20%, then later decreases this new price by 20%. What is the final price?",
+        "solution": "First increase:20% of 100=20, new price=120\nThen decrease by 20% of 120=24, final=120-24=96\n#### 96"
+    },
+    {
+        "id": 140,
+        "problem": "A fruit seller has 200 fruits. 1/4 are oranges, 1/5 are apples, and the rest are pears. How many pears does he have?",
+        "solution": "1/4 of 200 = 50 oranges\n1/5 of 200 = 40 apples\nTotal oranges+apples = 50+40=90\nPears=200-90=110\n#### 110"
+    },
+    {
+        "id": 141,
+        "problem": "A truck travels 60 miles at 30 mph, then 60 miles at 60 mph. What is its average speed for the entire 120-mile trip?",
+        "solution": "Time for first 60 mi:60/30=2 hrs\nTime for second 60 mi:60/60=1 hr\nTotal time=3 hrs\nDistance=120 miles\nAverage speed=120/3=40 mph\n#### 40"
+    },
+    {
+        "id": 142,
+        "problem": "You invest $600 at 10% simple interest for 4 years. How much interest do you earn?",
+        "solution": "Simple interest=principal*rate*time=600*0.10*4=600*0.4=240\n#### 240"
+    },
+    {
+        "id": 143,
+        "problem": "A coffee blend is 40% Arabica. You have 80 kg of it. You add 20 kg of pure Arabica beans. What is the new percentage of Arabica?",
+        "solution": "Original Arabica:40% of 80=0.4*80=32 kg\nAdd 20 kg Arabica\nTotal Arabica=32+20=52 kg\nTotal=80+20=100 kg\nPercentage= (52/100)*100% =52%\n#### 52%"
+    },
+    {
+        "id": 144,
+        "problem": "A recipe calls for eggs and flour in a 2:3 ratio by weight. If you have 60 grams total, how many grams of flour do you need?",
+        "solution": "Ratio sum:2+3=5 parts\nEach part=60/5=12g\nFlour=3 parts=3*12=36g\n#### 36"
+    },
+    {
+        "id": 145,
+        "problem": "A taxi charges $2 per mile plus a $10 base fee. If your total charge is $28, how many miles did you travel?",
+        "solution": "28=10+2*miles\n28-10=18\nmiles=18/2=9\n#### 9"
+    },
+    {
+        "id": 146,
+        "problem": "A shirt is discounted 15% from $40, then there is an 8% sales tax on the discounted price. How much do you pay?",
+        "solution": "15% off $40=40*0.15=6 discount\nDiscounted=40-6=34\nTax 8% on 34=34*0.08=2.72\nTotal=34+2.72=36.72\n#### 36.72"
+    },
+    {
+        "id": 147,
+        "problem": "A car tank holds 50 liters. Initially it’s half full. You add 20 liters. How full is it now (in liters)?",
+        "solution": "Half full=50/2=25 liters\nAdd 20 liters=25+20=45 liters\n#### 45"
+    },
+    {
+        "id": 148,
+        "problem": "A garden is 10 m by 15 m. A path of width 2 m surrounds it. What is the total area including the path?",
+        "solution": "New length=10+2+2=14 m\nNew width=15+2+2=19 m\nNew area=14*19=266 sq.m\n#### 266"
+    },
+    {
+        "id": 149,
+        "problem": "A car’s value depreciates 10% the first year and 10% the second year. Original value $10,000. After 2 years?",
+        "solution": "After 1st year:10% of 10000=1000, value=9000\nAfter 2nd year:10% of 9000=900, value=9000-900=8100\n#### 8100"
+    },
+    {
+        "id": 150,
+        "problem": "A barrel is 1/4 full with 50 liters. How many liters when full?",
+        "solution": "1/4 full=50 liters\nFull=50*4=200 liters\n#### 200"
+    },
+    {
+        "id": 151,
+        "problem": "A shop sells socks at $5 each or a pack of 3 for $12. If you need 6 socks, how much do you save by buying packs instead of individually?",
+        "solution": "Individually:6*$5=$30\nPacks:2 packs of 3 socks=2*$12=$24\nSave=30-24=6\n#### 6"
+    },
+    {
+        "id": 152,
+        "problem": "A car travels 100 miles at 50 mph, then 100 miles at 25 mph. What's the average speed for the 200 miles?",
+        "solution": "Time first 100 mi:100/50=2h\nSecond 100 mi:100/25=4h\nTotal 6h\nDistance=200 miles\nAvg speed=200/6≈33.33 mph\n#### 33.33"
+    },
+    {
+        "id": 153,
+        "problem": "You have 240 ml of a 25% salt solution. How many ml of water to add to reduce concentration to 20%?",
+        "solution": "Salt=25% of 240=0.25*240=60 ml salt\nWant 20%:Let total final volume be V ml\n0.20*V=60 ml salt\nV=60/0.20=300 ml total\nCurrently 240 ml\nAdd=300-240=60 ml water\n#### 60"
+    },
+    {
+        "id": 154,
+        "problem": "A paint mixture is 50% red and 50% yellow. You add 20 liters of red paint, making it 60% red. What's the total volume now?",
+        "solution": "Let initial total be T liters.\nInitial red=0.5T, yellow=0.5T\nAdd 20 red: new red=0.5T+20\nTotal=T+20\nGiven 60% red: (0.5T+20)/(T+20)=0.6\n0.5T+20=0.6T+12\n20-12=0.6T-0.5T=0.1T\n8=0.1T => T=80 liters initially\nNow total=80+20=100 liters\n#### 100"
+    },
+    {
+        "id": 155,
+        "problem": "A car uses 15 gallons for 300 miles. How many gallons for 500 miles at same efficiency?",
+        "solution": "15 gal/300 mi=1 gal/20 mi\nFor 500 mi:500/20=25 gal\n#### 25"
+    },
+    {
+        "id": 156,
+        "problem": "A runner covers 3 miles in 30 minutes, then 2 miles in 20 minutes. What's the average pace (minutes per mile) overall?",
+        "solution": "Total distance=3+2=5 miles\nTotal time=30+20=50 min\nPace=50/5=10 min/mile\n#### 10"
+    },
+    {
+        "id": 157,
+        "problem": "A pen costs twice as much as a pencil. Together they cost $3. How much is the pencil?",
+        "solution": "Let pencil=x, pen=2x\nx+2x=3\n3x=3\nx=1\nPencil=$1\n#### 1"
+    },
+    {
+        "id": 158,
+        "problem": "A basket of fruits has apples and bananas. If apples are 3/8 of the fruits, and there are 60 bananas, how many fruits total?",
+        "solution": "Apples=3/8 * total\nBananas= remainder=5/8 * total=60\nSo 5/8 * total=60 => total=60*(8/5)=96\n#### 96"
+    },
+    {
+        "id": 159,
+        "problem": "A gym membership is $200. If a 15% discount is applied and then a 5% tax on the discounted price, how much do you pay?",
+        "solution": "15% off 200=30 off, discounted=170\n5% tax on 170=8.5\nTotal=170+8.5=178.5\n#### 178.5"
+    },
+    {
+        "id": 160,
+        "problem": "A bag has red, blue, and yellow marbles in the ratio 2:3:5. If there are 100 marbles total, how many are blue?",
+        "solution": "Ratio sum: 2+3+5=10 parts\nEach part = 100/10=10 marbles\nBlue = 3 parts = 3*10=30\n#### 30"
+    },
+    {
+        "id": 161,
+        "problem": "A store sells DVDs at $15 each or a bundle of 4 for $50. If you need 8 DVDs, how much do you save by buying bundles instead of individually?",
+        "solution": "Individually: 8*$15 = 120\nBundles: 8 DVDs = 2 bundles of 4 = 2*$50 = 100\nSavings = 120 - 100 = 20\n#### 20"
+    },
+    {
+        "id": 162,
+        "problem": "A container has 300 ml of a juice that’s 25% sugar. If you evaporate 60 ml of water, what's the new concentration of sugar?",
+        "solution": "Sugar initially: 25% of 300 = 0.25*300=75 ml sugar\nEvaporate 60 ml water, total now=300-60=240 ml\nSugar unchanged=75 ml\n% sugar=(75/240)*100% ≈ 31.25%\n#### 31.25%"
+    },
+    {
+        "id": 163,
+        "problem": "A runner covers a distance by running half at 8 mph and half at 4 mph. If the total distance is 16 miles, what's the average speed?",
+        "solution": "Half distance=8 miles each part\nTime at 8 mph:8/8=1 hr\nTime at 4 mph:8/4=2 hrs\nTotal time=3 hrs\nDistance=16 miles\nAvg speed=16/3 ≈ 5.33 mph\n#### 5.33"
+    },
+    {
+        "id": 164,
+        "problem": "You invest $3000 at 6% simple interest for 5 years. How much interest do you earn?",
+        "solution": "Simple interest = Principal*rate*time=3000*0.06*5=3000*0.3=900\n#### 900"
+    },
+    {
+        "id": 165,
+        "problem": "A store marks up a $200 item by 25%, then later offers a 25% discount on the new price. What's the final price?",
+        "solution": "Markup 25% of 200=50, new=250\nDiscount 25% of 250=62.5 off, final=250-62.5=187.5\n#### 187.5"
+    },
+    {
+        "id": 166,
+        "problem": "A recipe calls for a 2:1 ratio of flour to sugar. If you have 180 grams total, how much sugar do you need?",
+        "solution": "Ratio sum:2+1=3 parts\nEach part=180/3=60 g\nSugar=1 part=60 g\n#### 60"
+    },
+    {
+        "id": 167,
+        "problem": "You have 90 liters of a 20% solution. You add 10 liters of pure substance. What's the new percentage?",
+        "solution": "Original substance=20% of 90=18 liters\nAdd 10 liters pure = total substance=18+10=28 liters\nTotal volume=90+10=100 liters\n%=(28/100)*100%=28%\n#### 28%"
+    },
+    {
+        "id": 168,
+        "problem": "A car travels 50 miles at 25 mph and then 50 miles at 50 mph. What's the average speed over 100 miles?",
+        "solution": "Time first part:50/25=2 hrs\nTime second part:50/50=1 hr\nTotal 3 hrs\nDistance=100 mi\nAverage=100/3≈33.33 mph\n#### 33.33"
+    },
+    {
+        "id": 169,
+        "problem": "A fruit mix has apples and pears in a 3:2 ratio. If there are 75 fruits total, how many apples?",
+        "solution": "Ratio sum:3+2=5 parts\nEach part=75/5=15\nApples=3 parts=3*15=45\n#### 45"
+    },
+    {
+        "id": 170,
+        "problem": "A taxi charges $5 plus $2 per mile. If your total fare was $21, how many miles did you travel?",
+        "solution": "21=5+2*miles\n21-5=16\nmiles=16/2=8\n#### 8"
+    },
+    {
+        "id": 171,
+        "problem": "A 600 ml solution is 30% acid. You evaporate 100 ml of water. New concentration?",
+        "solution": "Acid=30% of 600=180 ml\nNew volume=600-100=500 ml\n%=(180/500)*100%=36%\n#### 36%"
+    },
+    {
+        "id": 172,
+        "problem": "You have 120 units. You spend 1/3 of them. How many remain?",
+        "solution": "1/3 of 120=40 spent\nRemaining=120-40=80\n#### 80"
+    },
+    {
+        "id": 173,
+        "problem": "A car uses 12 gallons for 240 miles. How many gallons for 300 miles at same rate?",
+        "solution": "Rate=12/240=1 gal/20 mi\nFor 300 mi=300/20=15 gallons\n#### 15"
+    },
+    {
+        "id": 174,
+        "problem": "A store mixes coffee A (at $10/kg) and coffee B (at $14/kg) in equal amounts. What's the average cost per kg?",
+        "solution": "Equal amounts means average price=(10+14)/2=12/kg\n#### 12"
+    },
+    {
+        "id": 175,
+        "problem": "A phone costs $600. It loses 20% value the first year and then 10% of its remaining value the second year. Final value?",
+        "solution": "First year:20% of 600=120 off, new=480\nSecond year:10% of 480=48 off, final=480-48=432\n#### 432"
+    },
+    {
+        "id": 176,
+        "problem": "A garden 20m by 30m. Add a 1m path around it. Total area?",
+        "solution": "New dimensions=20+2=22 by 30+2=32\nArea=22*32=704 sq.m\n#### 704"
+    },
+    {
+        "id": 177,
+        "problem": "A car travels half the distance at 40 mph and half at 80 mph. If total distance is 100 miles, average speed?",
+        "solution": "Half=50 mi each\nTime at 40 mph=50/40=1.25 hr\nTime at 80 mph=50/80=0.625 hr\nTotal=1.25+0.625=1.875 hr\nSpeed=100/1.875≈53.33 mph\n#### 53.33"
+    },
+    {
+        "id": 178,
+        "problem": "A ratio of boys to girls is 3:4. If there are 56 students total, how many are boys?",
+        "solution": "Ratio sum:3+4=7\nEach part=56/7=8\nBoys=3 parts=3*8=24\n#### 24"
+    },
+    {
+        "id": 179,
+        "problem": "An item is $200. A 10% discount, then a 5% tax on the discounted price. Final price?",
+        "solution": "10% off 200=20 off, discounted=180\n5% tax on 180=9\nTotal=180+9=189\n#### 189"
+    },
+    {
+        "id": 180,
+        "problem": "A bag is filled with candies. 30% are chocolate, 50% are hard candy, and the rest are gummy. If there are 200 candies, how many are gummy?",
+        "solution": "Chocolate: 30% of 200 = 60\nHard candy: 50% of 200 = 100\nTotal choco+hard = 160\nGummy = 200 - 160 = 40\n#### 40"
+    },
+    {
+        "id": 181,
+        "problem": "A runner completes a race by running the first half at 6 mph and the second half at 12 mph. If the total distance is 24 miles, what is the average speed?",
+        "solution": "Half distance = 24/2 = 12 miles each.\nTime for first half: 12/6 = 2 hours\nTime for second half: 12/12 = 1 hour\nTotal time = 3 hours, total distance = 24 miles\nAverage speed = 24/3 = 8 mph\n#### 8"
+    },
+    {
+        "id": 182,
+        "problem": "You invest $2500 at 4% simple interest for 3 years. How much interest do you earn?",
+        "solution": "Simple interest = P*r*t = 2500*0.04*3 = 2500*0.12 = 300\n#### 300"
+    },
+    {
+        "id": 183,
+        "problem": "A mixture is 40% sugar. You have 150 g of it. You remove 30 g of the mixture and replace it with 30 g of pure sugar. What is the new percentage of sugar?",
+        "solution": "Original sugar: 40% of 150 = 0.4*150=60 g\nRemove 30 g mixture: removes sugar in same ratio = 30 g *0.4=12 g sugar removed\nRemaining sugar=60-12=48 g\nNow add 30 g pure sugar: total sugar=48+30=78 g\nTotal mixture still 150 g\n% sugar=(78/150)*100%=52%\n#### 52%"
+    },
+    {
+        "id": 184,
+        "problem": "A car travels 100 miles at 20 mph and then 100 miles at 40 mph. What is its average speed for the 200-mile trip?",
+        "solution": "Time first 100 mi:100/20=5h\nSecond 100 mi:100/40=2.5h\nTotal 7.5h\nDistance=200\nAvg speed=200/7.5=26.666... mph\n#### 26.67"
+    },
+    {
+        "id": 185,
+        "problem": "A ratio of men to women is 5:3. If there are 64 people total, how many men are there?",
+        "solution": "Sum ratio:5+3=8 parts\nEach part=64/8=8\nMen=5*8=40\n#### 40"
+    },
+    {
+        "id": 186,
+        "problem": "A taxi charges $3 plus $1.50 per mile. If the total is $18, how many miles traveled?",
+        "solution": "18=3+1.5*miles\n18-3=15\nmiles=15/1.5=10\n#### 10"
+    },
+    {
+        "id": 187,
+        "problem": "A solution is 25% acid. You have 200 ml. You add 50 ml of water. New concentration?",
+        "solution": "Acid=25% of 200=50 ml\nTotal now=250 ml\n% = (50/250)*100%=20%\n#### 20%"
+    },
+    {
+        "id": 188,
+        "problem": "You have 300 units. You use 2/5 of them. How many remain?",
+        "solution": "2/5 of 300= (2*300)/5=600/5=120 used\nRemain=300-120=180\n#### 180"
+    },
+    {
+        "id": 189,
+        "problem": "A car uses 10 gallons for 200 miles. At same rate, how many gallons for 500 miles?",
+        "solution": "Rate=10gal/200mi=1gal/20mi\nFor 500mi=500/20=25 gallons\n#### 25"
+    },
+    {
+        "id": 190,
+        "problem": "You blend coffee at $8/kg and $12/kg in equal amounts. The mixture costs how much per kg?",
+        "solution": "Equal amounts:average=(8+12)/2=10 per kg\n#### 10"
+    },
+    {
+        "id": 191,
+        "problem": "A phone worth $800 loses 25% value first year, then 10% of the new value second year. Final value?",
+        "solution": "1st year:25% of 800=200 lost,value=800-200=600\n2nd year:10% of 600=60 lost,value=600-60=540\n#### 540"
+    },
+    {
+        "id": 192,
+        "problem": "A rectangular yard 25m by 15m. Add a path 2m wide around. Total area?",
+        "solution": "New length=25+2+2=29\nNew width=15+2+2=19\nArea=29*19=551 sq.m\n#### 551"
+    },
+    {
+        "id": 193,
+        "problem": "A driver covers half distance at 50 mph and half at 100 mph. Total distance 200 miles. Average speed?",
+        "solution": "Half dist=100 mi each.\nTime at 50 mph=100/50=2h\nTime at 100 mph=100/100=1h\nTotal 3h for 200mi\nAvg=200/3=66.67 mph\n#### 66.67"
+    },
+    {
+        "id": 194,
+        "problem": "A box has red and green balls in a 4:1 ratio. Total 50 balls. How many red?",
+        "solution": "Sum ratio:4+1=5 parts\nEach part=50/5=10\nRed=4*10=40\n#### 40"
+    },
+    {
+        "id": 195,
+        "problem": "A painter charges $100 plus $25/hour. If you pay $225 total, how many hours worked?",
+        "solution": "225=100+25*h\n225-100=125\nh=125/25=5\n#### 5"
+    },
+    {
+        "id": 196,
+        "problem": "A 500 ml solution is 20% salt. Evaporate 100 ml water. New %?",
+        "solution": "Salt=20% of 500=100 ml salt\nNew volume=400 ml\n%=(100/400)*100=25%\n#### 25%"
+    },
+    {
+        "id": 197,
+        "problem": "You have 160 units. Use 1/4. Remain?",
+        "solution": "1/4 of 160=40 used\nRemain=160-40=120\n#### 120"
+    },
+    {
+        "id": 198,
+        "problem": "A car uses 15 gallons for 300 miles. For 400 miles at same rate?",
+        "solution": "Rate=15/300=1/20 gal/mi\n400/20=20 gal\n#### 20"
+    },
+    {
+        "id": 199,
+        "problem": "A store has a 'buy one at $30, get second at half-price' deal. For 4 items?",
+        "solution": "Pair:30 + 15=45 per pair\n4 items=2 pairs=2*45=90\nBuying 4 individually:4*30=120\nDeal saves you 30, but asked final cost or how much you pay?\nIt just says: presumably how much pay? It's $90.\n#### 90"
+    }
+]

@@ -1,0 +1,1 @@
+{"id": 96, "problem": "Add the number of keys on a standard QWERTY keyboard\u2019s top row of numbers (1 through 0 =10 keys) to the number of letters in 'KEY'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'KEY'=3 letters\nNumbers 1 to 0 on keyboard top row=10 keys\n10+3=13\n#### 13", "gold_answer": "13"}

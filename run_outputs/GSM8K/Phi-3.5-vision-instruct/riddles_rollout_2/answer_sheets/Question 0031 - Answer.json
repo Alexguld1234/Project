@@ -1,0 +1,1 @@
+{"id": 31, "problem": "Multiply the number of sides on a heptagon by the number of noses on an elephant.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Heptagon sides=7, Elephant nose=1 trunk (considered as nose), 7*1=<<7*1=7>>7\n#### 7", "gold_answer": "7"}

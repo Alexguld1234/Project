@@ -1,0 +1,1 @@
+{"id": 179, "problem": "An item is $200. A 10% discount, then a 5% tax on the discounted price. Final price?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "10% off 200=20 off, discounted=180\n5% tax on 180=9\nTotal=180+9=189\n#### 189", "gold_answer": "189"}

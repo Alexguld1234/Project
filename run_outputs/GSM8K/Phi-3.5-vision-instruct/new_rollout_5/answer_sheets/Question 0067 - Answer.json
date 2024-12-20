@@ -1,0 +1,1 @@
+{"id": 67, "problem": "A hotel has 100 rooms. If 3/5 of them are occupied, how many rooms are occupied?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "3/5 of 100 = (3/5)*100 = 3*20=<<3*20=60>>60 rooms\n#### 60", "gold_answer": "60"}

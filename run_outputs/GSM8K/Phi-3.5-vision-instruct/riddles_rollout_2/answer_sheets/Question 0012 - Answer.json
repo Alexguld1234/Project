@@ -1,0 +1,1 @@
+{"id": 12, "problem": "If you take the number of letters in 'CAT', multiply by the number of wheels on a tricycle, and then subtract 2, what do you get?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'CAT' has 3 letters. Tricycle wheels=3. 3*3=9. 9-2=<<9-2=7>>7\n#### 7", "gold_answer": "7"}

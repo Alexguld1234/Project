@@ -1,0 +1,1 @@
+{"id": 136, "problem": "An investor puts $2000 in a fund that grows by 10% the first year and then loses 10% the second year. What is the final amount?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "After 1st year:10% gain on 2000=2000+200=2200\nAfter 2nd year:10% loss of 2200=2200-220=1980\n#### 1980", "gold_answer": "1980"}

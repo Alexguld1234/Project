@@ -1,0 +1,1 @@
+{"id": 126, "problem": "Multiply the number of Olympic rings (5) by the number of letters in 'RING' (4).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "5 * 4 = 20\n#### 20", "gold_answer": "20"}

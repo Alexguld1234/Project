@@ -1,0 +1,1 @@
+{"id": 157, "problem": "A pen costs twice as much as a pencil. Together they cost $3. How much is the pencil?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Let pencil=x, pen=2x\nx+2x=3\n3x=3\nx=1\nPencil=$1\n#### 1", "gold_answer": "1"}

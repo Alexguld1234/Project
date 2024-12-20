@@ -1,0 +1,1 @@
+{"id": 46, "problem": "Multiply the number of straight edges on a cube by the number of noses on three people.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "A cube has 12 edges.\nThree people =3 noses.\n12*3=36\n#### 36", "gold_answer": "36"}

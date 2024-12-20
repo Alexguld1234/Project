@@ -1,0 +1,1 @@
+{"id": 192, "problem": "A rectangular yard 25m by 15m. Add a path 2m wide around. Total area?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "New length=25+2+2=29\nNew width=15+2+2=19\nArea=29*19=551 sq.m\n#### 551", "gold_answer": "551"}

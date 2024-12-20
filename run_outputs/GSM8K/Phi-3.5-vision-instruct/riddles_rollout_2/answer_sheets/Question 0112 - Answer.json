@@ -1,0 +1,1 @@
+{"id": 112, "problem": "Add the number of letters in 'HELLO' (5) to the number of letters in 'WORLD' (5).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "5+5=10\n#### 10", "gold_answer": "10"}

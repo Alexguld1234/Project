@@ -1,0 +1,1 @@
+{"id": 23, "problem": "A car rental company charges $40 per day plus a one-time fee of $20. If John rents a car for 5 days, how much does he pay?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Daily cost = 40\nFor 5 days: 5 * 40 = 200\nPlus $20 fee: 200 + 20 = <<200+20=220>>220 dollars\n#### 220", "gold_answer": "220"}

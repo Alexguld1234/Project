@@ -1,0 +1,1 @@
+{"id": 136, "problem": "Subtract the number of letters in 'RAIN' (4) from the number of letters in 'RAINBOW' (7).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "7-4=3\n#### 3", "gold_answer": "3"}

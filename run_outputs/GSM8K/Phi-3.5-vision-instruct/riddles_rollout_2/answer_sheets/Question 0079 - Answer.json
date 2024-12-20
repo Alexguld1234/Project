@@ -1,0 +1,1 @@
+{"id": 79, "problem": "If you take the number of items in a baker\u2019s dozen (13) and subtract the number of letters in 'BREAD' (5), what\u2019s left?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "13-5=8\n#### 8", "gold_answer": "8"}

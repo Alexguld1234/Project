@@ -1,0 +1,1 @@
+{"id": 26, "problem": "What do you get if you multiply the number of letters in 'SUN' by the number of letters in 'MOON'?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'SUN'=3, 'MOON'=4, 3*4=<<3*4=12>>12\n#### 12", "gold_answer": "12"}

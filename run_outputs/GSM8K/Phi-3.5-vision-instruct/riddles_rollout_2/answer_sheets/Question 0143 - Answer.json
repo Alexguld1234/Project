@@ -1,0 +1,1 @@
+{"id": 143, "problem": "Consider the number of minutes in an hour. Subtract the number of sides on a square. Then multiply by the number of wheels on a unicycle.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Minutes in an hour=60\nSquare sides=4\n60-4=56\nUnicycle wheels=1\n56*1=56\n#### 56", "gold_answer": "56"}

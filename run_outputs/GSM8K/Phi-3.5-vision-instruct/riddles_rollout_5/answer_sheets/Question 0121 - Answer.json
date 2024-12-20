@@ -1,0 +1,1 @@
+{"id": 121, "problem": "Add the number of letters in 'WATERFALL' to the number of letters in 'FALL'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'WATERFALL' = 9 letters, 'FALL' = 4 letters\n9 + 4 = 13\n#### 13", "gold_answer": "13"}

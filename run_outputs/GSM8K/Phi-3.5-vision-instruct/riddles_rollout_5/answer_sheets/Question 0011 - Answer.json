@@ -1,0 +1,1 @@
+{"id": 11, "problem": "What is the sum of the first prime number and the number of sides on a hexagon?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "First prime:2. Hexagon sides:6. 2+6=<<2+6=8>>8\n#### 8", "gold_answer": "8"}

@@ -1,0 +1,1 @@
+{"id": 41, "problem": "Add the number of sides on a decagon (10) to the number of legs on two spiders.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Two spiders = 2*8=16 legs.\n10+16=26\n#### 26", "gold_answer": "26"}

@@ -1,0 +1,1 @@
+{"id": 127, "problem": "Subtract the number of letters in 'MOON' from the number of letters in 'PLANET'.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'MOON'=4 letters, 'PLANET'=6 letters\n6 -4 =2\n#### 2", "gold_answer": "2"}

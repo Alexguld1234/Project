@@ -1,0 +1,1 @@
+{"id": 61, "problem": "A car travels 180 miles on 6 gallons of gas. At the same rate, how many miles can it travel on 2 gallons?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Rate: 180 miles/6 gallons = 30 miles/gallon\nOn 2 gallons: 30 * 2 = <<30*2=60>>60 miles\n#### 60", "gold_answer": "60"}

@@ -1,0 +1,1 @@
+{"id": 139, "problem": "A store increases the price of a $100 item by 20%, then later decreases this new price by 20%. What is the final price?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "First increase:20% of 100=20, new price=120\nThen decrease by 20% of 120=24, final=120-24=96\n#### 96", "gold_answer": "96"}

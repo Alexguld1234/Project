@@ -1,0 +1,1 @@
+{"id": 87, "problem": "If you have a trio (3) and remove one member, how many remain?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "3-1=2\n#### 2", "gold_answer": "2"}

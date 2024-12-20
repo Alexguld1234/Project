@@ -1,0 +1,1 @@
+{"id": 58, "problem": "A packet of pencils costs $3. If you buy 10 packets, how much do you spend?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "10 * 3 = <<10*3=30>>30 dollars\n#### 30", "gold_answer": "30"}

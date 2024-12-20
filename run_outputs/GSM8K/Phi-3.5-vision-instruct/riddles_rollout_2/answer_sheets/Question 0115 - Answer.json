@@ -1,0 +1,1 @@
+{"id": 115, "problem": "Multiply the number of vowels in 'EDUCATION' by the number of oceans on Earth (5).", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'EDUCATION' vowels: E U A I O=5 vowels\n5*5=25\n#### 25", "gold_answer": "25"}

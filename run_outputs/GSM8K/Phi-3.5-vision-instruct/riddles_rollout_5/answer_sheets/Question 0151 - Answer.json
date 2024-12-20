@@ -1,0 +1,1 @@
+{"id": 151, "problem": "Take the total number of hours in 3 days. Add the number of legs on a tripod. Then subtract the number of sides on a square.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "3 days = 3*24=72 hours\nTripod legs=3\n72+3=75\nSquare sides=4\n75-4=71\n#### 71", "gold_answer": "71"}

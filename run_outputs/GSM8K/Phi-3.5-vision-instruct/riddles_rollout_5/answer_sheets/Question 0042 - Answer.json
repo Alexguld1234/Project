@@ -1,0 +1,1 @@
+{"id": 42, "problem": "Multiply the number of vowels in the word 'EQUATION' by the number of legs on a chair.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "EQUATION vowels: E, U, A, I, O =5 vowels.\nChair legs=4.\n5*4=20\n#### 20", "gold_answer": "20"}

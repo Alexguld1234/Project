@@ -1,0 +1,1 @@
+{"id": 110, "problem": "Multiply the number of angles in a pentagon by the number of angles in a quadrilateral.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Pentagon angles=5, Quadrilateral angles=4\n5*4=20\n#### 20", "gold_answer": "20"}

@@ -1,0 +1,1 @@
+{"id": 95, "problem": "Divide the number of legs on two dogs by the number of heads on one dog.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "One dog=4 legs, two dogs=8 legs.\nOne dog head=1.\n8/1=8\n#### 8", "gold_answer": "8"}

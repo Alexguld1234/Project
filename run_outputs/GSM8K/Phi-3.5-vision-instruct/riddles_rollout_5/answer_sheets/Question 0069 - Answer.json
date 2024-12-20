@@ -1,0 +1,1 @@
+{"id": 69, "problem": "Multiply the number of letters in 'MOLE' by the number of legs on a cow.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "'MOLE'=4 letters, cow has 4 legs\n4*4=16\n#### 16", "gold_answer": "16"}

@@ -1,0 +1,1 @@
+{"id": 195, "problem": "A painter charges $100 plus $25/hour. If you pay $225 total, how many hours worked?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "225=100+25*h\n225-100=125\nh=125/25=5\n#### 5", "gold_answer": "5"}

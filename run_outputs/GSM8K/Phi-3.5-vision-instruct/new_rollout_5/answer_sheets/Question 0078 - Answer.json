@@ -1,0 +1,1 @@
+{"id": 78, "problem": "A family of 4 shares a pizza cut into 16 slices equally. How many slices per person?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "16 slices /4 people= <<16/4=4>>4 slices each\n#### 4", "gold_answer": "4"}

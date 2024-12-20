@@ -1,0 +1,1 @@
+{"id": 19, "problem": "How many days are in a week plus the number of letters in the word 'DAY'?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Days in a week=7. 'DAY' has 3 letters. 7+3=<<7+3=10>>10\n#### 10", "gold_answer": "10"}

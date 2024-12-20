@@ -1,0 +1,1 @@
+{"id": 171, "problem": "A 600 ml solution is 30% acid. You evaporate 100 ml of water. New concentration?", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "Acid=30% of 600=180 ml\nNew volume=600-100=500 ml\n%=(180/500)*100%=36%\n#### 36%", "gold_answer": "36%"}

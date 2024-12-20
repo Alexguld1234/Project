@@ -1,0 +1,1 @@
+{"id": 68, "problem": "Divide the number of hours in a standard workday (8) by the number of thumbs on one human hand.", "model_completion": null, "model_answer": null, "all_model_completions": {}, "gold_solution": "One human hand:1 thumb\n8/1=8\n#### 8", "gold_answer": "8"}
